@@ -1,0 +1,11240 @@
+/
+=
+A
+ABCNN
+ABS
+ABSA
+AC
+ACE04
+ACSA
+ADAM
+ADAMAX
+ADE
+AE
+AEN
+AG
+AGGCN
+AGGCNs
+AGs
+ALM
+AMANDA
+AMN
+AOA
+AP
+APC
+AQA
+ARE
+ARSS
+AS
+AS2
+ASC
+ASNQ
+ASR
+ASTD
+ASTs
+ASVAET
+AT
+ATE
+ATIS
+ATSA
+AUC
+AVEC
+Abstracts
+Activations
+AdaDelta
+AdaGrad
+AdaRNN
+Adadelta
+Adagrad
+Adam
+Adamax
+AddOneSent
+AddSent
+AllenNLP
+Amongst
+Annotators
+Arabic
+Art
+Artetxe
+Aspect
+Attending
+Attention
+Audio
+B
+BAC
+BART
+BERT
+BGRU
+BGWA
+BIDAF
+BIES
+BIMPM
+BIO
+BIOconstraints
+BLEU
+BLSTM
+BM25
+BRNN
+BROADCAST
+Ba
+Bag
+Beaker
+Beginning
+Benefits
+Bi
+BiDAF
+BiDANN
+BiDialogueRNN
+BiGRU
+BiHDM
+BiLSTM
+BiLSTMs
+BiLSTMsoftmax
+BiMPM
+Bidirectional
+BioBERT
+BoW
+Bowman
+ByteNet
+C
+C2F
+CAEVO
+CAFE
+CASCADE
+CATENA
+CBOW
+CBT
+CCA
+CCGBank
+CFA
+CFC
+CGU
+CI
+CLINKs
+CLS
+CMN
+CMUDict
+CNN
+CNN+cLSTM
+CNNs
+CNP
+COARSE2FINE
+COCO
+CODAH
+COMPLEXQUESTIONS
+COMPQ
+CONLL
+CONVAI2
+CPU
+CR
+CRF
+CSLM
+CV
+Cache
+Caption
+Cause
+Cell
+Character
+ChemProt
+Chen
+Chinese
+Chiu
+Chunking
+Classification
+CoDL
+CoNLL
+CoNLL04
+CoQA
+CoType
+CoVe
+Code
+Collobert
+Commonsense
+Comparison
+Complex
+Comprehension
+ConceptNet
+ContextAVG
+ContextSum
+Contrast
+Contribution
+ConvNets
+Conversations
+CopyTransformer
+Cross
+D
+D1
+D2
+D3
+D4
+DA
+DAGs
+DAN
+DANN
+DBN
+DBpedia
+DCN
+DCNN
+DCR
+DCRL
+DCT
+DCU
+DD
+DE
+DECAENC
+DECAPROP
+DEEPATT
+DEP
+DFGN
+DFN
+DGCNN
+DGEM
+DGIM
+DIIN
+DJANGO
+DMN
+DMP
+DNC
+DNN
+DRCN
+DRGD
+DRNNs
+DS
+DSSM
+DSTC2
+DUC
+DailyDialog
+DecompAtt
+Deep
+Deletion
+Dependency
+Dev
+Devlin
+DiSAN
+DialogueRNN
+Dimension
+Dimensions
+Distance
+Document
+Documents
+Dozat
+Dropout
+DuReader
+Dutch
+Dyn
+E
+E2T
+EC
+EDUs
+EEG
+EER
+ELMO
+ELMo
+ELS
+ELU
+EM
+EMD
+ERAML
+ESIM
+EURNN
+EWA
+Effect
+Effectiveness
+ElimiNet
+Embeddings
+Emo2Vec
+EmoryNLP
+EmotionMeter
+En
+Encoder
+End
+English
+Ensem
+Ensemble
+EntNet
+Entailment
+Entities
+Entity2Topic
+EpiReader
+Eq
+Errors
+Evaluator
+Experiment
+Extensibility
+Extraction
+F
+F-score
+F1
+F1-score
+FABIR
+FCM
+FFN
+FLOW
+FLOWQA
+FP
+FRAGE
+FT
+FTSum
+FULL
+FVTA
+Fast
+FastQA
+FastSpeech
+Feat2s
+Feats
+Feats2s
+Feature
+Fine
+Fine-tuning
+First
+Fr
+FusionNet
+G
+G-score
+G2P
+GA
+GAN
+GANN
+GANs
+GARNN
+GAs
+GBA
+GCAE
+GCN
+GCNN
+GCNs
+GEO
+GFK
+GGNN
+GGNNs
+GLC
+GLCU
+GLUE
+GNMT
+GNN
+GORU
+GPT
+GPU
+GPUs
+GRSLR
+GRU
+GRUs
+GSCCA
+GT
+GTD
+GTRU
+GTX
+Gigaword
+GloVe
+Glove
+Google
+Gradient
+Gradients
+Graph
+Grapheme
+H
+HAPN
+HIER
+HSLN
+HasAns
+Hebrew
+Hinton
+Huffman
+Humans
+HunPos
+IAN
+IAT
+ICON
+ID
+IDF
+IE
+IEMOCAP
+IIN
+ILP
+IMDB
+IMDb
+IMN
+IR
+IT
+Importance
+Infersent
+Inside
+IntNet
+Interaction
+JCI
+JPI
+K
+K=1
+KAR
+KB
+KBs
+KET
+KLIEP
+KN5
+KV
+KeLP
+Keras
+Kernel
+Kim
+Kingma
+Knowledge
+Korean
+L
+L.D.C.
+L2
+L2-regularization
+L2regularization
+LAN
+LAPTOP
+LAS
+LC
+LCF
+LCLR
+LCNN
+LCSTS
+LDC
+LEAD1
+LET
+LINE
+LISA
+LM
+LOC2
+LR
+LSTM
+LSTMN
+LSTMNs
+LSTMs
+Label
+Lample
+Language
+Laptop
+Lasagne
+Layer
+Le
+Lead
+LeakGAN
+Learning
+LenEmb
+LexRank
+LibriSpeech
+Location
+M
+MAGE
+MAMCN
+MANAGER
+MANN
+MANNs
+MAP
+MC
+MCB
+MCFA
+MCNN
+MCTest
+MDRE
+MDREA
+MEAN
+MEDHOP
+MELD
+MEMEN
+METEOR
+METHOD
+MFCC
+MFN
+MGAN
+MHPGM
+MHSA
+MIML
+MIMLRE
+MINIMAL
+MIRA
+ML
+MLE
+MLM
+MLP
+MLPs
+MLSTM
+MMD
+MML
+MN
+MNB
+MOS
+MOSI
+MPCM
+MPED
+MPQA
+MPRC
+MQAN
+MR
+MRC
+MRE
+MRR
+MRU
+MT
+MTB
+MTL
+MULT
+MULTINLI
+MVRNN
+Machine
+Main
+Majority
+Manning
+MarMoT
+MarMot
+March
+Masque
+Matlab
+Max
+Mazajak
+MemN2N
+MemNet
+Memn2n
+Memnet
+Memory
+Mikolv
+Minitagger
+Mintz
+Mixtures
+MoE
+Model
+Models
+Momentum
+Moses
+Msap
+MultiNLI
+MultiR
+N
+N2N
+NARRATIVEQA
+NASM
+NBOW
+NCSL
+NER
+NLI
+NLL
+NLP
+NLSM
+NLTK
+NLU
+NMM
+NMT
+NN
+NNM
+NOIC
+NP
+NQ
+NQG
+NSCL
+NSE
+NSGD
+NSM
+NSML
+NTM
+NUTM
+NVDM
+NVIDIA
+NYT
+Nadam
+NarrativeQA
+Necessary
+NegBERT
+Nesterov
+Network
+Neural
+New
+NewsQA
+Nichols
+NodeDAT
+Non-Transfer
+Note
+Notice
+Nuclearity
+Number
+ON
+ONESTAGE
+ONTONOTES
+OOV
+OntoNotes
+OpenNMT
+Optimal
+Ours
+Outside
+P
+PAAG
+PBAN
+PCNN
+PCNNs
+PER
+PICO
+PIPELINE
+PMI
+PNASNet
+POS
+PPDB
+PR
+PRET
+PTB
+PV
+ParagraphVector
+Paralex
+Parameters
+Park
+Part
+Pearson
+Performance
+Pre-training
+Precision
+Predicts
+Process
+PubMed
+Py-Torch
+PyTorch
+Python
+Q
+QA
+QHierRNN
+QNLI
+QRN
+QRNs
+QS
+QUORA
+QuAC
+Question
+Questions
+R
+R.M
+R1
+RACE
+RAGF
+RAGFD
+RAGFWD
+RAM
+RAML
+RAN
+RASG
+RASOR
+RC
+RCQA
+RE
+RE2
+REL
+REMOVE
+RESIDE
+REST
+RESULTCOMPARISON
+RETAIN
+RF
+RGNN
+RL
+RM3
+RMSProp
+RNF
+RNFs
+RNN
+RNNencdec
+RNNs
+RNNsearch
+RNTN
+ROUGE
+RRC
+RRIE
+RSS
+RTE
+RUM
+RW
+RWMN
+Random
+RankGAN
+ReLU
+ReLUs
+ReSA
+ReSAN
+Reader
+ReasoNet
+ReasoNets
+Recall
+Regr
+Relation
+Relations
+RepEVAL
+Representations
+Rerank
+ResNet
+Restaurant
+Retrieval
+Reverb
+ReviewRC
+Rewrite
+RoBERTa
+Robustness
+Rocktschel
+S
+S2S
+S2SA
+S2SAR
+S2SR
+SA
+SAN
+SCIBERT
+SCIVOCAB
+SCNN
+SCST
+SD
+SDGCN
+SDOI
+SDP
+SE0714
+SEASS
+SECT
+SEDT
+SEED
+SELECTOR
+SENNA
+SER
+SEST
+SGC
+SGD
+SICK
+SLNI
+SMM
+SMT
+SNLI
+SNet
+SO
+SOTA
+SP
+SPINN
+SPTree
+SQLNET
+SQLNet
+SQS
+SQUAD
+SQuAD
+SRB
+SRILM
+SRL
+SST
+ST
+STAGG
+STFT
+STM
+STP
+STRNN
+STS
+STS2014
+SUBJ
+SVM
+SVMs
+SWAG
+SWEM
+Scheme
+Schwenk
+SciERC
+SciTail
+SearchQA
+Selects
+SemBERT
+SemEval
+SemEvalCQA
+Semi-
+Senna
+Sentence
+Sentences
+SentiHood
+SenticLSTM
+Sentiment
+Seq2Seq
+Seq2seq
+SeqGAN
+Sequence
+Shakespeare
+Sharpness
+Sherlock
+Shortcut
+Sim
+SimpleQuestions
+Single
+Situations
+Sketches
+SkipThought
+Slovene
+Smarnet
+Sogou
+Source-
+Spacy
+Speaker
+Spider
+Srivastava
+Stack
+State
+Story
+Straight
+Strict
+Struct
+SuBILSTM
+SuBiLSTM
+Sub
+Subjectivity
+Sudoku
+Sudokus
+Summaries
+Swag
+Swahili
+T
+TABSA
+TACRED
+TANDA
+TBCNN
+TBCNNs
+TBQA
+TC
+TCA
+TDLSTM
+TE
+TER
+TFN
+TGIF
+TL
+TLINKs
+TMNs
+TN
+TNet
+TOPIARY
+TPUs
+TRAIN
+TRANX
+TRANsition
+TRE
+TREC
+TRIVIAQA
+TSN
+TSSVAE
+TST
+TTS
+TWITTER
+Tagspace
+Target
+Task
+Tatoeba
+Tay
+Tensor
+TensorFlow
+Tensorflow
+Termination
+Test
+Text
+TextRank
+Texts
+Theano
+Tnt
+Tokenization
+Tokens
+Topic
+Torch
+Toward
+Training
+Transfer
+Transformer
+Transformers
+TrecQA
+Tree
+Tree-LSTM
+TreeTagger
+Treetagger
+TriviaQA
+Twitter
+TypeSQL
+UD
+ULMFiT
+ULSIF
+UNK
+UP
+UTM
+V
+VADER
+VAE
+VAEs
+VCTK
+VDCNN
+VGG
+VQA
+Vaswani
+VecAvg
+Viterbi
+W
+WAP
+WBW
+WDW
+WEAT
+WEBQA
+WER
+WFE
+WIKIDATA
+WIKIHOP
+WIKISQL
+WMT
+WORKER
+WS
+WSJ
+WT2
+WaveGlow
+Weakly
+WebQuestions
+Well
+Welling
+Weston
+Where
+Who
+WiFiNE
+WiKiQA
+WikiHop
+WikiMovies
+WikiQA
+WikiText
+Wikihop
+Wikipedia
+Wiktionary
+Word
+WordNet
+Words
+XGB
+XNLI
+XSum
+YahooCQA
+Yelp
+Yih
+Yu
+Zeiler
+[
+a.k.a
+aESIM
+abbreviation
+ability
+ablate
+ablates
+ablation
+abstraction
+accept
+access
+accommodate
+account
+accounts
+accuracies
+accuracy
+achieve
+achieves
+acquit
+act
+action
+actions
+activations
+acts
+adapt
+add
+addition
+addresses
+adjacency
+adjacent
+adjust
+adopt
+adoption
+adopts
+advances
+advantage
+advantages
+affect
+affectiveness
+affects
+afterword
+agent
+aggregate
+aggregates
+aggregation
+agreement
+aid
+aim
+aims
+al
+algorithm
+aliases
+align
+alignment
+aligns
+alleviate
+alleviates
+allow
+allows
+alternates
+alternatives
+amongst
+amount
+amplify
+analyze
+animals
+anneal
+annotates
+answer
+answers
+appear
+appends
+applicability
+application
+applies
+apply
+applys
+approach
+approaches
+architecture
+architectures
+area
+argument
+arousal
+art
+article
+articles
+aspect
+aspects
+assertions
+assessment
+assign
+assigns
+assist
+assistance
+assumption
+attaches
+attains
+attempt
+attend
+attending
+attends
+attention
+attentions
+attributes
+audio
+augment
+author
+authors
+autoencoder
+availability
+average
+averages
+avoid
+avoids
+aware
+bAb
+backpropagation
+backtranslation
+bag
+balances
+barrier
+baseline
+baselines
+basis
+batch
+batches
+batchsize
+beam
+beating
+beats
+becomes
+begin
+beliefs
+belonging
+belongs
+beneficial
+benefit
+benefits
+beta
+bi-directionality
+bi-grams
+bias
+biases
+bidirectional
+bigrams
+bimodality
+binary
+bins
+bit
+blanks
+blind
+block
+blocks
+board
+books
+boost
+boosts
+border
+bottleneck
+bottom
+bottoms
+boundaries
+boundary
+breathes
+bring
+brings
+bucket
+buckets
+build
+building
+builds
+built
+bump
+burden
+byte
+c
+cLSTM
+calculate
+calculates
+calculation
+call
+candidate
+candidates
+capability
+capacity
+capitalization
+capsule
+capsules
+caption
+captions
+capture
+captures
+carry
+case
+cases
+categories
+category
+cause
+causes
+chain
+change
+changeover
+changes
+channel
+channels
+char
+character
+characters
+checkpoint
+choice
+choose
+chooses
+chose
+chosen
+chunks
+citation
+citations
+class
+classes
+classification
+classifier
+classifiers
+classifies
+classify
+clause
+clean
+clip
+clipnorm
+clipped
+closing
+cluster
+co-attention
+co-exists
+coattention
+codalab.org/worksheets/
+code
+codes
+codewords
+coefficient
+coefficients
+coherence
+coherent
+collection
+columns
+combination
+combinations
+combine
+combines
+come
+comment
+comments
+committee
+commonsense
+community
+compare
+compares
+comparison
+compelling
+compensates
+complementary
+complexity
+component
+components
+compose
+composes
+composition
+compositionality
+compositions
+comprehend
+comprehension
+compress
+compression
+computation
+computations
+compute
+computer
+computes
+concatenate
+concatenates
+concatenation
+concentrate
+concept
+conclude
+condition
+conditioning
+conditions
+conduct
+conducts
+confidence
+configuration
+confirms
+conflate
+confliction
+confuse
+conjunction
+connect
+connection
+connections
+consideration
+considers
+consist
+consistency
+consistent
+consisting
+consists
+consolidates
+constituency
+constrain
+constrains
+constraint
+constraints
+construct
+construction
+constructs
+contain
+containing
+contains
+content
+contents
+context
+contexts
+contextualization
+continue
+contradiction
+contribute
+contributes
+contribution
+contributory
+control
+controls
+conv
+conv5
+converge
+convergence
+converges
+conversation
+conversations
+conversion
+convert
+convolution
+convolutional
+convolutions
+copy
+copying
+copyrights
+corpora
+corpus
+correct
+correctness
+correlation
+correlations
+correspond
+corresponds
+cost
+counterfactuals
+counterpart
+counterparts
+couple
+course
+covariance
+cover
+coverage
+covers
+create
+creates
+criterion
+crop
+crucial
+curve
+cutoff
+d
+data
+dataset
+datasets
+date
+dc
+deafult
+deal
+death
+decay
+decays
+decides
+decision
+decline
+decode
+decoder
+decoders
+decoding
+decompose
+decomposition
+decouples
+decrease
+decreases
+deeper
+default
+define
+degradation
+degradations
+degrade
+degrades
+deletion
+delivers
+delta
+demonstrate
+demonstrates
+denote
+denotes
+depend
+dependence
+dependencies
+dependency
+dependent
+depends
+deploys
+depreciation
+depth
+derivation
+derive
+describe
+design
+details
+detects
+determine
+detrimental
+dev
+developed
+development
+deviate
+devise
+dialog
+differ
+difference
+differences
+differs
+dilation
+dimension
+dimensionality
+dimensions
+dining
+direction
+directional
+directions
+dis
+discourse
+discrete
+discriminator
+disentangles
+distance
+distant
+distortions
+distraction
+distribute
+distribution
+distributions
+disturbance
+diversification
+diversity
+divide
+document
+documents
+domain
+domains
+dominant
+dominates
+dozen
+draw
+draws
+drop
+dropout
+dropouts
+drops
+drugs
+dub
+duration
+e.g
+ease
+economy
+edge
+edges
+effect
+effectiveness
+effects
+efficiency
+efficient
+effort
+electrode
+electrodes
+electroencephalograph
+element
+elimination
+embed
+embedding
+embeddings
+embeds
+emerge
+emoticons
+emotion
+emotions
+employ
+employs
+en-tities
+enables
+encode
+encoder
+encoders
+encodes
+encoding
+encodings
+encourages
+end
+endpoints
+enhance
+enhances
+enjoys
+enrich
+enriches
+ensemble
+ensembles
+ensures
+entailment
+entailments
+ention
+entities
+entity
+entropy
+epoch
+epochs
+equilibrium
+equips
+error
+errors
+eschews
+establishes
+estimate
+evaluate
+evaluates
+evaluation
+events
+evidence
+evident
+evolution
+evolves
+examine
+example
+examples
+exceeds
+exception
+exclude
+executes
+exemplar
+exemplars
+exhibits
+exists
+expand
+expansion
+expectancy
+expectation
+experience
+experiment
+experiments
+experts
+exploit
+exploits
+explore
+explores
+expressions
+extend
+extends
+extension
+extent
+extract
+extraction
+extracts
+extreme
+fDARN
+face
+facebookresearch/LASER
+facilitates
+factor
+factors
+facts
+fail
+fails
+faithfulness
+fall
+falls
+fares
+fashion
+fast
+fastText
+faster
+fasttext
+feature
+features
+fed
+feed
+feedback
+feeds
+fills
+filter
+filters
+find
+finds
+fine
+finetune
+finetuning
+finish
+fits
+fitting
+fix
+flexibility
+flow
+fluency
+fluent
+fly
+focus
+focuses
+fooling
+forces
+forest
+forget
+form
+forms
+formulate
+forward
+found
+fraction
+frame
+frames
+framework
+function
+functioning
+functions
+fuse
+fuses
+fusion
+future
+g
+gain
+gains
+gap
+gaps
+gate
+gates
+gazetteers
+generality
+generalizability
+generalization
+generalize
+generalizes
+generate
+generates
+generation
+generator
+github.com/pedrada88/preproc-textclassification
+github.com/rasmusbergpalm/recurrent-relationalnetworks
+goal
+gradient
+gradients
+grants
+granularity
+graph
+graph2doc
+graphs
+greedy
+gridsearch
+group
+h
+half
+halve
+halves
+hand
+handle
+handles
+happens
+harder
+head
+heads
+held
+help
+helpful
+helps
+hid
+hidden
+hierarchy
+hinting
+hints
+history
+holdout
+hop
+hops
+horizontal
+https
+human-written
+humans
+hurts
+hyperparameter
+hyperparameters
+hypothesis
+i.e
+idea
+identification
+identifies
+identify
+identity
+ignores
+illustrate
+image
+images
+imbues
+impact
+implement
+implementation
+implements
+implication
+implies
+importance
+imposes
+improvement
+improvements
+improves
+include
+inclusion
+incorporate
+incorporates
+incorporation
+increase
+increases
+increment
+index
+indicate
+indicates
+indicators
+individual
+induces
+induction
+infer
+inference
+inferences
+inferior
+infers
+influence
+influences
+information
+informative
+informativeness
+informs
+initialise
+initialization
+inject
+inner-attention
+innovations
+input
+inputs
+insert
+inserts
+instability
+instance
+instances
+intakes
+integer
+integrates
+integration
+intelligibility
+intent
+interact
+interaction
+interactions
+interest
+interface
+intermodality
+interplay
+interpolation
+interpret
+intra-attention
+intra-sentence
+intricacies
+introduce
+introduces
+introduction
+invariant
+investigate
+involves
+iterates
+iteration
+iterations
+jPDTP
+jPTDP
+join
+joining
+joint
+judge
+jumps
+justifications
+k
+keeps
+kept
+kernel
+kernels
+key
+keys
+kind
+kinds
+knowledge
+knows
+l
+label
+labels
+lack
+lacks
+lags
+language
+languages
+laptop
+latter
+layer
+layers
+lead
+leaderboard
+leads
+learn
+learning
+learns
+left
+legitimate
+lemma
+lemmas
+lemmatization
+length
+lengths
+level
+leverage
+leverages
+lexicons
+library
+librosa
+limit
+limitations
+linear
+link
+links
+liq
+list
+listener
+listwise
+literature
+localize
+locate
+locates
+location
+location1
+locations
+loglikelihood
+longer
+look
+loss
+losses
+lot
+lowercase
+lr
+lvt5
+mLSTM
+machine
+machines
+macroscale
+magnitude
+maintain
+maintains
+make
+manages
+manipulate
+map
+mapped
+mapping
+mappings
+maps
+margin
+mask
+masked
+masks
+match
+matches
+matchingaggregation
+matrices
+matrix
+maximizes
+mean
+meaning
+meanings
+means
+measure
+measures
+mechanism
+mechanisms
+mediator
+memnet
+memories
+memorizes
+memory
+mentions
+merge
+message
+method
+methods
+metrics
+micro
+mind
+mini-batch
+mini-batches
+minibatch
+minibatches
+mining
+misspellings
+mistakes
+mixture
+mixtures
+modalities
+modality
+model
+models
+modes
+modifications
+modify
+module
+modules
+momentum
+moves
+multi
+multi-hop
+multi-hops
+multi-ranges
+multi-task
+multihop
+multiple
+multiplication
+multiply
+n
+n-grams
+name
+need
+needs
+negation
+negations
+neighborhoods
+network
+networks
+neurons
+news
+ngrams
+nl
+nltk
+node
+nodes
+noise
+noisy
+non-sentence
+norm
+normalization
+note
+notice
+novel
+novelty
+number
+numbers
+object
+objective
+objectives
+objects
+observation
+observe
+observes
+obtains
+occupies
+occur
+occurrence
+occurs
+offers
+offline
+ofk
+onepass
+ones
+operate
+operates
+operating
+operations
+opinions
+opportunities
+opt
+optimization
+optimize
+optimizer
+optimizes
+option
+oracle
+order
+ordering
+organizations
+others
+oundaries
+ourselves
+outperform
+outperformes
+outperforms
+output
+outputs
+over-fitting
+overcome
+overfits
+overlap
+overtime
+p
+p-values
+pack
+pad
+pair
+pairs
+par
+paragraph
+paragraphs
+paralex
+parallel
+parallelization
+parallelize
+parameter
+parameters
+paraphrases
+parent
+parse
+parses
+part
+parties
+parts
+pass
+passage
+passages
+passes
+passing
+patience
+patterns
+paucity
+pauses
+pay
+peaks
+people
+per-formance
+percentage
+perceptron
+perform
+performance
+performances
+performs
+permute
+perplexity
+perspective
+perspectives
+perturbations
+phase
+phenomena
+phoneme
+photos
+phrase
+phrases
+pick
+pieces
+piecewise
+pipeline
+place
+platform
+plays
+plots
+plug
+point
+pointer
+pointernetwork
+points
+polarity
+policy
+populate
+population
+portion
+position
+positions
+possess
+post
+potential
+power
+practice
+pre-process
+pre-train
+pre-training
+pre-trains
+precision
+precisions
+predecessor
+predicates
+predict
+prediction
+predictions
+predicts
+preference
+prefers
+prefix
+prefixes
+premise
+prepend
+preprocess
+presence
+present
+presents
+preservation
+preserve
+preserves
+pretrain
+pretraining
+pretrains
+prevent
+prevents
+principles
+probabilities
+probability
+problem
+problems
+process
+processes
+processing
+produce
+produces
+product
+programs
+project
+projection
+promise
+prone
+propagate
+propagation
+properties
+propose
+proposes
+prospect
+proteins
+prove
+proves
+provide
+prune
+punctuations
+pure
+pursue
+push
+pushes
+put
+puts
+q
+quality
+queries
+query
+question
+questions
+ran
+random
+range
+ranges
+rank
+ranked
+ranker
+ranks
+rate
+rates
+ratio
+re-implement
+re-rank
+re-ranker
+re-rankers
+re-ranking
+reach
+reaches
+read
+reader
+readers
+reading
+reads
+reason
+reasoning
+reasons
+reattention
+recall
+receives
+rectifier
+recurrence
+recurrent
+reduces
+reduction
+refer
+reference
+refers
+reflect
+regard
+regardless
+regards
+region
+regions
+regularise
+regularization
+reinforcement
+relace
+relate
+relatedness
+relation
+relations
+relationship
+relationships
+relative
+relax
+relaxes
+relevance
+relevant
+reliability
+reliant
+relies
+relieve
+relu
+remain
+remainder
+removal
+removes
+repeat
+repetition
+replaces
+report
+reports
+represent
+representation
+representations
+require
+reshape
+resolution
+resolve
+resolves
+respect
+respond
+response
+responses
+rest
+restaurant
+restrains
+restrict
+result
+results
+retain
+retrieve
+returns
+reveal
+reveals
+reverberation
+review
+reviews
+reward
+rise
+rises
+risk
+robust
+robustness
+role
+roles
+root
+roots
+round
+routing
+rows
+rule
+rules
+run
+sample
+samples
+sampling
+sarcasm
+satisfactory
+saturate
+scaffolds
+scale
+scanning
+scenarios
+scene
+schedule
+schema
+scheme
+score
+scores
+scratch
+screen
+search
+seed
+segment
+segments
+select
+selection
+selector
+selects
+semantics
+sends
+sense
+sentence
+sentencelevel
+sentences
+sentiment
+sentiments
+separates
+seq2seq
+sequence
+sequences
+series
+serve
+server
+serves
+set
+sets
+setting
+settings
+setup
+shape
+share
+shares
+shift
+shopping
+shortcomings
+show
+showcase
+shows
+sides
+sieve
+sieves
+sigmoid
+signal
+signals
+significance
+similarity
+simple
+simpler
+simplicity
+simplify
+singlerelation
+size
+sizes
+sketch
+sketches
+skimming
+skipping
+sliding
+slot
+smile
+softmax
+solution
+solutions
+solve
+solves
+source
+sources
+space
+spacy
+span
+spans
+sparse
+speaker
+speakers
+specific
+speculate
+speech
+speed
+speeds
+speedup
+spelling
+spirit
+split
+stability
+stabllity
+stack
+stage
+stands
+start
+starts
+stat
+state
+stateof
+states
+stays
+step
+steps
+stop
+stopping
+stops
+stopwords
+storage
+store
+stores
+stories
+story
+strategy
+strength
+strengthens
+strengths
+stress
+string
+structure
+struggle
+study
+style
+styles
+stylometry
+sub-layers
+sub-model
+sub-states
+subgraph
+subject
+submissions
+submit
+subproblems
+subsamplings
+subset
+subsets
+substitute
+substructures
+subtasks
+subtraction
+subtree
+successor
+suffer
+suffers
+suffix
+suffixes
+suggest
+suggests
+sum
+summaries
+summarization
+summary
+summation
+sums
+superiority
+supervision
+supervisor
+supports
+sur-passes
+surpass
+surpasses
+sustain
+swap
+switch
+symbol
+symmetry
+synonyms
+synonymy
+syntax
+synthesis
+synthesizer
+system
+systems
+t
+table
+tablet
+tackle
+tag
+tags
+tailor
+tanh
+target
+targets
+task
+tasks
+taught
+techniques
+tells
+template
+ten
+tend
+tends
+tensor
+term
+termination
+terms
+test
+tests
+text
+texts
+theta
+thinner
+threshold
+tie
+time
+timestamp
+timesteps
+timexes
+token
+tokenisation
+tokenization
+tokenizer
+tokenizers
+tokens
+tolerance
+tool
+top
+topic
+topics
+topped
+total
+towards
+track
+train
+training
+trains
+transcripts
+transfer
+transfers
+transform
+transformation
+transformer
+transforms
+transition
+translate
+translation
+translations
+treat
+treats
+tree
+treebank
+trees
+trick
+trict
+tries
+trigger
+trigrams
+triples
+try
+tune
+tuning
+tuples
+turn
+tv-embeddings
+type
+types
+uncertainty
+unconformity
+under-performs
+underperforms
+understand
+understanding
+uniform
+uniformity
+unigrams
+unimodals
+union
+unique
+unit
+units
+unk
+update
+updates
+upwards
+usage
+use
+users
+uses
+utilises
+utility
+utilizes
+utterance
+utterances
+v
+valence
+validate
+validation
+validity
+value
+values
+vanilla
+variance
+variant
+variants
+variation
+variations
+varied
+variety
+vary
+vector
+vectors
+verifies
+verify
+version
+versions
+versus
+vertex
+video
+videos
+view
+violate
+vocabulary
+vs
+vulnerability
+w
+w.r.t
+warm
+warmup_steps
+way
+weakly
+weakness
+weaknesses
+web
+weigh
+weighs
+weight
+weights
+whereby
+wherein
+whitespaces
+width
+window
+winners
+withhold
+word
+word2vec
+wordpieces
+words
+work
+workings
+works
+world
+worth
+x
+xgboost
+xpos
+y
+yield
+yields
+y|x
+zero
+zeros
++ AS
++ L
++ LSTM
++ Message
++ POLYGLOT
++ Process
++ STP
++ pooling
+- Attention
+- CNN
+- DenseNet
+- ENT
+- FLOW
+- GRUs
+- IntNet
+- LSTM
+- LSTMs
+- Mixture
+- Models
+- RNN
+- Recurrent
+- ResNet
+- Right
+- SEP
+- SQL
+- Speech
+- TBCNN
+- Words
+- alternative
+- architecture
+- art
+- attention
+- attentions
+- baseline
+- baselines
+- center
+- classifiers
+- convolution
+- d
+- data
+- decoder
+- decoding
+- domain
+- drawbacks
+- encoder
+- end
+- event
+- features
+- fer
+- forms
+- function
+- ginning
+- grain
+- hop
+- layer
+- layers
+- learn
+- length
+- level
+- loss
+- lsent
+- matching
+- mechanism
+- method
+- model
+- modeling
+- models
+- networks
+- norm
+- ofvocab
+- options
+- parameter
+- parameters
+- performed
+- performs
+- phase
+- phoneme
+- place
+- play
+- pooling
+- propagating
+- propagation
+- query
+- question
+- s
+- samples
+- sampling
+- sequence
+- speech
+- system
+- term
+- theart
+- timex
+- toright
+- training
+- tune
+- ups
+- wise
+-answer score
+-gram sizes
+0.001 decay
+0.1 %
+0.1 labels
+0.2 points
+0.3 %
+0.3 MOSEI
+0.35 %
+0.4 %
+0.4 MOSI
+0.4 improvement
+0.49 F1
+0.5 %
+0.5 MOSI
+0.5 percent
+0.52 %
+0.62 %
+0.64 %
+0.7 %
+0.72 %
+0.78 %
+0.8 %
+0.8 percent
+0.81 %
+0.93 F1
+0.986 TB
+1 %
+1 /
+1 =
+1 e
+1 head
+1 layer
+1 m
+1 percent
+1 performance
+1 point
+1 regularization
+1 system
+1.00 %
+1.02 %
+1.02 F1
+1.03 %
+1.09 %
+1.1 %
+1.12 %
+1.13 F1
+1.16 %
+1.17 F1-score
+1.3 %
+1.3 F1
+1.31 bits
+1.33 %
+1.4 %
+1.4/1.3 gain
+1.41 %
+1.42 %
+1.45 %
+1.5 %
+1.5 F1
+1.5 times
+1.5/1.1 gain
+1.6 %
+1.66 %
+1.7 %
+1.77 %
+1.79 %
+1.8 points
+1.80 %
+1.86 %
+1.90 %
+1.92 F1
+1/38 tie
+10 %
+10 ]
+10 days
+10 epochs
+10 k
+10 steps
+10 times
+10 words
+10,000 step
+10,000 steps
+10,181 questions
+100 GPU
+100 characters
+100 dimensions
+100 examples
+100 filters
+100 iterations
+100 neurons
+100 units
+100 words
+100,000 queries
+100,000 steps
+1000 steps
+1000D wiki2vec
+100K words
+1024 filters
+1024 units
+10M bins
+11 systems
+11.0 %
+111 %
+12 GB
+12 epochs
+12 hours
+12 layers
+12 points
+12 systems
+12.7 %
+128 dimensions
+128 instances
+128 tokens
+12GB GPU
+13 %
+13 ties
+1353 sentences
+14 %
+14 En
+14.2 %
+140,000 steps
+15 %
+15 dimensions
+15 epochs
+15 languages
+15 paragraphs
+15 words
+15.0 training
+150 K
+150 d
+150 dimension
+150 k
+16 characters
+16 dimensions
+16 samples
+16 sentences
+16d vector
+17 givens
+17.51 %
+17.88 %
+170 competitors
+18 Mb
+18.2 %
+1D Convolution
+1D convolution
+1st level
+2 %
+2 =
+2 blocks
+2 days
+2 epochs
+2 heads
+2 layers
+2 norm
+2 penalty
+2 percent
+2 r
+2 times
+2 video
+2,000 batches
+2.0 %
+2.03 %
+2.1 %
+2.1 F1
+2.11 F1
+2.18 %
+2.2 %
+2.29 %
+2.3 %
+2.38 %
+2.4 %
+2.43 F1
+2.5 %
+2.5 times
+2.61 %
+2.64 F1
+2.67 %
+2.7 %
+2.8 %
+2.86 %
+2.9 %
+2.94 %
+20 %
+20 NG
+20 Newsgroups
+20 epochs
+20 evaluations
+20 hours
+20 k
+20 points
+20 samples
+200 arrays
+200 databases
+200 dimension
+200 dimensions
+200 epochs
+2000 batches
+2000 sentences
+200K iterations
+2012 optimizer
+2014 Transformer
+2014 optimizer
+2015 optimizer
+2016 SGD
+2017 dump
+2048 experts
+22 %
+23.7 %
+2400 dimensions
+25 epochs
+25 examples
+25,000 instances
+25,100 queries
+250 K
+250 steps
+256 size
+256/1024 features
+260 hours
+27.1 %
+29,926 annotations
+2dV KN
+2nd place
+2s+ att
+3 %
+3 datasets
+3 epochs
+3 hops
+3 layers
+3 model
+3 percent
+3 points
+3.0 F1
+3.1 %
+3.2 %
+3.5 %
+3.5 M
+3.5 days
+3.55 F1
+3.57 F1
+3.59 F1
+3.6 inference
+3.62 %
+3.74 times
+3.9 %
+3.9 sentences
+30 %
+30 epochs
+30 filters
+30 instances
+30 iterations
+30 k
+30 model
+30 units
+30 words
+30,000 steps
+300 dimension
+300 dimensions
+300 epochs
+300 neurons
+300 tokens
+300,000 steps
+300D Glove
+300D embeddings
+300d DCU
+300d Glove
+300d MRU
+300d embeddings
+32 experts
+32 instances
+32 steps
+32 words
+32GB GPUs
+33 givens
+340 K
+35.15 %
+36.2 %
+37 languages
+3862 sentences
+3layer BiLSTM
+3rd level
+4 %
+4 LSTMs
+4 blocks
+4 epochs
+4 factors
+4 grams
+4 points
+4.0 MOS
+4.1 %
+4.2 x
+4.3 %
+4.4 %
+4.5 %
+4.6 %
+4.7 %
+4.8 %
+40 %
+40 K
+40 epochs
+400 characters
+400 dimensions
+4000 tokens
+4096 tokens
+42 relations
+42B tokens
+43.2 %
+43.21 %
+43.6 %
+43.9 %
+450 dimensions
+48 languages
+48 words
+4th level
+4th model
+5 %
+5 E
+5 blocks
+5 classes
+5 corpus
+5 epochs
+5 layers
+5 models
+5 points
+5 runs
+5.2 points
+5.5 %
+5.84 points
+5.9 points
+50 %
+50 dimension
+50 dimensions
+50 epochs
+50 ms
+50 times
+50 units
+50 word
+500 characters
+500 dimensions
+500 epochs
+500 filters
+500,300 vector
+5000 batches
+5000 step
+500000 steps
+52 %
+52.9 %
+5215 sentences
+53.3 %
+53.4 %
+53.50 %
+53.6 %
+54 epochs
+54 treebanks
+570 k
+58 %
+6 %
+6 ROUGE
+6 epochs
+6 rotation
+6.0 points
+6.02 %
+6.3 %
+6.7 training
+6.9 inference
+600 dimensions
+600D model
+61 %
+61 m
+61.1 %
+61.5 %
+62.4 %
+62.7 %
+63.6 %
+64 steps
+64.08 EM
+64M sentences
+65 F1
+65 ]
+65.00 %
+65.4 %
+65.6 %
+65.9 %
+65536 experts
+66.0 %
+66.4 %
+67.2 %
+67.5 MRR
+68 %
+68.13 EM
+68.6 %
+69 %
+6B tokens
+7 %
+7.32 %
+7.42 %
+7.6 %
+7.9 %
+70 %
+70 hours
+70,000 steps
+70.32 F1
+70.6 %
+70.7 %
+71.2 %
+71.415 %
+72.37 F1
+72.8 %
+72.9 %
+73.0 %
+73.5 %
+73.6 %
+73.7 %
+74.9 %
+75 bytes
+75.139 EM
+75.2 %
+75.355 EM
+75.37 %
+75.8 %
+75.989 %
+76.02 %
+76.235 EM
+76.8 %
+78 F1
+79.32 %
+79.4 %
+79.5 %
+79.60 %
+79.63 %
+79.69 EM
+79.76 %
+7th place
+8 %
+8.3 %
+8.8 %
+80 %
+80.0 %
+80.160 %
+80.2 %
+80.3 %
+80.8 %
+80.89 %
+800 epochs
+81.8 %
+8192 tokens
+82 %
+82.1 %
+82.2 %
+82.23 %
+82.3 %
+82.6 %
+83.2 %
+84.056 F1
+84.1 %
+84.2 %
+84.5 %
+85 m
+85.1 %
+85.2 %
+85.3 %
+85.3 BM25
+85.4 %
+85.6 %
+85.7 %
+85.8 %
+86 %
+86.0 %
+86.1 %
+86.3 %
+86.5 %
+86.6 %
+86.73 F1
+87.0 %
+87.0 F1
+87.1 %
+87.2 %
+87.3 %
+87.4 F1
+87.5 %
+87.7 %
+88 %
+88.0 %
+88.1 %
+88.2 %
+88.3 %
+88.5 %
+88.6 %
+88.9 %
+89.0 score
+89.3 %
+89.6 %
+8e -6
+9.1 %
+9.15 %
+9.3 %
+90 %
+90 ms
+90.1 %
+90.15 %
+90.2 %
+90.43 F1
+90.92 %
+91.30 %
+91.57 %
+91.8 %
+91.87 %
+92.0 %
+92.30 %
+92.5 accuracy
+92.88 %
+94 %
+94.09 %
+94.1 %
+94.6 accuracy
+96.6 %
+97 %
+97.1 %
+97.54 %
+97.58 %
+98 %
+99 %
+99.7 %
+9x9 image
+: children
+: country
+: religion
+ABS +
+ABS model
+ABSA task
+ACE datasets
+ACE04 dataset
+ACNN framework
+ACNN model
+ACSA task
+ADAM optimizer
+AEM model
+AGGCN model
+AMANDA model
+APC task
+APC tasks
+AQSL weight
+ARE model
+AS Reader
+AS2 task
+ASC models
+ASC+ FSC
+ASNQ dataset
+ASPEC dataset
+ASPEC task
+ASTD datasets
+AT model
+ATE subtask
+ATE task
+ATSA task
+ATSM -S
+ATSM variations
+Abstractive Summarization
+Abstractive seq2seq
+Abstractive summarization
+Accuracy Trade
+Activation functions
+AdaDelta optimizer
+AdaGrad algorithm
+AdaGrad optimizer
+AdaSent performance
+Adadelta optimizer
+Adagrad optimizer
+Adam Optimizer
+Adam algorithm
+Adam method
+Adam optimization
+Adam optimizer
+Add OneSent
+Additional baseline
+Adversarial Generations
+Aggregation Layer
+Algorithmic Task
+AllenNLP library
+Amazon customers
+Ambiguity Resolution
+Answer Justification
+Answer Selection
+Answer candidates
+AoA Reader
+ArSAS dataset
+Arabic SA
+Arabic language
+Architecture impact
+Attention Heatmaps
+Attention LSTMs
+Attention Propagation
+Attention Reader
+Attentive Pooling
+Attentive Reader
+Audio Quality
+Automatic summarization
+Average Context
+BACKGROUND category
+BC5 CDR
+BERT BASE
+BERT EM
+BERT LARGE
+BERT SP
+BERT Tokenizer
+BERT base
+BERT model
+BERT paper
+BLEU score
+BLEU scores
+BM25 condition
+BM25 method
+Basic BERT
+Batch size
+Batch sizes
+Bayesian SMM
+Bayesian inference
+Beam Search
+Bi-directional GRUs
+BiDAF ++
+BiDAF baseline
+BiGRU encoders
+BiGRU units
+BiHDM method
+BiHDM model
+BiLSTM Attention
+BiLSTM layer
+BiLSTM layers
+BiLSTM method
+BiLSTM+SynFeat+ILP methods
+BiLSTM- softmax
+BioBERT v
+BioBERT v1.0
+BioScope Abstracts
+BioScope Corpus
+Biredectional LSTM
+BoW Model
+BoW representation
+Books Corpus
+ByteNet Decoder
+C2 F
+C2F module
+C2Q attention
+CAFE model
+CAFE models
+CATENA system
+CBT datasets
+CCG supertags
+CDM layer
+CMN Self
+CMN models
+CMN self
+CNN architecture
+CNN architectures
+CNN baseline
+CNN baselines
+CNN char
+CNN classifier
+CNN counterparts
+CNN dataset
+CNN datasets
+CNN decoder
+CNN decoders
+CNN encoder
+CNN filters
+CNN g
+CNN layer
+CNN model
+CNN models
+CNN representation
+CNN s
+CNN systems
+CNN t
+CNN variants
+COCO dataset
+CRF layer
+CUDA code
+CUDNN implementation
+Capacity Ceiling
+Characterlevel embeddings
+Chinese language
+Citation contexts
+Citation intent
+CoNLL04 dataset
+Code Generation
+Com Prop
+Common Crawl
+Commonsense Inference
+Composition Layer
+Concat compositions
+Conditional computation
+ContextAtt model
+Contextual utterances
+Contrastive set
+Convolutional attention
+Convolutional networks
+Copy Net
+Cross settings
+D =
+D s
+D t
+DAN encoder
+DAN models
+DCN +
+DCN decoder
+DCR model
+DCRL training
+DCU model
+DECATT char
+DECATT paralex
+DECATT word
+DIIN models
+DL regularizer
+DMN +
+DMP task
+DREC dataset
+DSTC2 dialog
+DYNET v
+Daily Mail
+Data Augmentation
+De benchmarks
+Denoise Task
+Dev set
+DiSA block
+Dialogue Generation
+Dialogue RNN
+DialogueRNN Variants
+DialogueRNN l
+DialogueRNN system
+Distant Supervision
+Diversity vs
+Doc2query method
+Document Expansion
+Document Summarization
+Document expansion
+Domain adaptation
+Dropout layer
+Dropout rate
+Dundee Corpus
+Dyn method
+Dynamic Routing
+EEG data
+EEG electrodes
+EEG signals
+ELI5 dataset
+ELMo em-beddings
+ELMo embeddings
+ELMo representation
+ELMo vectors
+EM score
+EM scores
+ENTAILMENT PREDICTION
+ESIM model
+Edges model
+Elman RNN
+Emo2 Vec
+Emo2Vec vectors
+Emotion Detection
+Emotion Recognition
+Emotion detection
+Emotion recognition
+English Gigaword
+English Wikipedia
+English datasets
+English edition
+English movies
+Ensemble Model
+Ent Net
+Entailment Generation
+Entity Mentions
+Entity Recognition
+Euclidean space
+Exact Match
+F- score
+F1 difference
+F1 score
+F1 scores
+FABIR model
+FFT Block
+FLOW mechanism
+FP16 computation
+FTRL optimiser
+FUTUREWORK category
+FVTA attention
+FVTA model
+FVTA network
+FewRel task
+Fictitious speakers
+Flickr30 k
+Forget bias
+Full Papers
+Full Stories
+G2P conversion
+GA Reader
+GA module
+GA reader
+GANs approaches
+GCN layer
+GCN model
+GCN models
+GENIA dataset
+GGNN model
+GLUE tasks
+GLoVe embeddings
+GNMT model
+GPE entity
+GPS locations
+GPU memory
+GRU cell
+GRU cells
+GRU decoders
+GRU encoder
+GRU layers
+GRU network
+GRU structure
+GRU version
+GRU weights
+GS GLSTM
+Gaussian distribution
+Gaussian distributions
+Gaussian noise
+Gaussian samples
+GeLU activations
+Generalization ability
+Generated Samples
+German Dutch
+Gigaword Corpus
+Gigaword corpus
+Gigaword dataset
+Glo Ve
+GloVe embeddings
+GloVe ones
+GloVe+ DeepMoji
+Glorot Initialization
+Glorot initialization
+Glove embeddings
+Glove vectors
+Google Colaboratory
+Google News
+Google Translate
+Graph LSTM
+Graph Network
+Graph Reachability
+Grid search
+H =
+HYPERNYM PREDICTION
+Hidden layers
+Hierarchical CNN
+Hotpot QA
+Hyper QA
+Hyperbolic space
+IARM model
+IEMOCAP dataset
+IF layer
+ILP layer
+ILP model
+IMD b
+IR ++
+IR Baseline
+IR baseline
+IWSLT14 dataset
+IWSLT14 task
+InferSent architecture
+Information Retriever
+Insurance QA
+IntNet model
+Joint Extraction
+Justification Performance
+K =
+K SELECTORs
+K decoders
+K hypotheses
+K increases
+KB QA
+KB triples
+KET SingleSelfAttn
+KET StdAttn
+KET model
+KET variants
+KL divergence
+KL weight
+Kaggle challenge
+Keras library
+Kernel sizes
+Knowledge Bases
+L layers
+L task
+L1 regularization
+L2 regulariser
+L2 regularization
+L2-regularization weight
+LAMBADA dataset
+LANGUAGE MODELLING
+LAS score
+LBJava package
+LC method
+LCF mechanism
+LM results
+LSTM +
+LSTM G
+LSTM baselines
+LSTM cells
+LSTM classifier
+LSTM classifiers
+LSTM component
+LSTM decoder
+LSTM encoder
+LSTM layer
+LSTM layers
+LSTM method
+LSTM methods
+LSTM model
+LSTM models
+LSTM network
+LSTM output
+LSTM outputs
+LSTM systems
+LSTM variants
+LSTM- CRF
+Label smoothing
+Language Generation
+Language Model
+Language Models
+Laptop categories
+Laptop category
+Laptop dataset
+Laptop datasets
+Layer normalization
+Leak GAN
+Leaky ReLU
+Learning Platform
+Left right
+Linear Time
+Logistic Regression
+M codebooks
+M parses
+M- DAN
+MACHINE COMPREHENSION
+MAGE architecture
+MAP score
+MDRE model
+MDREA models
+METEOR metrics
+MHA module
+MIRA baseline
+ML classifiers
+MLM objective
+MLP layer
+MLP layers
+MOSEI dataset
+MOSES +
+MOUD datasets
+MPCM model
+MR dataset
+MRC data
+MRC dataset
+MRE solution
+MRE task
+MRR metrics
+MRU encoders
+MRU model
+MRU models
+MS MARCO
+MSA Model
+MSCOCO dataset
+MSRVID data
+MSRVID experiments
+MTB training
+Machine Comprehension
+Machine Translation
+Machine comprehension
+Majority Vote
+Majority class
+Majority method
+Markov assumptions
+Max- mention
+Maxout layer
+Mazajak model
+Mem NNs
+Mem Net
+Memex QA
+Memory Networks
+Memory Task
+Memory cells
+Mention Recognition
+Minibatch Size
+Minibatch size
+Mixture Decoder
+Mixture Selector
+MoE layer
+MoE layers
+Mocap data
+Monte Carlo
+Morphosyntactic Tagging
+MovieQA dataset
+Mul composition
+Multi-hop Reasoning
+MultiGenre NLI
+MultiNLI benchmark
+MultiNLI dataset
+Multilingual Part
+Multiple Relations
+Multitask learning
+Multiwindow CNN
+N =
+NE annotations
+NER component
+NER embeddings
+NER features
+NER model
+NER module
+NER part
+NER tags
+NER task
+NER tasks
+NL utterances
+NLG style
+NLI model
+NLI network
+NLI objective
+NLI task
+NLL score
+NLP models
+NLP systems
+NLP task
+NLP tasks
+NLSM tasks
+NLTK Tokenizer
+NLTK toolkit
+NLU models
+NN parameters
+NNLM decoder
+NQA style
+NQG +
+NQG ++
+NQG framework
+NQG system
+NUTM converge
+NYT corpus
+Naive Bayes
+Narrative QA
+NarrativeQA benchmark
+Natural Questions
+Negation Detection
+Neural Architectures
+Neural NLU
+Neural Nets
+Neural QA
+Neural Summarization
+Neural network
+Neural networks
+News QA
+NoAns ACC
+NodeDAT regularizer
+OOV problems
+OOV vectors
+OOV words
+Open NMT
+OpenAI GPT
+Optimal performance
+Other matrices
+PBAN model
+PCA visualization
+PCT module
+PER entity
+PHYS relation
+PICO Extraction
+PMC texts
+POS embeddings
+POS feature
+POS information
+POS model
+POS n-grams
+POS tagging
+POS tags
+PTB Tokenizer
+PTB dataset
+Paragraph Vector
+Parallel LSTMs
+Parameter optimization
+Paraphrase Database
+Paraphrase Generation
+Parenthesis Task
+Path representation
+Pearson correlation
+Penn Treebank
+Performance improvement
+Pointer Net
+Pol dataset
+Policy Gradient
+Positional embeddings
+Positive sentiment
+Pre-trained embeddings
+Pre-training Emo2Vec
+Predictive Performance
+Preliminary results
+Prosodic Prominence
+Prosody prediction
+PubMed PMC
+PubMed abstracts
+PyTorch implementation
+Python library
+QA Performance
+QA dataset
+QA model
+QA pairs
+QA performance
+QA performances
+QA system
+QA systems
+QA tasks
+QNLI dataset
+QUESTION ANSWERING
+Qtype features
+QuAC dataset
+Qualitative Examples
+Quantitative Improvements
+Quasar -T
+Question Answering
+Quora dataset
+R Hx2
+RACE dataset
+RC component
+RC components
+RC model
+RE Recall
+RE task
+READING COMPREHENSION
+REINFORCE algorithm
+REST data
+RGNN model
+RL rewards
+RMSProp Optimizer
+RMSProp optimization
+RMSProp optimizer
+RMSprop algorithm
+RNN baseline
+RNN counterparts
+RNN decoders
+RNN encoder
+RNN layers
+RNN model
+RNN networks
+RNN sequence
+RNN unit
+RNN variants
+ROUGE Evaluation
+ROUGE metrics
+ROUGE results
+ROUGE score
+ROUGE scores
+RRC dataset
+RTE experiments
+RTE task
+Random Forests
+Random Search
+Rank GAN
+Re SA
+ReLU activation
+ReLU dropout
+ReLU layer
+ReLU layers
+ReLU units
+Reader Ranker
+Recall @
+Recurrent CNN
+Recurrent networks
+Recursive NNs
+Recursive networks
+Reduction layer
+Regularization Dropout
+Reinforcement Learning
+Relation Classification
+Relation Extraction
+Relation extraction
+Relation predictions
+Relaxed settings
+Representation learning
+Rerank module
+ResNet features
+Residual Dropout
+Residual LSTM
+Residual connection
+Residual vectors
+Restaurant dataset
+Retrieve module
+Rewrite module
+RoBERTa- Base
+Rotational Unit
+S2 SAR
+SA reader
+SDOI information
+SDP method
+SDP model
+SEASS model
+SEQUENCE TAGGING
+SEST approaches
+SGD optimizer
+SICK tasks
+SLQA +
+SNLI benchmark
+SNLI corpus
+SNLI data
+SNLI dataset
+SNLI leaderboard
+SOTA results
+SQL queries
+SQuAD Dataset
+SQuAD dataset
+SQuAD leaderboard
+SQuAD v1.1
+SRL embeddings
+SRL graphs
+SRL roles
+SSKIP model
+SST dataset
+STAGG architecture
+STS Benchmark
+STS14 results
+STshare methods
+SUBJ dataset
+SVM classifier
+SVM system
+SWEM model
+SWEM variants
+Saliency Detection
+Saliency Improvements
+SciCite dataset
+SciTail dataset
+Scientific Publications
+Scope Resolution
+Search QA
+SelQA datasets
+Selective Encoding
+Self Attention
+Self- attention
+SemEval Dataset
+SemEval dataset
+Semantic Parsing
+Semantic Representations
+Semantic Scholar
+Semantic Sentence
+Semantic parses
+Semantic parsing
+Sentence Classification
+Sentence Compression
+Sentence Embeddings
+Sentence Pair
+Sentence Representations
+Sentence compression
+Sentence matching
+Sentic LSTM
+Sentiment Analysis
+Sentiment Classification
+Sentiment Dependencies
+Sentiment Treebank
+Sentiment analysis
+Sentiment classification
+Sentiment information
+Separate optimization
+Seq2Seq model
+SeqGAN algorithm
+Sequence Encoder
+Sequence lengths
+Several sources
+Share decoder
+Sherlock Dataset
+Sherlock dataset
+Siamese framework
+Simple SVM
+Simple Word
+Simple word
+Single LSTM
+SkipThought vectors
+Smarnet framework
+Smarnet model
+Smile Recognition
+SoTA result
+Soft Voting
+Source2aspect attention
+Spanish Dutch
+Speaker similarity
+Speaker verification
+Special characters
+Speech naturalness
+Speech tags
+Standard LSTM
+Stanford AR
+Stanford CorNLP
+Stanford CoreNLP
+Stanford Parser
+Stanford parser
+Story Comprehension
+Strict setting
+Structural Embedding
+Student Model
+Subset selection
+Subtask B
+Subtask C
+Subtask D
+Subtask E
+Supervised training
+Syntactic Sequence
+Syntactic Trees
+T matrix
+TACRED Dataset
+TC tasks
+TD- LSTM
+TFIDF representations
+TRE model
+TREC CAR
+TSA Model
+TTS system
+Target Network
+Tensor Flow
+TensorFlow environment
+TensorFlow framework
+TensorFlow machine
+Tensorflow framework
+Tensorflow library
+Tesla K40c
+Text Categorization
+Text Classification
+Text Comprehension
+Text Generation
+Text Processing
+Text preprocessing
+Text summarization
+Textual Conversations
+Textual Entailment
+TimeML guidelines
+TitanXP GPU
+Torch library
+Traditional ILP
+Transformer TTS
+Transformer blocks
+Transformer model
+Transformer models
+TrecQA data
+TrecQA experiments
+TreeRNN architecture
+Trivia QA
+TriviaQA dataset
+TriviaQA datasets
+TriviaQA experiments
+Twitter dataset
+Two LSTMs
+Two sequences
+UNK symbol
+Universal Dependencies
+VAE model
+VAE results
+VB framework
+VCTK model
+VQA Task
+Various types
+Viterbi decoding
+Viterbi inference
+Vocab Size
+Vocabulary size
+Voice Speed
+WAP value
+WDW dataset
+WFE sub-model
+WIKIPEDIA articles
+WORKER module
+WT2 dataset
+Wasserstein distance
+Web domain
+Wiki QA
+Wiki domain
+WikiQA data
+WikiQA dataset
+Wikipedia documents
+Wikipedia dump
+Word Embedding
+Word Representation
+Word embeddings
+Word pairs
+WordPiece vocabulary
+Xavier scheme
+Zipfian distribution
+abla-tion results
+ablated models
+ablation MGAN
+ablation experiment
+ablation result
+ablation test
+absolute F
+absolute gain
+absolute improvement
+absolute increase
+absolute increases
+absolute value
+abstractive answer
+abstractive evidences
+abstractive method
+abstractive model
+abstractive models
+abstractive sequence
+abstractive summarization
+ac- count
+accelerated gradient
+accumulator value
+accuracy drop
+accuracy improvement
+accurate answers
+accurate prediction
+accurate representation
+accurate span
+action history
+activation function
+activation functions
+adapt step
+adaptive control
+adaptive optimizers
+adaptive orientation
+additional MTB
+additional answer
+additional component
+additional context
+additional contexts
+additional data
+additional features
+additional information
+additional input
+additional knowledge
+additional layer
+additional supervision
+additional tasks
+additional word
+adjacent layers
+adversarial dataset
+adversarial datasets
+adversarial framework
+adversarial inputs
+adversarial learning
+adversarial training
+adversarial way
+agg col
+aggregation part
+alignment features
+alignment input
+alignment step
+alignment vector
+alpha bands
+alphanumeric words
+alternative approach
+alternative multi-step
+ambiguity resolution
+anatomical connectivity
+annotated sentences
+annotated test
+annotation inconsistency
+anonymized entities
+answer candidate
+answer candidates
+answer extraction
+answer lengths
+answer module
+answer pairs
+answer prediction
+answer questions
+answer ranking
+answer refining
+answer selector
+answer span
+answer styles
+answer terms
+answer text
+answer texts
+answer verification
+answer verifier
+answer vocabulary
+answerable questions
+answers questions
+appreciable advantage
+appropriate parent
+appropriate question
+arbitrary layers
+arbitrary types
+architecture QANet
+architecture change
+argument spans
+arousal levels
+art architectures
+art model
+art performance
+artificial token
+aspect category
+aspect detection
+aspect embeddings
+aspect extraction
+aspect granularity
+aspect information
+aspect term
+aspect terms
+aspect touristy
+aspect words
+aspect-specific representation
+aspectlevel dataset
+aspectlevel features
+aspects polarity
+associative memory
+associative relationships
+asymmetric difference
+attention LSTMs
+attention becomes
+attention distribution
+attention dropout
+attention heatmaps
+attention kernel
+attention layer
+attention layers
+attention mechanism
+attention mechanisms
+attention model
+attention models
+attention module
+attention network
+attention outputs
+attention results
+attention scheme
+attention scores
+attention sources
+attention stage
+attention sublayer
+attention tensor
+attention vector
+attention vectors
+attention weights
+attentive LSTM
+attentive features
+attentive information
+audio files
+audio input
+audio quality
+audio samples
+audio signal
+augmentation step
+augmented version
+autoencoder structure
+auxiliary data
+auxiliary loss
+auxiliary sentence
+available download
+available embeddings
+average accuracy
+average degree
+average error
+average recall
+average value
+averaged models
+averaged scores
+bAbI dataset
+bAbI story
+bAbI tasks
+bAbi dataset
+background noise
+backward LSTM
+backward LSTMs
+backward vectors
+bag level
+base model
+base models
+baseline BM25
+baseline DCN
+baseline F
+baseline improvement
+baseline method
+baseline methods
+baseline model
+baseline models
+baseline performance
+baseline system
+baseline systems
+basic BERT
+basic LSTM
+basic RNN
+basic SVM
+basic baseline
+basic interaction
+basic meaning
+basic models
+basic version
+basis vectors
+batch normalization
+batch order
+batch size
+batch sizes
+beam search
+beam size
+benchmark datasets
+benchmark model
+beneficial computational
+best F1
+best MAP
+best P
+best accuracy
+best architecture
+best baselines
+best epoch
+best hyperparameters
+best hyperparmeters
+best model
+best models
+best oracle
+best parameters
+best performance
+best performances
+best performing
+best perplexity
+best precision
+best representation
+best result
+best results
+best scores
+best system
+best trade
+best use
+beta band
+better accuracies
+better answers
+better convergence
+better fit
+better influence
+better models
+better performance
+better performances
+better precision
+better quality
+better readability
+better representations
+better results
+better sentence
+better separates
+better speed
+bi-direction RNN
+bi-directional GRU
+bi-directional LSTM
+bi-directional LSTMs
+bi-directional architecture
+bi-hemispheric asymmetry
+bi-hemispheric discrepancy
+biLSTM layers
+biLSTM model
+bias parameter
+bias terms
+bias vectors
+bidirection LSTM
+bidirectional EntNet
+bidirectional GRUs
+bidirectional LSTM
+bidirectional LSTMs
+bidirectional attention
+bidirectional encoder
+bidirectional encoding
+bidirectional model
+bidirectional variant
+big models
+bigger FB5M
+bigger improvement
+biggest effect
+biggest improvement
+bigram features
+bigram information
+bigram model
+bimodal variants
+binary classifier
+binary label
+binary settings
+binary version
+binary word
+biomedical corpora
+biomedical domain
+biomedical literature
+biomedical tasks
+block numbers
+bottleneck component
+bottom layers
+boundaries evaluation
+boundary model
+broad range
+building blocks
+byte embeddings
+c LSTM
+c- TBCNN
+calculate alignment
+candidate answers
+candidate entities
+candidate extraction
+candidate set
+candidate span
+candidate template
+cap-tion retrieval
+capacity ceiling
+capsule layer
+capsule network
+capsule networks
+case report
+catastrophic forgetting
+categorical crossentropy
+causal relations
+certain documents
+certain emotions
+chain models
+channel size
+char model
+char- embeddings
+character RNN
+character composition
+character embeddings
+character level
+charactercomposition vector
+characterlevel LSTM
+characterlevel embedding
+characterlevel information
+characterlevel representations
+child node
+chunk size
+citation intents
+class distribution
+class imbalance
+class weights
+classical LSTM
+classification accuracy
+classification layer
+classification score
+classification task
+clause prediction
+cleaner nature
+clear advantage
+clear improvements
+clear scope
+clinical case
+cnn library
+co-attentive information
+coarse structures
+coarse summary
+code C
+code generation
+coherent response
+collective attentions
+collective knowledge
+collective reasoning
+common conditions
+common relations
+common space
+commonsense information
+commonsense knowledge
+commonsense paths
+commonsense question
+commonsense selection
+comparable accuracy
+comparable performance
+comparable result
+comparable results
+compatibility function
+compelling efficiency
+competitive alternative
+competitive baseline
+competitive edge
+competitive leaderboard
+competitive performance
+competitive re-sult
+competitive result
+competitive results
+competitive score
+competitor baselines
+competitor models
+complementary data
+complementary strengths
+complete analysis
+complete information
+complete sentences
+complex Siamese
+complex architectures
+complex document
+complex hand
+complex models
+complex questions
+complex transforms
+complicated architecture
+complicated questions
+complimentary information
+component analysis
+component removal
+component representations
+composite function
+composition function
+composition functions
+composition layer
+composition mechanism
+compositional coding
+compositional effects
+compositional model
+compositional models
+compositional representations
+comprehension QA
+comprehension model
+comprehension tasks
+compressed sentences
+compression data
+compression rate
+compromise solution
+computable features
+computational layers
+computational perspective
+compute time
+computes scores
+concatenation operation
+concept pointer
+concise enough
+conditional computation
+conditional decoder
+conditional encoding
+conditional model
+conditional probability
+conditioning input
+connected layers
+consecutive utterances
+consecutive words
+considerable improvement
+considerable margin
+consistency score
+consolidated comments
+constant rate
+constituency tree
+constituency trees
+constituent words
+content model
+content modeling
+content scores
+content selection
+content selector
+contex information
+context dependency
+context document
+context documents
+context encoding
+context information
+context lengths
+context paragraph
+context projection
+context relations
+context representation
+context representations
+context sentences
+context side
+context size
+context tensor
+context utilization
+context utterances
+context vectors
+context window
+context word
+context words
+context2target attention
+contextsensitive filters
+contextual embeddings
+contextual features
+contextual information
+contextual representation
+contextual representations
+contextual semantics
+contextual summaries
+contextual utterances
+contextual words
+continuous space
+continuous vectors
+contrastive terms
+contribute towards
+controlled comparison
+controller layer
+controller network
+conventional CNNs
+conventional GAN
+conventional GANs
+conventional seq2seq
+conventional values
+convergence rate
+conversation generation
+conversation history
+conversational history
+conversational videos
+convolution encoder
+convolution filters
+convolution layer
+convolution layers
+convolution operation
+convolution results
+convolutional architecture
+convolutional attention
+convolutional encoder
+convolutional encoders
+convolutional filters
+convolutional layer
+convolutional layers
+convolutional models
+convolutional module
+convolutional network
+convolutional networks
+convolutional unit
+copy mask
+copy mechanism
+copying words
+coreference annotation
+coreference edges
+coreference relation
+coreference relations
+correct answer
+correct answers
+correct candidate
+correct classification
+correct predicates
+correct solution
+correlation coefficient
+corresponding counts
+corresponding sentence
+cosine metrics
+cosine similarity
+coverage penalty
+critical component
+cross entropy
+cross sentence
+cross validation
+cross-attention modules
+cross-entropy loss
+cross-modal interaction
+cross-modal statistics
+cross-validation procedure
+crossattention operation
+crossentropy L
+crossentropy error
+crowd workers
+crucial role
+cue detection
+current attentions
+current model
+current position
+current state
+current token
+current utterance
+current word
+current words
+curriculum rate
+customer reviews
+d h
+d model
+d p
+d v
+d- TBCNN
+d-TBCNN model
+data augmentation
+data memory
+data modification
+data pre-processing
+data quality
+data samples
+data set
+data sets
+data size
+data sources
+data sparsity
+datasets Restaurant
+de-biased endings
+decay multiplier
+decay rate
+decay ratio
+decision boundary
+decoder CNN
+decoder models
+decoder network
+decoder output
+decoder reconstructs
+decoder stack
+decoder stacks
+decoder structures
+decoding layer
+decoding time
+deep CNN
+deep alignment
+deep architectures
+deep features
+deep fusion
+deep layers
+deep learning
+deep models
+deep networks
+deep representation
+deep topology
+deep transformation
+deeper CNN
+deeper layers
+deeper models
+deeper network
+deeper variants
+default configuration
+default configurations
+default parameters
+default settings
+default values
+degenerate output
+deletion method
+dense connection
+dense connections
+dense layer
+dense layers
+dependency embeddings
+dependency parser
+dependency relation
+dependency relations
+dependency structure
+dependency tree
+dependency trees
+dependent reading
+dependent tokens
+depth gate
+design choices
+detailed description
+detailed words
+detected entities
+dev accuracy
+dev data
+dev set
+development data
+development dataset
+development examples
+development performance
+development results
+development set
+development sets
+di erent
+dialog progression
+dialogue history
+dictionary definitions
+different behaviors
+different classes
+different combinations
+different complexity
+different contexts
+different datasets
+different designs
+different dimensions
+different domains
+different functionalities
+different granularity
+different languages
+different lengths
+different levels
+different methods
+different modalities
+different mode
+different models
+different modules
+different number
+different objective
+different parties
+different parts
+different passages
+different perspective
+different positions
+different re-rankers
+different representation
+different representations
+different subregions
+different tasks
+different templates
+different trend
+different types
+different variants
+different ways
+different words
+different z
+differential context
+differential entropy
+differentiation difficulty
+dilated convolutions
+dilated resolutions
+dilation rates
+dilation width
+dimension d
+dimension k
+dimension l
+dimension size
+dimensionality l
+direct access
+direct attention
+direct connections
+directional mask
+discourse features
+discourse markers
+discrete data
+discrete tokens
+discriminative information
+discriminative models
+discriminator network
+discussion forums
+dissimilar summaries
+distance K
+distance mask
+distancesupervised training
+distant elements
+distant groups
+distant languages
+distinct cluster
+distinct nature
+distributional representations
+diverse sequences
+diverse set
+diversification stage
+doc2 graph
+document classification
+document datasets
+document embeddings
+document expansion
+document frequencies
+document length
+document modeling
+document modelling
+document representation
+document representations
+document summarization
+document tokens
+document vector
+document words
+documented results
+documentlevel tasks
+domain RRC
+domain adaptation
+domain classification
+domain knowledge
+domainspecific embeddings
+dot product
+downstream tasks
+dramatic impact
+dramatic speedups
+drop rate
+drop word
+dropout factor
+dropout layers
+dropout method
+dropout operation
+dropout probability
+dropout rate
+dropout ratio
+dropout regularization
+dropout strategy
+dropout values
+dyadic conversations
+dynamic graph
+dynamic influences
+dynamic meta-embeddings
+dynamic programs
+dynamic steps
+e l
+earlier layers
+edge type
+effective means
+effective representations
+effective solutions
+efficient propagation
+efficient training
+elaborate features
+elaborate traversal
+elementary operation
+embedding dimensions
+embedding sizes
+embeddings layer
+emotion GRU
+emotion classes
+emotion classification
+emotion detection
+emotion recognition
+emotion representation
+emotional dynamics
+emotional semantics
+emotional trajectories
+encoder generates
+encoder module
+encoder output
+encoder stack
+end points
+end position
+end task
+end tasks
+ensemble PoE
+ensemble architecture
+ensemble classifier
+ensemble method
+ensemble model
+ensemble models
+ensemble system
+entailment generation
+entailment knowledge
+entailment recognition
+entailment score
+entailmentbased strategies
+ention layer
+entire database
+entire length
+entire model
+entire range
+entire sentence
+entire sequence
+entity boundaries
+entity embeddings
+entity encoders
+entity graph
+entity graphs
+entity identification
+entity indicators
+entity information
+entity linker
+entity linking
+entity mention
+entity mentions
+entity node
+entity pair
+entity pairs
+entity recognition
+entity recognizer
+entity representations
+entity tags
+entity type
+entity types
+entity vectors
+entity vocabularies
+entropy numbers
+equivalent derivation
+equivalent distributions
+error propagation
+error rate
+error rates
+error reduction
+essential role
+etymological links
+evaluation resources
+evaluation scheme
+evaluation scores
+evaluation time
+event pairs
+evidence aggregation
+exact match
+exact number
+excellent performance
+experimental results
+experts layer
+explain answers
+explicit guidance
+explicit semantics
+exploding problems
+expressive parameter
+extensive sets
+external cues
+external data
+external features
+external information
+external knowledge
+external memory
+external parser
+external resources
+extra representations
+extract entities
+extract relations
+extraneous count
+extrinsic signals
+factorization kernel
+factorization layer
+fair comparison
+false alignment
+fast inference
+fast processing
+fastest algorithm
+favored model
+feature ablations
+feature encodings
+feature engineering
+feature extractor
+feature extractors
+feature generator
+feature map
+feature maps
+feature model
+feature representations
+feature sets
+feature values
+feature vector
+features baselines
+feedback gates
+feedforward connections
+feedforward layers
+feedforward networks
+fewer iterations
+fewer parameters
+fifth baseline
+filter size
+filter sizes
+filtergeneration module
+final F1
+final ablation
+final action
+final answer
+final classification
+final classifier
+final details
+final graph
+final model
+final output
+final performance
+final performances
+final prediction
+final predictions
+final ranking
+final representation
+final results
+final shortcut
+final softmax
+final stage
+final state
+final step
+final word
+fine tune
+firm attention
+first network
+first observation
+first position
+first sentence
+first simplification
+first step
+first time
+first uses
+five annotators
+five blocks
+five classes
+five datasets
+five types
+fixed number
+fixing vectors
+flat CNNs
+flexible way
+flow component
+focused aspect
+formal sentences
+former approach
+forth baseline
+four blocks
+four components
+four datasets
+four directions
+four layers
+four parameters
+four parts
+framework RASG
+free GPUs
+frequency bands
+frequent aspect
+frequent occurrences
+frequent words
+full SPINN
+full context
+full dataset
+full model
+full power
+full re-ranker
+full stories
+full tree
+full trees
+further analysis
+further encourage
+further enhance
+further extends
+further finetuning
+further improvement
+further improvements
+further improves
+further increases
+further simplicity
+further support
+further use
+fuse gate
+fusion gate
+fusion layer
+fusion layers
+fusion mechanism
+fusion process
+future tokens
+fuzzy labels
+gamma band
+gamma bands
+gate activations
+gate network
+gated model
+gaze data
+gaze features
+gaze information
+gaze measures
+general aspect
+general framework
+general improvements
+general knowledge
+general purpose
+general set
+generated candidate
+generated summary
+generation process
+generation stage
+generation stages
+generative framework
+generative model
+generative models
+generator D
+generator training
+generic approach
+generic module
+github.io/ spider
+global GAN
+global GRU
+global connection
+global context
+global dependencies
+global encoding
+global inference
+global inferences
+global information
+global loss
+global normalization
+global representation
+goal tracker
+gold answers
+gold paragraphs
+golden compressions
+good accuracy
+good convergence
+good generalizability
+good performance
+good results
+good scores
+good strategy
+gradient clipping
+gradient descent
+gradient flow
+gradient norms
+gradient penalty
+gradient updates
+gradient vanishing
+gradients problem
+gradual unfreezing
+grammatical outputs
+graph description
+graph edges
+graph models
+graph representation
+graph structure
+graphical model
+great benefits
+great contribution
+greater efficiency
+greater impact
+greater multiple
+greater variance
+greatest impact
+greedy model
+greedy search
+grid search
+grid searches
+ground truth
+guided scheme
+h =
+h h
+h p
+h- LSTM
+half decay
+handcrafted features
+happiness emotion
+happy class
+hard attention
+hard cases
+hard updates
+harder datasets
+hashtag corpus
+head number
+head rotation
+head tokens
+heads N
+heads h
+heavy use
+help deal
+heuristic subtraction
+hidden activations
+hidden dimension
+hidden dimensionality
+hidden layer
+hidden layers
+hidden parameters
+hidden representation
+hidden representations
+hidden size
+hidden sizes
+hidden space
+hidden state
+hidden states
+hidden units
+hidden variable
+hidden vector
+hidden vectors
+hierarchical attention
+hierarchical fusion
+hierarchical softmax
+hierarchical structure
+hierarchylike structure
+high accuracy
+high level
+high performance
+high recall
+high value
+higher F1
+higher MRR
+higher accuracy
+higher nodes
+higher performance
+higher precision
+higher relatedness
+higher score
+higher scores
+higher spans
+highest F
+highest accuracies
+highest accuracy
+highest contribution
+highest informativeness
+highest performance
+highest score
+highway connections
+highway layer
+highway layers
+highway network
+historical attention
+historical dependencies
+historical posts
+historical utterance
+hopeful performance
+hops R
+huge drops
+huge margin
+huge superiority
+human annotators
+human answer
+human evaluation
+human input
+human judgments
+human performance
+human questions
+hybrid combination
+hybrid model
+hybrid network
+hyperparameter values
+hypothesis v
+i.e vanilla
+i7-7700 K
+image embeddings
+image feature
+image retrieval
+impactful feature
+implement experiments
+important conclusion
+important contributions
+important contributor
+important features
+important information
+important meaning
+important part
+important parts
+important word
+important words
+impressive performance
+impressive results
+improved models
+incorporation mechanism
+incorrect attendances
+incorrect location
+incorrect ones
+increment step
+independent module
+independent networks
+indirect supervision
+individual models
+individual tokens
+individual users
+individual words
+inductive biases
+inference composition
+inference gap
+inference model
+inference network
+inference parameters
+inference problem
+inference process
+inference relationship
+inference stage
+inferential links
+inferior accuracies
+information exchange
+information filters
+information flow
+information fusion
+information loss
+information networks
+information transfer
+informative interactions
+informed query
+initial convolution
+initial embeddings
+initial improvements
+initial rate
+initial ratio
+initial representations
+initial value
+initial values
+initial weight
+inject supervision
+inner mentions
+inner-sentence noise
+innersentence noise
+input depth
+input document
+input embeddings
+input encoder
+input features
+input images
+input language
+input layer
+input layers
+input level
+input pair
+input paragraph
+input question
+input representation
+input representations
+input sentence
+input sentences
+input sequence
+input sequences
+input text
+input tokens
+input vector
+input word
+input words
+inspired representation
+instance labels
+instantiated parameters
+integral information
+integrative models
+intensity words
+inter-annotator agreement
+inter-dependent information
+inter-modality relations
+inter-sentence correlations
+interaction tensor
+interactive attention
+interactive information
+interactive multitask
+interesting observation
+intermediate activations
+intermediate layers
+intermediate outputs
+intermediate representation
+intermediate step
+internal dataset
+internal structure
+interspeaker dependencies
+interval [
+intra-modality interactions
+intra-sentence attention
+intra-sequence dependency
+intractable distributions
+inverse exponential
+irrelevant entities
+irrelevant exemplars
+irrelevant information
+irrelevant words
+iteration T
+iterations T
+iterative manner
+jforest ranker
+joint approach
+joint decoding
+joint entity
+joint extraction
+joint learning
+joint model
+joint modeling
+joint models
+joint optimization
+joint performance
+joint representation
+joint setting
+joint way
+kernel size
+kernel sizes
+kernel tensor
+key competitors
+key insight
+key part
+key pieces
+knowledge base
+knowledge distillation
+knowledge entities
+knowledge graph
+l f
+l r
+label accuracy
+label distributions
+label outputs
+label sequence
+labeling rates
+language compositionality
+language generator
+language inference
+language learning
+language modality
+language model
+language modeling
+language models
+language pairs
+language representations
+language understanding
+laptop data
+laptop domain
+laptop domains
+large amount
+large amounts
+large corpus
+large depth
+large documents
+large drop
+large drops
+large extent
+large gains
+large improvement
+large improvements
+large margin
+large margins
+large model
+large number
+large numbers
+large set
+larger capacity
+larger corpora
+larger corpus
+larger datasets
+larger dimensionality
+larger graphs
+larger improvements
+larger number
+largest probability
+last ablation
+last attention
+last layer
+last timestep
+latent distribution
+latent factors
+latent features
+latent information
+latent representation
+latent representations
+latent space
+latent structure
+latent types
+latent variable
+latent variables
+layer dimension
+layer model
+layer normalization
+layer size
+layer width
+layers dimension
+leaf transformation
+learn negation
+learnable layer
+learned embeddings
+learning approach
+learning challenge
+learning method
+learning properties
+learning rate
+least performance
+left context
+length measures
+length penalty
+length regulator
+length sentence
+length vector
+less data
+less parameters
+less sentences
+lesser performance
+lexical context
+lexical cues
+lexical features
+lexical overlap
+lexico- syntactic
+lexicon features
+lightweight adaptation
+lightweight level
+likely solution
+likely yield
+limited amount
+limited extent
+linear SVM
+linear SVMs
+linear classifier
+linear classifiers
+linear combination
+linear connections
+linear decay
+linear filters
+linear function
+linear layers
+linear model
+linear projection
+linear projections
+linear transformation
+linear units
+linguistic context
+linguistic features
+linguistic knowledge
+linguistic quality
+linguistic regularization
+linguistic roles
+linguistic transformations
+linked entities
+little impact
+little influence
+local GAN
+local GRUs
+local attention
+local decoding
+local entailment
+local loss
+local minima
+local minimum
+local models
+local optima
+local optimum
+local order
+locality information
+location index
+location masking
+log frequency
+logical entailment
+logistic classifier
+logistic regression
+long conversations
+long documents
+long questions
+long tail
+longer answers
+longer generation
+longer paths
+longer sentences
+longer tasks
+lookup table
+loose comparison
+loss calculation
+loss function
+low accuracy
+low threshold
+lower F1
+lower bound
+lower cases
+lower degree
+lower perplexity
+lowest accuracy
+lowest performance
+lstm units
+m LSTM
+machine comprehension
+machine reading
+machine translation
+macro averages
+main acceleration
+main class
+main loss
+major advantage
+major boost
+major contributions
+major improvement
+majority votes
+make use
+many kinds
+many layers
+many steps
+many tasks
+many text
+many times
+many units
+mapping module
+marginal decline
+mask embeddings
+masked kernel
+massive data
+matching aggregation
+matching algorithm
+matching strategies
+matrix B
+max length
+max number
+max pooling
+maximal epochs
+maximum characters
+maximum length
+maximum loss
+maximum number
+maximum value
+maximum words
+maxout layer
+mean pooling
+meaning representations
+meaningful representations
+meaningful text
+meaningless answers
+media documents
+medical entity
+mel-spectrogram sequence
+memory capacity
+memory cell
+memory cells
+memory chains
+memory component
+memory constraints
+memory controller
+memory network
+memory networks
+memory representations
+memory slices
+merge approach
+meta network
+meta-BiLSTM model
+metadata features
+method BiDANN
+method MGAN
+method akin
+million examples
+mini-batch data
+mini-batch size
+mini-batch style
+mini-batch training
+minibatch size
+minimal set
+minimum context
+minimum length
+minor contribution
+minor impact
+minor improvements
+minor loss
+mixed objective
+mixture weights
+mixtures increases
+modality number
+modality selection
+model DRGD
+model architecture
+model capacity
+model components
+model jPTDP
+model optimization
+model outperforms
+model parameters
+model performance
+model robust
+model selection
+model size
+model structure
+model training
+model variant
+model variants
+moderate approach
+moderate lengths
+modest number
+modular architecture
+modular component
+momentum parameter
+momentum parmeters
+more attention
+more layers
+more order
+more parameters
+morphological features
+morphological information
+most RNN
+most candidate
+most cases
+most datasets
+most gain
+most help
+most instances
+most methods
+most models
+most sequences
+movie clips
+movie reviews
+movie scripts
+much information
+much performance
+mul-titask learning
+multi -task
+multi questions
+multi-adversarial version
+multi-dimensional attention
+multi-gram convolution
+multi-head attention
+multi-hop attentions
+multi-hop reasoning
+multi-instance learning
+multi-instance problem
+multi-layered encoder
+multi-paragraph setting
+multi-passage MRC
+multi-passage RC
+multi-style learning
+multi-task framework
+multi-task learning
+multi-task setting
+multi-task training
+multi-token entity
+multi-view learning
+multi-word entities
+multidomain tasks
+multihead attention
+multilayer architecture
+multilayer network
+multimodal approach
+multimodal features
+multimodal network
+multimodal scenario
+multiple attentions
+multiple contract
+multiple facts
+multiple granularities
+multiple hops
+multiple instances
+multiple labels
+multiple languages
+multiple layers
+multiple levels
+multiple pairs
+multiple passages
+multiple perspectives
+multiple pieces
+multiple ranges
+multiple relations
+multiple rounds
+multiple sentences
+multiple steps
+multiple tables
+multiple tasks
+multiple times
+multiple tokens
+multiple types
+multiplerelations extraction
+multitask model
+multiword grouping
+multiwordenhanced vectors
+mutual attention
+mutual attentions
+mutual relation
+n d
+n e
+n heads
+n hr
+n ls
+n lt
+n p
+n-gram blocks
+n-gram distribution
+n-gram features
+n-gram functionality
+n-gram representation
+natural formalism
+natural language
+natural questions
+natural safeguard
+naturalistic context
+naturalness similarity
+nccl package
+nearby groups
+necessary component
+negation detection
+negative effect
+negative examples
+negative words
+neighborhood information
+nested mentions
+nested query
+nested structure
+network architecture
+network parameters
+network sizes
+neural ASC
+neural architectures
+neural attention
+neural components
+neural methods
+neural model
+neural models
+neural network
+neural networks
+neural part
+neural question
+neural ranking
+neural re-ranker
+neural word
+neuronal activities
+neutral class
+neutral examples
+new LSTM
+new SOTA
+new architecture
+new dataset
+new end
+new framework
+new method
+new model
+new module
+new regions
+new state
+new technique
+new type
+new words
+news corpus
+news data
+news translation
+next token
+next word
+ngram subword
+nltk tokenizer
+no-answer reader
+noanswer accuracy
+noise capsules
+noisy paragraphs
+noisy words
+non-Bayesian SMM
+non-alphanumeric characters
+non-anonymized ones
+non-differentiable problem
+non-ensemble result
+non-hierarchical framework
+non-hierarchical model
+non-linear connections
+non-linear map
+non-linear mapping
+non-linear mappings
+non-neural baseline
+non-neural baselines
+non-relational questions
+non-transfer results
+nonlinear connections
+normal CNN
+normal filters
+normal word
+notable drop
+noticeable gap
+noticeable improvements
+noticeable influences
+noticeable margin
+novel RNN
+novel approach
+novel architecture
+novel class
+novel distant
+novel end
+novel extension
+novel framework
+novel kernel
+novel method
+novel model
+novel scheme
+novel sentences
+novel syntax
+novel units
+novel value
+novel way
+novel words
+numerical statistic
+numerous entities
+o SS
+object entities
+objective function
+objective loss
+obvious trend
+official leaderboard
+official ranking
+one CRF
+one attention
+one backward
+one dimension
+one entities
+one exception
+one go
+one language
+one layer
+one machine
+one mini-batch
+one pair
+one sample
+one sentence
+one word2vec
+online API
+online deployment
+open QA
+opinion entities
+opinion target
+optimal hyperparameters
+optimal parameters
+optimal trade
+optimization algorithm
+optimization function
+optimization objective
+optimization problem
+optimized end
+order inherent
+order- embeddings
+original SAN
+original data
+original dataset
+original documents
+original labels
+original layer
+original models
+original query
+original sentence
+original sentences
+original setting
+original text
+orthogonal matrices
+orthogonal matrix
+orthographic sensitivity
+other BERT
+other RNN
+other approaches
+other aspects
+other baselines
+other candidates
+other character
+other components
+other configurations
+other convolutions
+other datasets
+other dimension
+other features
+other language
+other languages
+other methods
+other models
+other parameters
+other relations
+other representations
+other researchers
+other resources
+other sentences
+other state
+other system
+other systems
+other tasks
+other variants
+other way
+other words
+outer layer
+output dimension
+output distribution
+output feature
+output layer
+output layers
+output mel-spectrograms
+output modules
+output sequence
+output summaries
+output tokens
+output vectors
+output words
+overall F
+overall improvement
+overlapped unigrams
+own parses
+own prediction
+p <
+p =
+p L
+padded lengths
+pairwise discriminator
+pairwise operation
+pairwise representations
+paragraph ranking
+paragraph vector
+paragraph vectors
+parallel blocks
+parallel data
+parallel greedy
+parallel sentences
+parallelizable computations
+parameter cost
+parameter optimization
+parameter spaces
+paraphrase data
+paraphrase generation
+paraphrase identification
+parent capsules
+parent feeding
+parse features
+parse tree
+parse trees
+partial information
+partial order
+particular task
+party GRU
+party information
+pass duration
+pass setting
+passage matching
+passage re-ranker
+passage re-ranking
+past attentions
+past tokens
+past version
+patterns systems
+peak performance
+pearson score
+penultimate layer
+people categories
+perfect score
+perform parsing
+performance boost
+performance decays
+performance declines
+performance deterioration
+performance drop
+performance fluctuates
+performance gain
+performance gains
+performance gap
+performance improvement
+performance improvements
+performance increase
+personality features
+personality indicators
+pertinence scoring
+pertinent information
+phoneme duration
+phoneme sequence
+phrase scores
+piecewise CNN
+piecewise max
+pipeline approach
+plain DRCN
+plain sequence
+plot summaries
+pointer network
+points section
+pointwise learning
+policy gradient
+policy learning
+policy network
+polyglot library
+pool5 layer
+pooling components
+popular dataset
+popular methods
+popular word
+popular words
+position embeddings
+position information
+positional embeddings
+positional encodings
+positional masks
+positional relevance
+positionaware network
+positionbased attention
+positive effect
+positive paraphrase
+positive sentences
+possible answers
+possible label
+possible pair
+possible problems
+possible questions
+possible solutions
+possible span
+possible spans
+post -training
+posterior probability
+potential correlation
+power attributes
+powerful capability
+pre-defined grammars
+pre-defined rules
+pre-processing steps
+pre-trained BERT
+pre-trained embeddings
+pre-trained model
+pre-trained vectors
+pre-trained weights
+pre-training objective
+pre-training stage
+preceding utterances
+predefined number
+predicate indicator
+predicateargument structures
+prediction accuracies
+prediction layer
+prediction layers
+prediction quality
+prediction threshold
+prediction time
+predictive performance
+predictive power
+predictive results
+preliminary experiments
+premise u
+prerequisite parts
+pretrained embeddings
+previous LSTM
+previous State
+previous approach
+previous epoch
+previous features
+previous knowledge
+previous methods
+previous model
+previous models
+previous ones
+previous questions
+previous result
+previous results
+previous state
+previous subtasks
+previous word
+previous words
+previous work
+previous works
+primal attention
+primary advantage
+primary attention
+primary feature
+primary submission
+primary system
+prior state
+prior step
+prior structure
+priori knowledge
+probability distribution
+probability p
+probability vector
+processing layers
+product attributes
+program memory
+projection layer
+promising results
+proper scheme
+proportional increase
+propose models
+prosodic annotations
+prosodic features
+prosodic prominence
+proximity strategy
+pruned trees
+psychology literature
+punctuation marks
+putative relation
+pytorch transformers
+q f
+q ma
+qe-comm feature
+qecomm feature
+quadratic number
+quality annotation
+query expansion
+query representation
+query updates
+query vector
+query word
+query words
+question answering
+question attention
+question classification
+question decoder
+question encoding
+question feature
+question generation
+question influence
+question inputs
+question lengths
+question pairs
+question part
+question representation
+question semantics
+question terms
+question types
+question word
+question words
+random Gaussians
+random candidate
+random embeddings
+random initializations
+random messages
+random points
+random sample
+random search
+random values
+randomly samples
+range [
+rank constraint
+ranking system
+rare diseases
+rare words
+rate annealing
+rate decay
+rate lr
+rate schedule
+rate warm
+rate warmup
+raw input
+raw signal
+raw text
+raw texts
+raw weights
+re-written questions
+read heads
+readability evaluator
+readability score
+reader attention
+reader comments
+reading behavior
+reading process
+reading simulator
+real data
+real ones
+real speech
+real utterances
+real vectors
+reasonable approximation
+reasonable precision
+reasonable representations
+reattention mechanism
+recall scores
+recent advances
+receptive fields
+recognize relations
+recurrent computation
+recurrent computations
+recurrent connection
+recurrent connections
+recurrent controller
+recurrent dropout
+recurrent function
+recurrent layer
+recurrent model
+recurrent models
+recurrent nature
+recurrent network
+recurrent step
+recurrent structure
+recurrent unit
+recurrent update
+recursive model
+recursive models
+recursive networks
+reduction layer
+reference sentence
+reference summaries
+refinement module
+refinement strategy
+reg value
+regression duration
+regression module
+regular DialogueRNN
+regularization constant
+regularization effect
+regularization loss
+regularization method
+regularization weight
+reinforced system
+reinforcement learning
+related nodes
+related paragraph
+relation class
+relation classification
+relation extraction
+relation extractor
+relation extractors
+relation labels
+relation mentions
+relation prediction
+relation representation
+relation types
+relational facts
+relational information
+relational network
+relational reasoning
+relative distance
+relative gain
+relative improvement
+relative improvements
+relative performance
+relative positions
+relative ranking
+relative reduction
+relative usability
+relevance values
+relevant aspects
+relevant content
+relevant facts
+relevant features
+relevant information
+relevant memories
+relevant photos
+remarkable margin
+representation learning
+representation loss
+representation sharing
+representational power
+representational transferability
+representative architectures
+research benchmark
+reset gate
+residual blocks
+residual connection
+residual connections
+residual dropout
+respective models
+response languages
+restaurant data
+restaurant domain
+retrieval effectiveness
+reversible tokenizer
+review information
+review sentence
+reward metrics
+rich information
+rich languages
+richer features
+richer information
+richer representation
+right context
+right contexts
+right hemispheres
+robust ability
+robust measure
+rotational operation
+rough sketch
+rough treatment
+ruminate layers
+runtime benchmarks
+salient information
+same ability
+same accuracy
+same amount
+same architecture
+same ballpark
+same block
+same context
+same data
+same dataset
+same dimensions
+same distribution
+same document
+same embeddings
+same forum
+same function
+same information
+same input
+same mask
+same matrix
+same number
+same parts
+same property
+same resources
+same setting
+same size
+same sketch
+same source
+same space
+same speaker
+same structure
+same tensor
+same texts
+same variance
+sarcasm detection
+sarcastic statements
+satisfactory results
+scaffold framework
+scaffold task
+scaffold tasks
+scalar feature
+scale ratio
+scientific corpus
+scientific data
+scientific domain
+scientific findings
+scientific papers
+scientific tasks
+scientific text
+scope resolution
+score drops
+score normalization
+scoring function
+search mechanism
+second approach
+second baseline
+second decoder
+second layer
+second pass
+second passes
+second position
+second result
+second scaffold
+second stage
+secondary attention
+secondary information
+selection mask
+selection task
+selection time
+selective disambiguation
+selective encoding
+selective mechanism
+self attention
+self usability
+selfattention heads
+selfattention layers
+selfattention mechanism
+semantic alignment
+semantic composition
+semantic cues
+semantic distance
+semantic embeddings
+semantic feature
+semantic graph
+semantic independence
+semantic matching
+semantic parses
+semantic parsing
+semantic perspective
+semantic relatedness
+semantic relations
+semantic relationship
+semantic relevance
+semantic representations
+semantic roles
+semantic separation
+semantic signals
+semantic similarity
+semantic space
+semi-supervised state
+sensible paraphrases
+sentence b
+sentence characteristics
+sentence classification
+sentence compression
+sentence embeddings
+sentence encoder
+sentence encoders
+sentence extractions
+sentence features
+sentence fluency
+sentence information
+sentence interpretation
+sentence length
+sentence meaning
+sentence model
+sentence modeling
+sentence pair
+sentence pairs
+sentence permutation
+sentence relatedness
+sentence representation
+sentence representations
+sentence selector
+sentence summarization
+sentence vector
+sentence vectors
+sentences increases
+sentences pair
+sentential component
+sentiment analysis
+sentiment classification
+sentiment classifier
+sentiment dependencies
+sentiment embeddings
+sentiment indicators
+sentiment interaction
+sentiment labels
+sentiment lexicon
+sentiment lexicons
+sentiment polarities
+sentiment polarity
+sentiment prediction
+sentiment score
+sentiment sources
+sentiment task
+separate modeling
+separate representations
+seq2seq architecture
+seq2seq model
+seq2seq models
+sequence encoder
+sequence generation
+sequence labeling
+sequence layer
+sequence length
+sequence lengths
+sequence model
+sequence sampling
+sequential CRF
+sequential LSTM
+sequential data
+sequential information
+sequential model
+sequential modeling
+sequential order
+sequential processing
+sequential representations
+sequential task
+seven times
+several CNN
+several categories
+several datasets
+several methods
+several models
+several tasks
+severe decline
+shallow architectures
+shallow convergence
+shallow fusion
+shallow layers
+shared parameters
+sharp attention
+sharp contrast
+short conversations
+short documents
+short phrases
+shortcut connections
+shortcutstacked encoders
+shorter answers
+shorter passages
+shorter path
+shorter paths
+shorter phrases
+shortest path
+side information
+significant T-test
+significant advance
+significant advantage
+significant boost
+significant contribution
+significant difference
+significant differences
+significant drop
+significant gain
+significant gap
+significant improvement
+significant improvements
+significant increase
+significant margin
+significant sacrifices
+significant speed
+significant test
+sim -entity
+similar architecture
+similar classifier
+similar clusters
+similar distribution
+similar gains
+similar improvements
+similar number
+similar numbers
+similar performance
+similar performances
+similar results
+similar semantics
+similarity function
+similarity matches
+similarity measure
+similarity measurement
+similarity scores
+simple LSTM
+simple QA
+simple Sudokus
+simple architectures
+simple classifier
+simple concatenation
+simple decoders
+simple encoder
+simple features
+simple graphs
+simple interpolation
+simple method
+simple modeling
+simple question
+simple use
+simpler implementation
+simpler questions
+simpler variants
+simplistic version
+single LSTM
+single context
+single document
+single edge
+single encoder
+single fact
+single jump
+single layer
+single location
+single lookup
+single machine
+single max
+single model
+single models
+single questions
+single relation
+single scalar
+single sentence
+single state
+single step
+single system
+single task
+single token
+six sets
+six techniques
+size increases
+size l
+sketch encoder
+skip connection
+skip window
+skipthought baseline
+sliding window
+slight decrease
+slight improvement
+slight increment
+slot types
+small TREC
+small amount
+small batch
+small datasets
+small fraction
+small graph
+small improvements
+small increment
+small latency
+small size
+small subset
+smaller TREC
+smaller dataset
+smaller number
+smaller quantities
+smaller universe
+smaller values
+soft alignment
+soft attention
+soft constraints
+soft pruning
+soft templates
+softmax activation
+softmax classifier
+softmax function
+softmax layer
+sophisticated region
+source context
+source document
+source information
+source network
+source positions
+source sentence
+source sentences
+source sequence
+source task
+source text
+source texts
+source word
+source words
+spa Cy
+spaCy tool
+spaCy toolkit
+span encoder
+span model
+span representations
+span scores
+spanlevel FFNN
+sparse combination
+sparse dependencies
+sparse mixture
+sparse representations
+speaker characteristics
+speaker conditioning
+speaker modeling
+speaker state
+speakers information
+special characters
+special tokens
+specific methods
+specific properties
+speech signal
+speech synthesis
+speedup solver
+spurious options
+stable improvement
+stack LSTMs
+stacked encoder
+standard BIOES
+standard Tranformer
+standard TreeRNNs
+standard attentions
+standard deviation
+standard hyperparameters
+standard regularizations
+standard settings
+standard tool
+standard training
+state size
+static attention
+static representation
+statistical significance
+steeper slope
+stochastic dropout
+stochastic estimation
+stopping technique
+storage language
+story understanding
+straightforward way
+strict settings
+strong LSTM
+strong baseline
+strong baselines
+strong boost
+strong interactions
+strong performance
+strong performer
+strong promise
+strong results
+stronger flexibility
+stronger performances
+strongest baseline
+structural embeddings
+structural information
+structural scaffolds
+structured perceptron
+stumbling point
+style attention
+style question
+stylistic languagemodel
+subbatch u
+subjectindependent settings
+sublayer l
+subsentential scale
+subsequent layer
+subsequent positions
+subsequent step
+subset selection
+substantial drop
+substantial gains
+substantial improvement
+substantial improvements
+substantial margin
+subtitle sentences
+subtle differences
+sufficient information
+suffix representations
+suitable hyperparameters
+sum objective
+summarization approaches
+summarization framework
+summarization generation
+summarization model
+summarization performance
+summarization system
+summary decoder
+summary length
+summary representation
+superior method
+superior performance
+supervised IE
+supervised training
+supplementary knowledge
+supplementary scheme
+supplementary texts
+support documents
+surface features
+surprising degree
+syntactic dependency
+syntactic embeddings
+syntactic features
+syntactic information
+syntactic parse
+syntactic path
+syntactic relations
+syntactic tagging
+syntactic tree
+syntactic trees
+synthetic data
+synthetic questions
+synthetic speaker
+synthetic utterances
+system combination
+t- test
+table encoder
+tag sequence
+tags sequence
+tanh non-linearity
+tanh units
+target aspect
+target aspects
+target corpus
+target data
+target dataset
+target domain
+target domains
+target embeddings
+target entities
+target expressions
+target information
+target languages
+target network
+target phrase
+target position
+target relation
+target relations
+target representation
+target samples
+target sequence
+target sequences
+target signals
+target summaries
+target task
+target text
+target utterance
+target word
+target words
+target2context attention
+task discrepancy
+task inputs
+task knowledge
+task module
+taskspecific modifications
+taxonomy relations
+teacher model
+temperature parameter
+temporal attention
+temporal correlation
+temporal entities
+temporal links
+temporal order
+temporal processing
+temporal relations
+temporal rule
+ten languages
+termination gate
+termination state
+test accuracies
+test accuracy
+test data
+test datasets
+test error
+test examples
+test instances
+test performance
+test perplexity
+test scores
+test set
+test sets
+test stages
+test time
+test utterance
+text categorization
+text classification
+text comprehension
+text data
+text features
+text generation
+text infilling
+text input
+text inputs
+text processing
+text representation
+text sequences
+text simplification
+text spans
+text summarization
+text transcript
+textual context
+textual conversations
+textual data
+textual entailment
+textual entiailment
+textual evidence
+textual modality
+textual semantics
+third baseline
+third position
+third samples
+three LSTMs
+three annotations
+three categories
+three components
+three datasets
+three distributions
+three epochs
+three factors
+three filters
+three methods
+three modalities
+three models
+three modules
+three parts
+three points
+three scores
+three segments
+three sentences
+three settings
+three sources
+three tasks
+three types
+three variants
+three versions
+threeannotator consensus
+threephase task
+threshold value
+time domain
+time expressions
+time step
+time steps
+time t
+timing experiments
+tiny improvement
+token embeddings
+token features
+token properties
+token reembeddings
+token t
+tokenized tokens
+tokenspecific attentions
+top method
+top system
+topic identification
+topic vector
+topic vectors
+topical consistency
+toplayer classifier
+topological ordering
+topological structure
+total likelihood
+total number
+tracking LSTM
+traditional RNNs
+traditional distantsupervision
+traditional feature
+traditional methods
+traditional models
+traditional web
+trainable variables
+trainable weights
+trained models
+training complexity
+training corpora
+training corpus
+training data
+training efficiency
+training epochs
+training examples
+training framework
+training loss
+training method
+training objective
+training phase
+training procedure
+training process
+training sequences
+training set
+training sizes
+training speakers
+training spends
+training steps
+training time
+transfer learning
+transfer pairs
+transfer performance
+transfer quality
+transfer results
+transfer tasks
+transformation matrices
+transition pattern
+transitional scale
+transitive reasoner
+transitivity constraints
+translation performance
+translation tasks
+tree consisting
+tree kernels
+tree node
+tree structures
+tri-modal inputs
+trimodal network
+trivial step
+true answer
+true tokens
+twelve methods
+twitter dataset
+two AEs
+two CNNs
+two GRUs
+two LSTMs
+two RNF
+two addends
+two attention
+two baselines
+two components
+two copies
+two datasets
+two days
+two dependencies
+two dimensions
+two domains
+two enhancements
+two entities
+two epochs
+two hemispheres
+two heuristics
+two implementations
+two items
+two labels
+two layers
+two locations
+two losses
+two methods
+two metrics
+two models
+two networks
+two nodes
+two orders
+two pairs
+two paragraphs
+two percent
+two programs
+two representations
+two sentences
+two sequences
+two sets
+two sieves
+two sources
+two speakers
+two stages
+two state
+two strategies
+two styles
+two sub-layers
+two tasks
+two types
+two units
+two variations
+two vectors
+two ways
+two words
+type labels
+typical case
+typical distant
+u v
+ultimate performance
+unanimous consensus
+unanswerable questions
+unaugmented sequence
+unboosted query
+uncased alternative
+uncased version
+unconstrained models
+understanding stories
+undirected relations
+ungrammatical text
+uni-modality inputs
+uni-skip model
+unidirectional GRUs
+unidirectionality constraint
+unified representation
+uniform distribution
+uniformity extent
+unigram model
+unique words
+unitary matrices
+universal representations
+unknown ones
+unknown words
+unlabeled corpora
+unlabeled corpus
+unlabeled data
+unlabeled words
+unlabelled pairs
+unmasked setting
+unmasked versions
+unparsed sentences
+unsatisfactory results
+unseen sequences
+unseen speakers
+unstructured text
+unsupervised NMT
+unsupervised VAE
+unsupervised framework
+unsupervised model
+unsupervised representation
+unsupervised representations
+unsupervised style
+unsupervised version
+untranscribed speech
+unusual presentation
+update gates
+update procedure
+update vector
+upgraded version
+upper layers
+upper level
+upper-bound frequency
+uppermost layer
+use gazetteers
+useful information
+user embeddings
+user profiling
+utterance context
+utterance features
+utterance histories
+utterance sequence
+validation accuracy
+validation data
+validation loss
+validation performance
+validation perplexity
+validation set
+validation sets
+validity scores
+valuable information
+vanilla CNN
+vanilla LM
+vanilla NTM
+vanilla RNN
+vanilla approach
+variable character
+variable memory
+variant attention
+variational autoencoder
+variational dropout
+variational inference
+varied values
+various aspects
+various parts
+various scales
+vector combination
+vector dimension
+vector dimensions
+vector gate
+vector gates
+vector representation
+vector representations
+verification model
+visual features
+visual information
+visual modality
+visual side
+visual text
+visualsemantic hierarchy
+vital role
+vocabulary OOV
+vocabulary link
+vocabulary size
+vocabulary words
+voice speed
+w =
+w/o position
+w/o transfer
+weak supervision
+web domain
+web snippets
+weight decay
+weight dropout
+weight initialization
+weight matrices
+weight matrix
+weight normalization
+weight parameters
+weight transfer
+weighted sum
+weighting scheme
+whole dataset
+whole network
+whole passage
+whole sentence
+wide margin
+wide range
+wider architecture
+wider ones
+wikipedia domain
+window size
+window sizes
+word case
+word coefficients
+word compositionality
+word distributions
+word dropout
+word embedding
+word embeddings
+word features
+word level
+word model
+word models
+word order
+word overlap
+word pairs
+word position
+word positions
+word relations
+word repeating
+word representation
+word representations
+word sequence
+word sequences
+word shape
+word tokenizer
+word unigrams
+word vector
+word vectors
+word w
+word2 vec
+word2vec tool
+wordfrequency estimation
+wordlevel information
+wordlevel representations
+words features
+words model
+world states
+worse F1score
+worse performance
+worse result
+worse results
+worst performance
+worst performances
+worst results
+write head
+write operations
+x t
+xavier initialization
+xed steps
+zero loss
+zero mean
+zero values
+zero vectors
+- + Message
+- - Vocabulary
+- - art
+- - arts
+- - aspect
+- - attention
+- - context
+- - domain
+- - end
+- - left
+- - means
+- - right
+- - speech
+- - vocabulary
+- - words
+- 0.113 CMOS
+- 0.325 CMOS
+- 10.5 points
+- 2 LSTMp
+- 2000 dataset
+- 34 %
+- 5 hours
+- 8 x
+- CNN model
+- DECATT char
+- Entity Recognition
+- Experts Layer
+- F1 scores
+- GPU setup
+- GRU architecture
+- GRU encoder
+- GRU model
+- Information Retrieval
+- LSTM FREQBIN
+- LSTM models
+- LSTM output
+- Max Encoder
+- Memory Networks
+- Phoneme Conversion
+- QA system
+- RNN models
+- Relation Extraction
+- SNE visualization
+- SRL model
+- Sequence Pre-training
+- Speech Synthesis
+- answer accuracy
+- art feature
+- art models
+- art performance
+- art results
+- art systems
+- attention layers
+- attention mechanism
+- attention model
+- attention network
+- aware attention
+- aware target
+- batch iteration
+- batch size
+- context attention
+- decoder architecture
+- decoder architectures
+- decoder layers
+- dependency layer
+- domain data
+- domain setting
+- domain task
+- emotional influences
+- end Sequence
+- end approach
+- end fashion
+- end framework
+- end manner
+- end model
+- end models
+- end structure
+- end text
+- ensemble model
+- entity evaluation
+- expand layers
+- feedback LSTM
+- forward connections
+- forward networks
+- free counterpart
+- grain reasoning
+- gram model
+- hop setting
+- latent space
+- layer perceptron
+- length vector
+- less features
+- less sequence
+- level representations
+- linear model
+- m LSTM
+- matching layer
+- matching network
+- metric score
+- neural architecture
+- neural model
+- neural network
+- norm approach
+- norm method
+- norm model
+- normalization objective
+- ofdomain data
+- ofvocabulary words
+- ofwords representation
+- path information
+- point manner
+- pooling operation
+- program memory
+- propagating gradients
+- propagation algorithm
+- range relations
+- recurrent layers
+- recurrent network
+- right context
+- sentence token
+- sequence framework
+- sequence model
+- sequence models
+- sharing constraint
+- signaling words
+- size features
+- specific knowledge
+- speech tag
+- speech tagger
+- speech tags
+- task learning
+- term dependencies
+- text comprehension
+- text documents
+- theart ESIM
+- theart approaches
+- theart record
+- theart results
+- tion performance
+- training data
+- transition level
+- translation data
+- validation set
+- view interactions
+- vocabulary words
+- wise attention
+- wise representations
+- word Models
+- word attention
+- word matching
+- word model
+- word models
+- word perspective
+- word representations
+- word translation
+- words approach
+/ ELMo +
+/ o GT
+/ right contexts
+0 - Ans
+0 < p
+0.0005 0.0001 ]
+0.001 0.001 ]
+0.001 0.015 ]
+0.001 1 =
+0.01 0.01 ]
+0.05 % improvement
+0.1 0.1 ]
+0.2 % improvement
+0.2 million instances
+0.2-0.5 % improvement
+0.3 % point
+0.5 percent accuracy
+0.5 percentage points
+0.5x 1.5 x
+0.6 % points
+0.6 F1 measure
+0.6 absolute points
+0.65 F1 points
+0.7 % improvement
+0.700 0.740 ]
+0.708 0.749 ]
+0.714 0.746 absolute
+0.718 0.764 absolute
+0.78 % ROUGE
+0.8 % improvement
+0.8 % improvements
+0.8 % points
+0.8/1.2/1.0 0.76/1.13/1.15 points
+0.9 % drop
+0.9 percentage point
+0.96 % improvement
+0.98 % ROUGE
+1 % WER
+1 - Ans
+1 - norm
+1 - score
+1 ... n
+1 3 ,5
+1 M steps
+1 k data
+1 k dataset
+1 k datasets
+1 l L
+1 p L
+1 point gain
+1 points increase
+1 speaker state
+1 x t
+1,720 dimensional vector
+1.0 % improvement
+1.02 million instances
+1.1 % absolute
+1.1 % improvement
+1.1 inexact match
+1.1 point advantage
+1.1 point margin
+1.14 M papers
+1.2 % improvement
+1.2 percentage point
+1.3 % improvement
+1.3 1.2 points
+1.4 percentage point
+1.5 % F
+1.5 % gain
+1.5 M parameters
+1.68 0.96 points
+1.8 % improvement
+1.9 M vocab
+10 22 %
+10 convolutional layers
+10 k dataset
+10 k steps
+10 primary submissions
+100 - dimensional
+100 1D filters
+100 K dataset
+100 K steps
+100 feature maps
+100 hidden units
+100 one dimensional
+1000 hidden units
+100D 300D model
+100d GloVe vectors
+101 k words
+1024 300 units
+11,855 single sentences
+11.1 11.5 F1
+12 GB memory
+12,000 case reports
+12.8 M examples
+1230 different speakers
+127 contrastive images
+128 hidden units
+128 sentence pairs
+14 % F1
+15.4 % EM
+150 hidden units
+150 training epochs
+151 k words
+16 20 %
+16.3 % F1
+165 18 hands
+17 givens puzzles
+17.2 % w.r.t
+17.54 F1 score
+18 % F1
+18 % papers
+19.88 % WER
+2 % accuracy
+2 % decrease
+2 % gap
+2 - grams
+2 - layer
+2 - way
+2 2 pixels
+2 5 ]
+2 L recall
+2 d M
+2 layer LSTMs
+2 memory heads
+2 million examples
+2 s+ att
+2,241 SWAG questions
+2.0 + %
+2.05 BLEU improvement
+2.1 % acc
+2.1 percent absolute
+2.4 % improvements
+2.4 M entities
+2.5 + %
+2.5 F1 points
+2.6 % F1
+2.6 million parameters
+2.7 percentage points
+2.77 % accuracy
+2.8 + %
+2.8 million words
+2.9 % MAP
+20 % boost
+20 Newsgroups dataset
+20 hidden nodes
+200 example subset
+200 hidden units
+200 k words
+200 training epochs
+200,189 dimension vector
+2015 Stanford system
+21 84 %
+215,154 unique phrases
+24 % reduction
+2400 GRU units
+25 % dropout
+25 35 dimensions
+2n e layers
+3 % contribution
+3 % improvement
+3 % point
+3 - way
+3 CNN models
+3 dense blocks
+3 hidden layers
+3 human judges
+3 points difference
+3 public datasets
+3.0 % F1
+3.1 % EM
+3.2 % F1
+3.3 percentage points
+3.31 % improvement
+3.52 % WER
+30 39 treebanks
+30 residual blocks
+300 - D
+300 - dimension
+300 - dimensional
+300 dimensional units
+300 hidden units
+300d LSTM model
+32 batch size
+32 feature maps
+32d character representation
+34 40 treebanks
+35.1 % accuracy
+4 % improvement
+4 - way
+4 240 annotations
+4 3 conv5
+4 6 benchmarks
+4 BiLSTM layers
+4 Transformer models
+4 reversed LSTMs
+4.0 % F
+4.22 % WER
+4.3 % improvement
+4.3 absolute points
+4.7 % EM
+4.8 BLEU points
+40 % dropout
+40 % dropouts
+40 k steps
+40.5 % accuracy
+400 200 width
+400 k iterations
+400 k steps
+41.0 % F1-score
+45 23 %
+450 k iterations
+470 K steps
+5 - grams
+5 5 ]
+5 5 pixels
+5 CAFE models
+5 K iterations
+5.1 F1 improvement
+5.5 B tokens
+5.53 % WER
+5.6 % MAP
+50 % dropout
+50 - dimension
+50 K dataset
+50 K iterations
+50 Wikipedia articles
+50 dimensional vector
+50 hidden units
+50,000 unlabeled instances
+500 hidden units
+50d LSTM states
+512 dimensional sentence
+512 hidden units
+512 memory cells
+53 m parameters
+570,152 sentence pairs
+59.2 % accuracy
+6 % F1
+6 % improvement
+6 600 filters
+6 hidden dimensions
+6 layer word
+6.5 K iterations
+6.6 % increment
+6.8 3.8 points
+60 200 epochs
+600 K steps
+600 k relationships
+600D Residual encoders
+62.73 % increment
+67 % accuracy
+68 billion parameters
+7.2 % F
+71.55 % accuracy
+75 73 %
+75,000 training documents
+77 27 %
+79 74 %
+79 80 %
+8 BiLSTM layers
+8 GB VRAM
+8 GB memory
+8 latent clusters
+8 layer ablations
+8.0 5.7 points
+8.3 % F1
+8.9 point difference
+80 hidden units
+800 k words
+82 66 %
+83 475 %
+840 billion tokens
+840 bn words
+85 m parameters
+850 crowdsource workers
+87 24 %
+87.9 % accuracy
+88.5 % accuracy
+89.3 % accuracy
+9/17 /29 layers
+90.0 % accuracies
+91.93 mean F
+92.4 % accuracy
+95 K iterations
+96.37 mean F
+: Textual Entailment
+: alternate names
+< UNK >
+< unk >
+= 300 D
+> 2 %
+ABS + model
+ABSA multi-task learning
+AC - S
+ACE05 development set
+ACL - ARC
+AE - LSTM
+AEN - BERT
+AEN - GloVe
+AF - LSTM
+AOA - LSTM
+AP + ILP
+AP - CNN
+AP - biLSTM
+ASSOCIATIVE RECALL TASK
+AT - LSTM
+ATAE - LSTM
+ATEPC - Fusion
+AWD - LSTM
+Abstractive Sentence Summarization
+Abstractive Text Summarization
+Accurate Entity Recognition
+Adadelta update rule
+Adam optimization algorithm
+Adam optimization method
+Adam update rule
+Answer Sentence Selection
+Arabic ELMo model
+Arabic Sentiment Analyser
+Aspect - aware
+Aspect Polarity Classification
+Aspect Sentiment Analysis
+Aspect Sentiment Classification
+Aspect Term Extraction
+Aspect sentiment classification
+Aspect-level Sentiment Analysis
+Attention - CNN
+Attention Sum Reader
+Augmented Lagrange Multiplier
+Automatic dialogue generation
+Automatic question answering
+Automatic question generation
+Automatic story comprehension
+BACK - GROUND
+BASELINE - LSTM
+BERT - ADA
+BERT - BASE
+BERT - Base
+BERT - Large
+BERT - MRC
+BERT - PT
+BERT - SPC
+BERT - base
+BERT - pair
+BERT / RoBERTa
+BERT BASE model
+BGRU + SDP
+BGRU + STP
+BGRU - WLA
+BIO tagging problem
+BL - MN
+BLSTM - CNNs
+BM25 + BERT
+BM25 + Doc2query
+BMJ Case Reports
+BPTT batch size
+Batch size n
+Bi - GRU
+Bi - LSTM
+Bi - aLSTM
+BiDAF + ELMo
+BiDANN - S
+BiL - STM
+BiL - STMs
+BiLSTM + SynFeat
+BiLSTM - Attn
+BiLSTM - CRF
+BiLSTM - LAN
+BiLSTM - Mean
+BiLSTM - max
+BiLSTM baseline system
+BiLSTMthe bidirectional LSTM
+Bidir DAG LSTM
+Bidirectional Encoder Representations
+BioScope Full Papers
+BioScope Full papers
+Bioscope Full Papers
+Brown test set
+C - AGGCN
+C - AGGCNs
+C - GCN
+C - LSTMs
+C2F Attention Module
+CAFE + ELMo
+CASCADED - LSTM
+CBT - CN
+CBT - NE
+CL - CNN
+CMN N A
+CNN + B1
+CNN + MCFA
+CNN + Softmax
+CNN - ASP
+CNN - DM
+CNN - LSTM
+CNN - SVM
+CNN - Tensor
+CNN / DailyMail
+CNN compositional architectures
+CNN feature extractor
+CNN kernel size
+CNN test set
+COCO image captions
+COM - PLEXQUESTIONS
+COMPARISON WITH STATE
+COMPQ - SUBSET
+COMPRESSING WORD EMBEDDINGS
+CONVERSATIONAL MACHINE COMPREHENSION
+COPYING MEMORY TASK
+COmmonsense Dataset Adversarially
+CPU performance test
+CR - CNN
+CR data set
+CRF loss layer
+CUE - CNN
+Canonical Correlation Analysis
+Capsule - A
+Capsule - B
+Char - CNN
+Chinese dataset LCSTS
+Chinese poems composition
+Citation Intent Classification
+Classic Soft Attention
+CliCR training data
+CoNLL 2012 benchmark
+CoNLL test set
+Common Crawl data
+Community Question Answering
+Comp - Clip
+Contex - tAVG
+Contextual Sarcasm Detection
+Contrastive Feature Alignment
+Conventional RNN models
+Convolution Neural Networks
+Convolutional Neural Network
+Convolutional Neural Networks
+Copy - Net
+D x =
+DCU - LSTM
+DE - CATT
+DECATT char model
+DECNN - dTrans
+DEEP - ATT
+DM - MCNN
+DM - MCNNs
+DQA baseline system
+DR - BiLSTM
+DRUG - BANK
+DS - Joint
+DUC 2003 data
+Daily Mail Datasets
+Daily Mail dataset
+Daily Mail datasets
+Deconv LVM model
+Deep - Att
+Deep - ED
+Deep LSTM Reader
+Deep Semantic Role
+Deep Sentiment Analysis
+Deep neural network
+Differentiable Neural Computer
+Discourse Marker Prediction
+Discourse Structure prediction
+Distraction - M3
+Diverse Sequence Generation
+Dmu - Entnet
+Document - cue
+Domain Adversarial Network
+Dropout probability p
+Dual - BoW
+Dyadic Dialogue Videos
+Dynamic Coattention Network
+Dynamic Fusion Networks
+Dynamic Memory Networks
+E MOTION recognition
+EBM - NLP
+ED - Local
+EDD - Global
+EDD - LG
+EEG Emotion Recognition
+EEG emotion recognition
+EEG emotion signals
+ELMo language model
+EM / F1
+ESIM + ELMo
+EXTRACTIVE QUESTION ANSWERING
+Efficient Text Classification
+Elman RNN decoder
+English SQS problem
+English Wikipedia dump
+English audio books
+English dataset Gigawords
+Entity Attention Bi-LSTM
+Evaluator - SLM
+Exponential moving average
+F 1 drops
+F 1 measure
+F 1 performance
+F 1 score
+F 1 scores
+F P N
+F1 - Macro
+F1 - o
+F1 - s
+F1 - score
+FH - RNN
+FS - RUM
+FVTA attention mechanism
+FVTA attention tensor
+FastText pre-trained vectors
+Feature + SVM
+FewRel training data
+Final output state
+Fine - tuning
+Fisher speech corpora
+Focused Hierarchical RNNs
+GA - NoEnt
+GMe m N2N
+GRNN - G3
+GRU / LSTM
+GRU recurrent weights
+GRU size m
+GS GLSTM model
+Generalized Emotion Representation
+Generative Reading Comprehension
+Glo Ve embeddings
+Glo Ve vectors
+GloVe 2 vectors
+GloVe data set
+Global inter-channel relations
+Glove word embeddings
+Google Production dataset
+Google news dataset
+Gradient - clipping
+Graph Convolution Networks
+Graph Convolutional Networks
+Graph Neural Network
+Graph Neural Networks
+Graph State LSTM
+Graph convolutional networks
+Gumbel - Softmax
+Gumbel - softmax
+HD - LSTM
+Hidden state sizes
+Hidden units number
+Huggingface PyTorch implementation
+ID - CNN
+ID - LSTM
+IMAGES AND LANGUAGE
+Image - Phrase
+Inception - ResNet
+Incorporate attention scheme
+InferSent - Bilinear
+Initial learning rate
+Insurance QA dataset
+Interactive Inference Network
+Iterative Attention Reader
+Joint POS Tagging
+Joint entity recognition
+K aspect embeddings
+K codeword vectors
+K different focus
+KL cost term
+KV - MemNN
+Key- value attention
+Knowledge Aided Reader
+Knowledge base question
+L - BFGS
+L 2 normalization
+L 2 penalty
+L 2 regularization
+L EARNING word
+L1 regularization factor
+L2 regularization penalty
+LAPTOP data set
+LC - LSTMs
+LCF - APC
+LCF - ATE
+LCF - ATEPC
+LCNN - VAE
+LCR - Rot
+LM - Transformer
+LM hidden states
+LR - Bi-LSTM
+LR - LSTM
+LR- Bi- LSTM
+LSTM + ATT
+LSTM + Att
+LSTM + method
+LSTM + methods
+LSTM + pos+dep
+LSTM - CRF
+LSTM - Final
+LSTM - LM
+LSTM - LSTM
+LSTM - Loc
+LSTM - Location
+LSTM - RNNs
+LSTM - baseline
+LSTM / Bi-LSTM
+LSTM compositional functions
+LSTM hidden state
+LSTM hidden states
+LSTM hidden vectors
+LSTM layer outputs
+LSTM network variant
+LSTM sequence model
+Language model pre-training
+Length penalty parameter
+Libri TTS corpus
+Linguistic Data Consortium
+Linguistic sequence labeling
+Local interchannel relations
+Location entity names
+Location output state
+Luong - NMT
+M - ACNN
+M - DAN
+M - MMD
+MACRO F1 value
+MAGE - GRU
+MAGE - RNN
+MAMCN + ELMo
+MAN - AGER
+MAP / MRR
+MDRE - ASR
+MGAN - C
+MGAN - CF
+MGAN - F
+MINI - MAL
+MMMU - BA
+MMUU - SA
+MP - CNN
+MR data set
+MRPC - accuracy
+MRU - LSTM
+MS - MARCO
+MS MARCO documents
+MULTITASK - LSTM
+MV - RNN
+Machine Reading Comprehension
+Macro - F1
+Marco - F1
+Mask target entity
+Match - LSTM
+Max - pooling
+Medical Scientific Abstracts
+Mem - Net
+Message - level
+Message passing -d
+Micro - F1
+Minitagger 4 implementation
+Minitagger SVM model
+Model - II
+Model - III
+More 30 %
+Morphological Tagging Results
+Movie QA task
+MovieQA test server
+Multi - NLI
+Multi - Task
+Multi - hop
+Multi - layer
+Multi Layer Perceptrons
+Multi- Domain Inference
+Multi-hop Reading Comprehension
+Multi-mention Reading Comprehension
+Multi-modal Sentiment Analysis
+MultiNLI - m
+MultiNLI - mm
+Multilingual Sentence Embeddings
+Multimodal Emotion Detection
+Multiple - Relations
+NATURAL LANGUAGE INFERENCE
+NATURALQUESTIONS - OPEN
+NER tag features
+NEURAL MACHINE TRANSLATION
+NOIC commonsense integration
+NQG + Pretrain
+NQG + STshare
+NRC - Canada
+NSE encoder network
+NTN - LSTM
+NVIDIA P40 GPU
+NYT training corpus
+Naive - Bayes
+Named Entity Recognition
+Narrative QA benchmark
+Natural Language Inference
+Natural Language Questions
+Natural language inference
+Natural language sentence
+Neural Abstractive Summarization
+Neural Machine Translation
+Neural Network Architectures
+Neural Paraphrase Identification
+Neural Question Answering
+Neural Question Generation
+Neural Relation Extraction
+Neural Semantic Encoders
+Neural Semantic Parsing
+Neural Semantic Role
+Neural Tensor LSTM
+Neural Variational Inference
+Neural machine translation
+Neural network approaches
+Neural sequence model
+New s QA
+Non - RNN
+Non - Transfer
+Nvidia P100 GPUs
+ORDER - EMBEDDINGS
+One - Pass
+OntoNotes coreference annotations
+Open - NMT
+Open NMT system
+Open Question Answering
+Open-domain question answering
+Optional Information Cell
+Orthogonal Recurrent Unit
+Orthonormal parameter initialization
+PA - LSTM
+PC - NNs
+PCFG - Trans
+PCNN + ATT
+PCNNs + MIL
+PG - BLEU
+PG - CNN
+PNAS - Net
+PR curve areas
+PRET + MULT
+PV - DBOW
+PV - DM
+Parallel Hierarchical model
+Pointer - Generator
+Pointer - generator
+Pretty - CLEVR
+Probabilistic graphical model
+Ptr - Net
+QA - CNN
+QA - LSTM
+QA - biLSTM
+QA development set
+QHier - RNN
+QUASAR - T
+Quasar - T
+Question - answering
+Question paraphrase identification
+Quora Question Pairs
+Quora question pair
+R - BERT
+R - L
+R - NET
+R.M - Reader
+RACE - H
+RACE - M
+RACE benchmark dataset
+RAS - Elman
+RAS - LSTM
+RASG w /
+RASG w/o DM
+RB + ML
+RB + TR
+RG - L
+RNN - context
+RNN - distract
+RNN / CNN
+RNN seq2seq model
+ROUGE - L
+Ranker - Reader
+Re 3 Sum
+ReLU activation function
+ReLu activation function
+Rec - NN
+Recurrent Neural Filters
+Recurrent Neural Network
+Recurrent Neural Networks
+Recurrent Relational Networks
+Recurrent Unit variant
+Reinforced Ranker Reader
+Restaurant - Large
+Review Reading Comprehension
+Review Sentiment Analysis
+RoBERTa - Large
+RoBERTa- Large TANDA
+Robust Subset Selection
+S - ACNN
+S - CNN
+S - LSTM
+S - Reader
+SCIB - ERT
+SDGCN - BERT
+SDGCN - G
+SDOI - SAN
+SDP - LSTM
+SE - POS
+SECT - CNN
+SECT - LSTM
+SEDT - CNN
+SEDT - LSTM
+SEED - IV
+SFU Review Corpus
+SG - NET
+SG - Net
+SICK - E
+SICK - R
+SNLI best model
+SNLI development dataset
+SNLI test set
+SP + ILP
+SP - Tree
+SPEECH EMOTION RECOGNITION
+SPINN - PI
+SQL generation process
+SQL structure information
+SQUAD training set
+SQuAD - Adversarial
+SQuAD development set
+SVM - ensemble
+SWEM - max
+Sci - Cite
+Search QA dataset
+Self - attention
+SemEval 2014 Task
+SemEval 2016 Task
+SemEval 2017 task
+SemEval 2018 Task
+Semantic Question Similarity
+Semantic Relation Classification
+Semantic Role Labeling
+Semantic Sentence Embeddings
+Semantic Similarity Measurement
+Semantic Text Similarity
+Semantic role labeling
+Semi-supervised sequence tagging
+Sentic - Net
+Sentiment - trajectory
+Seq2Seq + Attention
+Seq2Seq + Copying
+Seq2seq + ERAML
+Seq2seq + MTL
+Seq2seq + RL
+Seq2seq + att
+Seq2seq + selective
+Sequential Sentence Classification
+Siamese - CNN
+Siamese - LSTM
+Siamese Bidirectional LSTM
+Sim - DCU
+Simple Question Answering
+Simple SVM model
+Single Edge baseline
+Single Edge baselines
+Single Edge model
+Single layer variant
+Sonnet 2 library
+Sophisticated recurrent networks
+Source2context attention value
+Speech Emotion Recognition
+Stack - LSTM
+Stack - propagation
+Stanford Attention Reader
+Stanford CoreNLP Toolkits
+Stanford CoreNLP tool
+Stanford CoreNLP toolkit
+Stanford CoreNLP utilities
+Stanford Sentiment Treebank
+Stanford word tokenizer
+Statistical Machine Translation
+Stochastic Gradient Descent
+Stochastic gradient descent
+Struct + Hidden
+Struct + Input
+SuBiL - STM
+Support Vector Machines
+Synthetic Data Experiments
+TAC KBP evaluations
+TACRED dev set
+TC - LSTM
+TC - LSTMs
+TD - LSTM
+TDLSTM + ATT
+TE3 Task C
+TF - IDF
+TGIF Temporal Attention
+TNet - ATT
+TNet - LF
+TNet w/o context
+TNet w/o transformation
+TRANSFER LEARNING PERFORMANCE
+TRE - ASR
+TREC - CAR
+TREC - QA
+TREC data set
+TRIVIAQA - OPEN
+TWITTER data set
+Temporal Relation Extraction
+Tensor - Flow
+Textual similarity measurement
+Theano source code
+Top k method
+Traditional ILP method
+Tree - LSTM
+Trivia QA Web
+Twitter POS tagging
+Typical word embeddings
+UT - Time
+Universal Sentence Encoder
+Universal Sentence Representations
+VAE - S
+VAE - SVG
+VD - CNN
+Visual Question Answering
+Visual Question Generation
+Visual question answering
+WEBQA - SUBSET
+WEBQUES - TIONS
+WMT 2014 English
+Window Size Analysis
+Yelp - bi
+Yelp Dataset Challenge
+absolute LAS improvement
+abstract syntaX parser
+abstractive sentence summarization
+abstractive text summarization
+abundant unlabeled data
+accurate syntactic information
+active per-example basis
+actual soft template
+ad-ditional 4 %
+additional background knowledge
+additional feature augmentation
+additional inductive bias
+additional model parameters
+additional performance gains
+additional selective gate
+adjacent - relation
+adjacent video captions
+adversarial learning mechanism
+adversarial training stage
+adversarial training strategies
+affine - transformation
+affine transformation layers
+aggregation agg op
+alignment context words
+alignment factorization layers
+alternative LSTM structure
+alternative lexical representation
+answer extraction task
+answer position feature
+answer position indicator
+answer re-ranking problem
+answer selection task
+answer sentence selection
+answer specific question
+answer-question similarity loss
+arbitrary k times
+arbitrary noising function
+arbitrary tree structures
+art 73.6 %
+art 74.5 %
+aspect alignment loss
+aspect category detection
+aspect category polarity
+aspect polarity classification
+aspect sentiment classification
+aspect sentiment polarity
+aspect term extraction
+aspect term polarity
+asymmetric discrepancy information
+attention softmax layer
+attention supervision information
+attentional encoder layer
+attentional encoder network
+attentive CNN encoder
+attentive neural network
+attentive pooling network
+auxiliary data encoders
+available training set
+available unlabeled data
+available word embeddings
+average entailment score
+back - data
+base CNN accuracy
+base building block
+base learning rate
+base neural model
+base word representation
+baseline POS tagger
+baseline approach BiDAF
+baseline model BASE
+baseline model S2SR
+baseline sequence tagger
+basic BERT model
+basic CNN model
+basic LSTM approach
+basic baseline method
+basic language understanding
+basic memory network
+basic seq2seq model
+basic summary generator
+beam - search
+best - results
+best 1 scores
+best F1 scores
+best LSTM model
+best NLL result
+best approximate answer
+best classification accuracy
+best discrete codes
+best domain performance
+best method CoType
+best overall performance
+best performing model
+best performing system
+best research results
+best translation performance
+better convergence properties
+better entity recognizer
+better individual models
+better prediction quality
+bi-directional attention flow
+bi-directional context modelling
+bi-directional pre-processing LSTM
+bidirectional DAG LSTM
+bidirectional LSTM networks
+bidirectional attention flow
+bidirectional attention mechanism
+bidirectional language models
+bidrectional LSTM networks
+bigram + count
+bilateral multi-perspective matching
+binary classification problems
+binary relation extraction
+binary sentiment classification
+biomedical QA datasets
+biomedical domain corpora
+biomedical text mining
+block number M
+boundary prediction layer
+brain network organization
+broad biomedical domain
+c- LSTM+ Att
+candidate answer chunks
+candidate extraction step
+candidate soft templates
+canonical correlation analysis
+caption retrieval R
+certain nearby words
+chaotic error surface
+char - CRNN
+char - IntNet
+character - level
+character dropout rates
+character level embeddings
+character n-gram embeddings
+character ngram embeddings
+child nodes vectors
+citation intent classification
+citation intent prediction
+classical attention models
+clean parallel data
+co-attentive recurrent features
+common classification layer
+common space mapping
+commonsense selection algorithm
+comparable 1 performance
+comparable superior results
+competitive sequence model
+complementary word embeddings
+complete QA model
+complete positional information
+complete relationship graph
+complex generative modeling
+complex linguistic phenomena
+complex preprocessing techniques
+complicated network architectures
+composition query vector
+comprehension style question
+comprehensive user embeddings
+compressive text summarization
+computer science tasks
+concept pointer generator
+conceptual abstract words
+conditional random field
+conditional random fields
+conditional token representations
+considerable performance gains
+consistent performance gain
+consistent performance gains
+constant learning rate
+constant negative curvature
+constrained lexicalized model
+content - location
+content - modeling
+context - model
+context - size
+context - window
+context aware representations
+context modeling component
+context ruminate layer
+context tensor H
+context word embeddings
+context word vectors
+contextaware attention mechanism
+contextaware utterance representation
+contextual - information
+contextual LSTM model
+contextual discourse features
+contextual modeling phase
+contextual non-contextual representations
+contextual unimodal features
+contextual utterancelevel features
+continuous text representation
+continuous vector representations
+conventional seq2seq model
+conventional summation operation
+convergence speed improvement
+conversational machine comprehension
+conversational memory network
+convolution filter number
+convolution filter size
+convolutional capsule layer
+convolutional layers L
+convolutional neural network
+convolutional neural networks
+convolutional subsampling layer
+coreference resolution tasks
+correct entity type
+correct sentence completion
+correct word collocations
+coverage inference penalty
+coverage penalty parameter
+cross entropy loss
+cross sequence interaction
+crosspassage answer verification
+current aspect term
+current input pair
+current top systems
+current update vector
+d e =
+data - driven
+data batch level
+data enrichment method
+data scarceness problem
+decoder attention weights
+decoder output layers
+decomposable attention model
+deep adaptation network
+deep believe network
+deep bidirectional LSTMs
+deep bidirectional Transformer
+deep convolutional network
+deep discrepant features
+deep generative framework
+deep generative model
+deep generative models
+deep learning models
+deep memory network
+deep neural network
+deep neural networks
+deep residual coattention
+deeper meaning representation
+deeper recurrent networks
+default attention function
+default maximum number
+deletionbased sentence compression
+dense connection blocks
+depLCNN + NS
+dependency - tree
+dependency parsing results
+dependency parsing tasks
+dependency relation embeddings
+dependency tree information
+dependency tree structures
+dependent bidirectional LSTM
+detailed position information
+detect entity mentions
+development set queries
+di erent parts
+dialogue response generation
+different BLEU scores
+different SQL clauses
+different aspect term
+different class distributions
+different entity pairs
+different n-grams criteria
+different objective functions
+different random initialization
+different representation subspaces
+different semantic features
+different sentiment polarities
+different sentimentrelevant information
+different soft templates
+different time steps
+different window sizes
+difficult MultiNLI dataset
+difficult sentence structures
+dimen-sion R Hx5
+dimension d dim
+dimension d l
+dimensionality unit d
+directional - attentions
+discourse relation prediction
+discourse structure prediction
+discrete latent variable
+discrete sampling operation
+discriminative CNN model
+discriminative deep features
+discriminative deterministic variables
+discriminative sentence modeling
+distance - preserving
+distant supervision paradigm
+distributed word representation
+document classification experiments
+document creation time
+domain end task
+domain independent framework
+domain knowledge posttraining
+downstream neural models
+dramatic error reduction
+drop word ratio
+dual context aggregation
+dynamic chunk reader
+dynamic entity graph
+dynamic graph attention
+dynamic pooling strategy
+early - stopping
+easy feasible scheme
+effective input width
+effective neural network
+effective token encoder
+eight NVIDIA V100
+eight nine datasets
+embedded side information
+emotion GRU cell
+emotion prediction tasks
+emotional context information
+encoder - decoder
+encoder hidden states
+end - toend
+endpoint prediction model
+ensemble model cases
+ensemble teacher model
+entailment generation task
+entailment recognition system
+entire dependency tree
+entire hidden representations
+entire input sentence
+entire input sequence
+entire parsing tree
+entire recall range
+entity mention detection
+entity recognition label
+entity recognition systems
+entity tag sequence
+equal output dimensions
+event - DCT
+event - sequence
+exact match feature
+exact match flag
+exact match score
+exogenous word weights
+exponential decay rate
+exponential linear unit
+exponential moving average
+extensive experimental investigation
+extensive feature engineering
+external background knowledge
+external data source
+external knowledge bases
+external knowledge sources
+external memory chains
+external program memory
+external text corpora
+extracted feature vectors
+f = tanh
+facial expression recognition
+favorable F1- score
+fc layer size
+feature extraction layer
+feature vector F
+feature vector approach
+feed - forward
+few hundred examples
+fewer training samples
+fewest data points
+filter window sizes
+final 10 %
+final Elman architecture
+final LSTM layer
+final attention layer
+final classification features
+final classification layer
+final compositional gate
+final context vector
+final hyperparameter grid
+final layer predictions
+final linear layer
+final model configuration
+final question vectors
+final sentence representation
+final sentence vector
+final state embeddings
+final summary generation
+final token representation
+final utterance representation
+fine - BERT
+fine - attention
+fine - grain
+fine - manner
+fine - mechanism
+fine - model
+fine - semantics
+fine - subtask
+fine - tune
+fine - tuning
+finish time values
+first ablation baseline
+five MT systems
+five different runs
+five random seeds
+five star scale
+fixed sentence representations
+fluency summary sentence
+forest outermost mention
+four K80 GPUs
+four NN architectures
+four additional judgments
+four main components
+full DER Network
+full SPINN model
+full SWAG training
+full coverage mechanism
+full features integration
+full model MGAN
+full predictive capacity
+full re-ranking condition
+full sentence selection
+full story text
+general - purpose
+general biomedical corpora
+general domain corpora
+general effective technique
+general semi-supervised approach
+general sentiment classification
+generative Gaussian classifier
+generative reading comprehension
+generative text modeling
+geodesic flow kernel
+global - relation
+global inference step
+global local loss
+good sampling ratio
+good target representation
+good task performance
+good word representation
+graph construction stage
+graph convolutional network
+graph neural network
+great performance boost
+greater prediction gains
+grid search approach
+ground truth answer
+ground truth paraphrase
+ground truth voices
+half - epoch
+hard - MoE
+hard - sharing
+hard attention mechanism
+hard test dataset
+heavier current state
+hidden contextual representation
+hidden dimension size
+hidden entity vectors
+hidden feature repre-sentation
+hidden state dimensions
+hidden state relevance
+hidden state size
+hidden state vectors
+hidden test set
+hidden unit activities
+hidden vector length
+hierarchical - ConvNet
+hierarchical LSTM layers
+hierarchical fusion framework
+hierarchical generator G
+hierarchical multi-stage architecture
+hierarchical reinforcement learning
+high - level
+high - quality
+high entailment reward
+higher BLEU score
+higher F1 score
+higher ROUGE scores
+higher global consistency
+higher performance gain
+higher recall rates
+higher recall values
+higherlevel semantic layers
+highest 1 scores
+highest 2s baseline
+highest attention weight
+highest average scores
+highest log-probability scores
+highest reversal accuracy
+highest scoring justifications
+highway maxout network
+highway network layers
+historical time step
+http : //github.com
+http : //www4.comp.polyu.edu.hk/cszqcao/
+https : //github
+https : //github.com
+https : //github.com/NLPrinceton/
+https : //github.com/allenai/scibert/
+https : //github.com/andyweizhao/capsule_text_classification
+https : //github.com/cheng6076/
+https : //github.com/code4conference/code4sc
+https : //github.com/dinghanshen/SWEM
+https : //github.com/kimiyoung/transfer
+https : //github.com/luheng/lsgn
+https : //github.com/lukecq1231/enc_nli
+https : //github.com/momohuang/FlowQA
+https : //github.com/shuohangwang/
+https : //github.com/shuohangwang/mprc
+https : //github.com/soskek/der-network
+https : //worksheets
+human - dataset
+human - poem
+human - sentences
+human evaluation score
+human reading procedure
+hyper - parameters
+i.e multiple hops
+image retrieval R
+implicit association tests
+importance / weight
+important contextual utterances
+important question words
+important word interactions
+impressive new state
+indep - II
+independent extracted results
+independent noanswer loss
+independent span loss
+indicative behavioral traits
+indicative sentiment words
+individual - bearing
+individual CNN version
+individual context words
+individual sentence representation
+information fusion operation
+informative interaction signals
+initial - rate
+initial SWAG model
+initial keep rate
+initial learning Utterances
+initial learning rate
+initial learning rates
+initial noun phrase
+initial rate [
+initial reading module
+initial word representations
+input attention mechanism
+input gate mechanism
+input word embeddings
+input word tokens
+integral query matching
+inter -speaker influences
+inter-attention alignment features
+inter-word semantic connections
+interactive attention network
+interpretable machine learning
+intra-and intermodality dynamics
+introspective interactive semantics
+iterative inference process
+joint POS tagging
+joint vector space
+k document representations
+key - value
+key relation words
+l 2 constraint
+l 2 penalty
+l 2 regularization
+label noise level
+label smoothing technique
+label unreliability issue
+language generation task
+language representation model
+large - scale
+large 75 K
+large graph dataset
+large language model
+large text corpus
+large training dataset
+large unlabeled corpus
+large vocabulary problem
+larger batch size
+larger hidden state
+larger learning rate
+larger window size
+largest available dataset
+largest sentiment polarity
+last 100 tokens
+last LSTM output
+last best accuracy
+last best models
+last hidden layer
+last hidden state
+last hidden states
+last hidden vector
+last output vector
+latent cluster information
+latent feature representations
+latent memory space
+latent space dimension
+latent structure modeling
+latest test accuracy
+least 1.6 F
+least 2 ROUGE
+least 2.0 F
+least 5 %
+least one step
+lemma + lowercase
+less 100 sentences
+less 15 %
+less 20 %
+less performance degradation
+less time cost
+level language modelling
+level sentence representation
+lexical feature vector
+lexical statistical features
+lexical syntactic features
+light - weight
+lighter ML models
+linear mapping layer
+linear unit ReLU
+listwise learning approach
+local attention modeling
+local context features
+local feature extraction
+local global GAN
+local inference modeling
+local linear context
+local non-local contexts
+local recurrent units
+local word order
+logistic regression classifier
+logistic regression model
+long distance dependencies
+long movie reviews
+long range dependencies
+long shortterm memory
+long support documents
+long support passages
+long term dependencies
+longest common subsequences
+loopy belief propagation
+lower - casing
+lower - level
+lower compression rate
+lowest common ancestor
+m LSTM model
+machine comprehension problem
+machine comprehension task
+machine reading comprehension
+macro F1 score
+magnitude fewer parameters
+main competitor baseline
+main hidden size
+majority class baseline
+majority sentiment label
+majority sentiment polarity
+malllabiisc / RESIDE
+manual automatic transcriptions
+many - features
+mask prediction module
+max encoder step
+maximal sentence length
+maximum attention weight
+maximum gradient norm
+maximum input length
+maximum length size
+maximum likelihood estimation
+maximum passage length
+maximum sequence length
+maximum sequence lengths
+mean - pooling
+mean 0 variance
+mean opinion score
+meaningful vector representations
+meaningful vectorial representations
+memory efficient mapping
+memory network module
+message passing mechanism
+messagelevel sentiment analysis
+mini- batch size
+minimal audio features
+minimal grid search
+mismatched test set
+mixture SELECTOR method
+model convolution filters
+model dimension D
+model encoder layer
+moderate model size
+modest performance loss
+modi ed ESIM
+monolingual GNMT models
+more 1.5 points
+more 10 points
+more 12 %
+more 2 times
+more 2.0 BLEU
+more 3 points
+more 3 times
+more 5 %
+more 50 %
+more 6 %
+more 8 %
+more alias information
+more attention needs
+most 30 epochs
+most 30 words
+most 5 %
+most 50 K
+most critical component
+most crucial layer
+most data sets
+most data variation
+movie review dataset
+much deeper architectures
+much fewer parameters
+much lower number
+multi instance learning
+multi-class logistic regression
+multi-context joint entity
+multi-domain sentiment dataset
+multi-evidence QA model
+multi-factor attention network
+multi-factor attentive encoding
+multi-head joint model
+multi-head pointer network
+multi-instance learning algorithms
+multi-instance learning method
+multi-instance multilabel model
+multi-level feature maps
+multi-round alignment architecture
+multi-task learning framework
+multi-task learning model
+multi-token candidate expressions
+multi-utterance attention framework
+multi-view fusion approach
+multifactor attentive encoding
+multilingual GNMT model
+multimodal differential network
+multimodal emotion recognition
+multimodal feature extraction
+multimodal feature representation
+multimodal sentiment analysis
+multiperspective matching function
+multiple MEDLINE abstracts
+multiple alignment processes
+multiple attention mechanism
+multiple attention mechanisms
+multiple attention outputs
+multiple computational layers
+multiple documents context
+multiple domain discriminators
+multiple downstream tasks
+multiple entityrelations extraction
+multiple memory chains
+multiple memory slots
+multiple time steps
+n - grams
+n-gram pos-tag features
+n-gram word embedding
+n-grams POS information
+natural language inference
+natural language input
+natural language questions
+natural language text
+natural language understanding
+negation cue detection
+negative i.e relation
+negative neutral examples
+negative sampling rate
+nested hierarchical structure
+neural ASC models
+neural BoW baseline
+neural NER system
+neural POS tagging
+neural RC models
+neural abstractive summarization
+neural attention model
+neural attention models
+neural language model
+neural language modelling
+neural machine translation
+neural network approach
+neural network architecture
+neural network architectures
+neural network baselines
+neural network classifier
+neural network framework
+neural network model
+neural network models
+neural network parser
+neural reading comprehension
+neural relation extraction
+neural scaffold framework
+neural scaffold model
+neural sentence summarization
+neural sequence model
+neural variational framework
+neural variational inference
+neural word vectors
+neutral 43.51 %
+new SOTA results
+new adversarial network
+new attention mechanism
+new best accuracy
+new compositional encoder
+new layer design
+new paragraph vector
+new random initialization
+new sentiment treebank
+next search step
+ngram convolutional layer
+no-answer detection task
+no-answer training methods
+noisy entity graph
+noisy training data
+non-dilated CNN architecture
+non-hierarchical BiLSTM models
+non-informativeness sparsity issues
+non-linear activation function
+non-linear function f
+non-temporal memory representations
+nonlinear FC layers
+normal distribution N
+normalized probability distributions
+noticeable positive impact
+novel CNN architecture
+novel Coarse2 Fine
+novel RNN cell
+novel RvNN architecture
+novel attention kernel
+novel attention mechanism
+novel fusion method
+novel latent clustering
+novel model architecture
+novel neural architecture
+novel neural attention
+novel progressive self
+novel treatment methods
+observable performance superiority
+obvious performance loss
+official ROUGE script
+official test set
+official training set
+one - pass
+one -dimensional layer
+one LSTM network
+one additional context
+one baseline models
+one classifier layer
+one convolution layer
+one convolutional layer
+one data set
+one few chunks
+one forward pass
+one hidden layer
+one more opinions
+one multiple classes
+one two approaches
+one window size
+ontology classification problem
+opendomain QA tasks
+opensource GloVe vectors
+optimal learning rate
+optimal rate lr
+optimal window size
+order - preserving
+ordered span pairs
+org : members
+org : shareholders
+original Memory Network
+original SQuAD dataset
+original Stanford Dependencies
+original dependency tree
+original encoder size
+original grid search
+original input document
+original pointwise features
+original restaurant dataset
+original sequence length
+original training data
+orthogonal transition matrices
+other NN models
+other Seq2Seq models
+other attention models
+other baseline methods
+other baseline models
+other basic attention
+other dependencybased models
+other lexical features
+other model parameters
+other model weights
+other neural baselines
+other neural models
+other parameter weights
+other pre-trained CNNs
+other recent baselines
+other related terms
+other three models
+other two tasks
+other two variants
+other word embeddings
+output dimension size
+output label sequences
+paired symmetric electrodes
+pairwise NLI models
+pairwise similarity increases
+pairwise word interaction
+pairwise word interactions
+paragraph selection stage
+paragraph vector model
+parallel processing structure
+paraphrase identification task
+partial order structure
+passage matching layer
+past attentive weights
+perform feature fusion
+phoneme duration predictor
+phoneme error rate
+plain CNN model
+plain context representation
+plain contextual representation
+plain text data
+pointer - generator
+pointer - network
+pointer generator performance
+pointwise learning approach
+pointwise mutual information
+policy gradient technique
+poor translation performance
+popular SQuAD benchmark
+popular rare words
+popular seq2seq framework
+popular technique FT
+populate knowledge bases
+possible n-gram chunks
+pre-train word embedding
+pre-trained BERT model
+pre-trained CNN model
+pre-trained FastText embeddings
+pre-trained GloVe embeddings
+pre-trained GloVe vectors
+pre-trained Glove vector
+pre-trained Glove vectors
+pre-trained contextual embeddings
+pre-trained language model
+pre-trained language models
+pre-trained word embedding
+pre-trained word embeddings
+pre-trained word vectors
+precise sentence representation
+pretrained context embeddings
+previous best methods
+previous best performance
+previous best results
+previous best solution
+previous best system
+previous best systems
+previous distributional models
+previous non-ensemble models
+previous sarcasm corpora
+previous single models
+previous target words
+previous time steps
+previous two models
+primary capsule layer
+prior sentiment scores
+prior structure knowledge
+private test set
+prosodic prominence labels
+public private leaderboards
+python NLTK tokenizer
+question - answering
+question matrix Q
+question type representation
+question word baseline
+random dropout layer
+random orthogonal matrices
+random orthonormal matrices
+random token generation
+random uniform noise
+randomized answer expressions
+rare words problem
+rate decay factor
+reaches 92 %
+readable informative compressions
+reader comments words
+real - data
+real human speech
+reasonable empirical values
+recent AMANDA model
+recent POS taggers
+recurrent attention network
+recurrent encoder model
+recurrent generative decoder
+recurrent hidden features
+recurrent language models
+recurrent network encoder
+recurrent neural filters
+recurrent neural network
+recurrent neural networks
+recurrent relational network
+recurrent unit cell
+recurrent unit network
+recursive neural networks
+regular - expression
+regular neural network
+regular objective function
+reinforcement learning framework
+related knowledge entities
+relation alias information
+relation extraction method
+relation extraction model
+relation extraction system
+relation extraction task
+relational reasoning module
+relative absolute position
+relative position embeddings
+relative ranking information
+relevance / similarity
+relevant user embedding
+remarkable good results
+reparameteris ation method
+required parse structure
+residual attention dropout
+respective dependency path
+rich relational data
+right - LSTM
+robust relation predictions
+robust subset selection
+rotatory attention mechanism
+same - blocks
+same - pair
+same better results
+same feature set
+same hidden dimension
+same hidden size
+same initialization method
+same preprocessed dataset
+same reduction ratio
+same underlying entity
+same vector space
+same visual embeddings
+same weight initialization
+sc - LSTM
+scalable effective solution
+second highest MAP
+selective attention mechanism
+selective encoding model
+selective gate mechanism
+selective gate network
+selective transfer machine
+self attention layer
+semantic - level
+semantic feature maps
+semantic integration component
+semantic parsing benchmarks
+semantic parsing tree
+semantic relatedness task
+semantic role labeling
+semantic role labels
+semantic script induction
+semantic sentence matching
+semantic separation loss
+semantic structural importance
+semantic textual similarity
+semantics enhancement framework
+sentence compression performance
+sentence compression problem
+sentence compression results
+sentence compression task
+sentence contextual semantics
+sentence encoder model
+sentence encoding architecture
+sentence hidden states
+sentence length variations
+sentence level attention
+sentence matching tasks
+sentence modeling tasks
+sentence representation r
+sentence selection problems
+sentence simplification models
+sentential relation extraction
+sentiment analysis datasets
+sentiment analysis tasks
+sentiment classification task
+sentiment classification tasks
+sentiment dependency relation
+sentiment linguistic knowledge
+sentiment polarity classification
+sentiment resource words
+separate RSS modules
+separate memory module
+separate validation phase
+sequence context information
+sequence encoder layer
+sequence generation procedure
+sequence labeling tasks
+sequence processing tasks
+sequence representation vectors
+sequential image QA
+sequential inference models
+sequential instruction understanding
+sequential sentence classification
+sequential sliding window
+sequential synthetic data
+seven nine datasets
+seven nine hops
+several alternative forms
+several baseline models
+several different languages
+several distinct perspectives
+several other techniques
+several random restarts
+several strong baselines
+several word vectors
+short - term
+shortest dependency paths
+shortterm memory network
+signi cant improvement
+significant accuracy improvements
+significant more parameters
+significant p <
+significant performance decline
+significant performance drop
+significant performance gain
+significant performance gains
+significant performance increase
+similar excitement emotion
+similar multimodal approach
+similar stylistic features
+similarity error rates
+similarity focus layer
+simple FFNN baselines
+simple LSTM model
+simple ML methods
+simple factual questions
+simple linear model
+simple majority class
+simple model architecture
+simple model family
+simple neural architectures
+simple pooling strategies
+simple sequential model
+simple transition system
+simplest such model
+single - thoughts
+single CNN model
+single DAN encoder
+single LSTM layer
+single QA dataset
+single correct solution
+single dropout mask
+single encoding model
+single ensemble methods
+single ensemble models
+single ensemble scenarios
+single ensemble settings
+single history channel
+single jump questions
+single layer CNN
+single maximum value
+single multi-task framework
+single recurrent unit
+single representation remains
+single teacher model
+six nine datasets
+size R H
+slight performance drop
+slot filling scores
+small batch size
+small grid search
+small scale tasks
+smaller learning rate
+smallest recall numbers
+sof tmax layer
+soft - alignment
+soft - attention
+soft - searches
+soft - sharing
+soft alignment matrix
+soft attention mechanism
+soft attention results
+softmax function f
+sophisticated hidden unit
+sophisticated inference procedure
+source position information
+source syntactic structure
+span extraction question
+span prediction model
+sparse adjacency matrix
+sparse training examples
+speaker encoder network
+speaker verification task
+special first token
+special gate layer
+special separate tokens
+specific ATSA classifier
+specific aspect terms
+specific finegrain contexts
+specific input sentences
+specific pairwise operations
+stable unchanged pitch
+standard - pooling
+standard CNN model
+standard LSTM architecture
+standard RNN encoders
+standard VAE model
+standard attention mechanism
+standard bi-directional encoder
+standard convolutional layer
+standard cosine similarity
+standard feedforward layer
+standard graph attention
+standard loss functions
+standard neural model
+standard seq2seq model
+standard syntactic features
+standard word embeddings
+static loss scale
+statistical sequence labeling
+stochastic answer network
+stochastic depth method
+stochastic gradient descent
+stochastic parametrized policy
+story - cloze
+strong IR baseline
+strong QA baselines
+strong base performance
+strong baseline model
+strong baseline models
+strong language model
+strong neural architecture
+strong representational power
+strong text embedding
+stronger consistent gains
+stronger memorization capability
+strongest baseline AMN
+structured attention layer
+structured perceptron model
+sub - layer
+sub - layers
+sub - sampling
+subject - dependent
+subsequent modeling layer
+subspace n-gram model
+substantial performance drop
+substantial performance gain
+substantial performance gains
+subtree feature detectors
+succinct fusion mechanism
+suitable answer type
+summarization generation system
+supervised training data
+supervised training set
+survival probability pl
+symbolic query relations
+syntactic parse parents
+syntactic parse trees
+syntax - constraint
+synthetic data experiment
+synthetic data experiments
+synthetic semantic meaning
+tableaware input encoder
+target QA task
+target aspect representation
+target aspect term
+target domain L
+target entity vectors
+target latent representations
+target sentiment analysis
+target words LOC1
+task - awareness
+task - specific
+template saliency measurement
+temporal reasoner module
+temporal relation extraction
+term - frequency
+ternary binary relations
+ternary relation extraction
+test - time
+test BLEU score
+test set accuracy
+text classification task
+text comprehension tasks
+text semantic matching
+third - layer
+three - layer
+three Bi- LSTMs
+three LSTM models
+three additional baselines
+three baseline systems
+three different architectures
+three different datasets
+three four datasets
+three intent categories
+three multi-turn models
+three public datasets
+three recurrent models
+three semantic aspects
+three simple techniques
+three training techniques
+three translation tasks
+token character encoder
+top - justifications
+top 5 slot
+top LSTM layer
+top N function
+top leaderboard system
+top singlemodel result
+top ten passages
+topic ID systems
+topic prediction tasks
+total input length
+towards word frequency
+traditional statistical models
+traditional training method
+trainable gating network
+transfer component analysis
+transfer learning approach
+transitive closure module
+tree - CNN
+tree - LSTM
+tree - LSTMs
+tree - composition
+tree - model
+triangular learning rates
+true previous tokens
+two GCN models
+two LSTM layers
+two LSTM networks
+two RNN models
+two RSS modules
+two arbitrary tokens
+two auto- encoders
+two auxiliary losses
+two auxiliary tasks
+two baseline models
+two bidirectional GRUs
+two bidirectional LSTM
+two bidirectional LSTMs
+two capsule architectures
+two capsule frameworks
+two classification models
+two classification tasks
+two comprehension tasks
+two decoder states
+two different LSTMs
+two different levels
+two different settings
+two different utterances
+two different ways
+two distinct GRUs
+two hidden layers
+two important features
+two independent decoders
+two independent encoders
+two input items
+two input sentences
+two interdependent LSTMs
+two interdependent ways
+two linear transformations
+two main components
+two major changes
+two major designs
+two million parameters
+two momentum parameters
+two nonlinear gates
+two novel approaches
+two recent works
+two ruminate layers
+two seq2seq architectures
+two summarization datasets
+two tagged entities
+two target entities
+two transfer methods
+typical model run
+unbalanced - labels
+uncased basic model
+unconstrained NMT systems
+unified decoding framework
+uniform distribution U
+uniform mixing coefficient
+uniform program distribution
+unimpeded information flow
+uninterpretable vectorial representations
+unit L2 norm
+universal language model
+universal language representations
+unlabeled grapheme sequence
+unlabeled source words
+unrefined word embeddings
+unrestricted QA challenge
+unselected head tokens
+unsupervised IE features
+unsupervised domain reviews
+usable sentence encoder
+useful context features
+useful word representations
+usual full attention
+usual linear transformation
+utterance - videos
+utterance u i
+vanilla BiLSTM model
+vanilla CNN model
+vanilla GAN architecture
+vanilla LSTM model
+vanilla beam search
+vanilla pre-trained weights
+vanilla residual connections
+variational auto encoder
+various NLP tasks
+various answer styles
+various attribution discriminations
+various convolutional filters
+various deep learning
+various sentence lengths
+vector- output capsules
+vertical traversing RNNs
+view - specific
+visual question generation
+visual textual modalities
+weak internal parser
+weight decay rate
+whole training stage
+width 3 characters
+withinvocabulary word embeddings
+word - counts
+word - embeddings
+word - level
+word - pieces
+word - type
+word count feature
+word count features
+word distribution shift
+word dropout rate
+word dropout strategy
+word embedding vectors
+word emotion representations
+word error rate
+word level transfer
+word matching features
+word representation layer
+word representation model
+word shape information
+word vector sizes
+word2 vec module
+wrong label problem
+wrong sentiment contexts
+zero - padding
+zero - pads
+| V |
++ DS / DD
++ LSTM + Concat
+- - ART RESULTS
+- - Vocabulary words
+- - art BLEU
+- - art BiHDM
+- - art CMN
+- - art R
+- - art accuracy
+- - art approach
+- - art approaches
+- - art attention
+- - art encoders
+- - art method
+- - art methods
+- - art model
+- - art models
+- - art performance
+- - art performances
+- - art question
+- - art re-ranker
+- - art result
+- - art results
+- - art systems
+- - domain data
+- - domain dataset
+- - domain setting
+- - domain tests
+- - fine attention
+- - hidden matrix
+- - right decoder
+- - shelf BERT
+- - verify system
+- - vocab words
+- - vocabulary problem
+- - vocabulary word
+- - vocabulary words
+- - vocobulary tokens
+- - words model
+- - words models
+- 0.001 0.001 ]
+- End Relation Extraction
+- French translation task
+- German translation task
+- Int - Net
+- LSTM sentence modeling
+- MRC - QA
+- QHIER - RNN
+- STM Encoder baselines
+- Speech Tagging Results
+- WikiHop test set
+- attentional question aggregation
+- attentive sentence embeddings
+- aware context representation
+- character machine translation
+- critical policy learning
+- domain paraphrase data
+- domain test performance
+- domain test set
+- end MRC model
+- end Memory Network
+- end learning process
+- end tagging models
+- entity recognition tagger
+- layer GA architecture
+- layer bidirectional LSTM
+- layer multilayer perceptron
+- layer neural network
+- layer recurrent networks
+- length matching vector
+- length span representations
+- length vector representations
+- level ensemble distillation
+- many -task learning
+- natural language question
+- neural network model
+- neural relation extraction
+- py 4 library
+- range syntactic relations
+- real - vectors
+- semantic role labeler
+- sequence abstractive baseline
+- sequence abstractive model
+- shelf polyglot embeddings
+- speech tag vectors
+- term dependency problem
+- theart language model
+- tokenlevel classification tasks
+- way classification accuracy
+- way classification task
+- way multi-task model
+- word attention mechanism
+- word attention model
+0.9 0.95 1.0 ]
+1 % higher accuracy
+1 - 2 %
+1 - 4 %
+1 - D CNN
+1 - dimensional convolutions
+1 0.1 0.01 ]
+1 3 5 ]
+1 deep learning framework
+1 hidden - layer
+1.1 - 2.0 %
+1.11 BLEU score gain
+1.2 ROUGE - L
+1.3 % absolute improvement
+1.5 F 1 points
+10 % error rate
+10 % lesser accuracy
+10 % performance degradation
+10 - dimensional part
+10 - th epoch
+10 - th word
+10 20 more data
+10 asynchronous training threads
+10 d 100 dv
+100 - dimensional vectors
+100D Glo Ve vectors
+11 / 14 datasets
+11 12 language pairs
+128 - d vectors
+14 % error reduction
+14 / 18 datasets
+15 % relative improvement
+15 - 30 epochs
+15 - th epoch
+15 25 training epochs
+16 % EM /
+16 - dimensional goal
+16 32 coding scheme
+18 % EM /
+18.1 % EM /
+19 % absolute points
+19 % lower perplexity
+1D convolution kernel size
+2 - 3 %
+2 - hops connections
+2 - layer BiLSTM
+2 - layer LSTMN
+2 - way classification
+2 3 - grams
+2 3 biomedical datasets
+2 Way + Word
+20 % input dropouts
+20 - dimensional vector
+20 voice discrimination task
+25 dimensional character embeddings
+250 - dimensional embeddings
+250 different Reddit communities
+26 - dimensional sentiment
+26 41 slot types
+2s + att baselines
+3 5 10 ]
+3 similar emotion labels
+3.3 % accuracy improvement
+3.4 F 1 points
+3.5 point EM drop
+30 % output dropouts
+30 41 slot types
+30 dimensional character embeddings
+300 - dimension vector
+300 - th token
+300 dimensional GloVe embeddings
+300 dimensional word2vec embeddings
+300D Glo Ve embeddings
+300d Glo Ve embeddings
+300d Glo Ve vectors
+34 % error rate
+39 different POS tags
+4 % higher accuracy
+4 - layer CNN
+4 8 GPU machines
+4 NVIDIA V100 GPUs
+4.4 % EM /
+40 - dimensional vectors
+450 - dimensional BiLSTMs
+5 % accuracy improvement
+5 % higher performance
+5 50 100 ]
+5 7 transfer languages
+5 9 convolutional layers
+5,693 complex SQL queries
+50.4 - 51.4 %
+500,000 most frequent n-grams
+51.9 53.4 p @
+512- D LSTM inputs
+6 - 6 layers
+6 - epoch setting
+6 - layer decoder
+6 - layer encoder
+600 - dimensional vectors
+600D Gumbel TreeLSTM encoders
+65.4 % test accuracies
+6B - token version
+7.8 % EM /
+74.1 F 1 score
+8 12 language pairs
+8 NVIDIA M40 GPUs
+8 NVIDIA P100 GPUs
+840B Common Crawl corpus
+85.4 % accuracy score
+8544 1101 test splits
+86.3 % test accuracy
+88.1 % test accuracy
+89.3 % test accuracy
+89.3 BM25 + Doc2query
+99 % confidence intervals
+ACL - ARC dataset
+AEM + Attention model
+AEN - Glo Ve
+AG - GCN model
+AI2 Kaggle question set
+ATAE - LSTM model
+AWD - LSTM model
+Acyclic Graph Encoding RNN
+Aspect Level Sentiment Classification
+Audio + Text results
+Auto - Regressive Transformers
+BERT - BASE model
+BERT EM + MTB
+BILSTM - ATT -G
+BLEU - 2 score
+BLSTM - CNN models
+BM25 + Doc2query condition
+BUCC : bitext mining
+Bayesian subspace multinomial model
+Bi - GRU layers
+Bi - GRU network
+Bi - LSTM architectures
+Bi - LSTM layer
+Bi- Directional Attention Flow
+BiL - STM models
+BiLSTM - Attn +
+BiLSTM - CRF architecture
+BiLSTM - CRF model
+Broad Context Language Modeling
+C - AGGCN model
+C - AGGCN models
+C - GCN model
+CHARACTER LEVEL LANGUAGE MODELING
+CNN + Cnt model
+CNN + LSTM model
+CNN - DM corpus
+CNN - PE model
+CNN / RNN structure
+Categorical Cross Entropy Loss
+Character - level embeddings
+Cloze - style QA
+Co -attentive neural Network
+CoNLL - 2005 dataset
+CoNLL - 2012 dataset
+CoNLL - 2012 datasets
+CoNLL 2000 Chunking task
+CoNLL 2003 NER task
+CoNLL 2017 Shared Task
+Comp - Clip model
+Convolutional Neural Tensor Network
+Cross - application transfer
+DAG - RNN baseline
+DECNN - d Trans
+DM - MCNN models
+Di - alogue RNN
+Discourse Marker Augmented Network
+Discriminative Neural Sentence Modeling
+Document - cue baseline
+Document - level prediction
+ELMo contextual embeddings model
+EM / F1 performance
+ESIM + ELMo model
+ESIM + Read model
+Enc - Dec model
+English - Chinese test
+English NLI test set
+Entity - Task weights
+Entity - aware Attention
+F - 1 score
+F1 8.16 absolute points
+Facebook fastText Wikipedia embeddings
+Fast - weight RNN
+GPU NVidia Titan X
+GRU hidden state N
+GTX TitanX 12 GB
+GeForce GTX 1080 GPU
+General Language Understanding Evaluation
+Glo Ve 100D embeddings
+Glo Ve word embeddings
+Glo Ve word vectors
+GloVe + Emo2 Vec
+GloVe / fastText embeddings
+GloVe / fastText vectors
+GloVe 3 word vector
+Google Colab 7 environment
+Gumbel - Softmax estimator
+Gumbel - softmax trick
+Gumbel Tree - LSTM
+HSLN - CNN model
+HSLN - RNN model
+IMDB movie review dataset
+IR ++ feature group
+Image - caption pairs
+Integer Linear Programming problem
+Interactive COnversational memory Network
+K = 3 aspects
+K different aspectspecific classifiers
+K- best oracle scores
+KL cost annealing strategy
+Key - Value Attention
+Knowledge Base Question Answering
+Knowledge Base Relation Extraction
+L 2 regularization coefficient
+L 2 regularization item
+L2 regularization decay factors
+LCF - ATEPC model
+LCR - Rot model
+LSTM - CRF model
+LSTM - LSTM model
+LSTM time - steps
+MDREA - ASR models
+MMMU - BA framework
+MS MARCO development set
+MU - SA frameworks
+Macro - F1 measure
+Mechanical Turk crowd annotation
+Memory Augmented Neural Networks
+Movie review snippet sentiment
+Multi - Layer Perceptron
+Multi - Layer Perceptrons
+Multi - NLI problem
+Multi - Perspective CNN
+Multi - Task Summarization
+Multi - task training
+Multi- Perspective - LSTM
+Multi-class logistic regression model
+Multimodal Speech Emotion Recognition
+NAVER Smart Machine Learning
+NB - SVM trigram
+NLL oracle score distribution
+NVIDIA 1080 Ti GPU
+NVIDIA Tesla P40 GPU
+NVIDIA Titan X GPU
+NVIDIA Titan Xp GPU
+Named - Entity Recognition
+Natural language sentence matching
+Neural Answer Selection Model
+Neural Question Generation framework
+Neural Variational Document Model
+Nvidia GTX 1080 Ti
+ON - LSTM cells
+Open NMT - py
+PARAGRAM - PHRASE embeddings
+PARAGRAM - SL999 embeddings
+PASSAGE RE - RANKING
+POS - trie constraints
+PTB - WSJ dataset
+PV + Cnt models
+Phrase level opinion polarity
+Piecewise Convolutional Neural Networks
+Pointer + Coverage Baseline
+Ptr - Net model
+QA 10 k dataset
+QUORA QUESTION PAIR DATASET
+Query - Reduction Network
+Quora Question Pair Dataset
+Quora question pair dataset
+R - L scores
+R 2 d T
+RACE - H dataset
+RACE - M dataset
+RAS - LSTM models
+RASG w/ o GTD
+RCV1 - v2 dataset
+READING COMPRE - HENSION
+RERANKING EXTRACTIVE QUESTION ANSWERING
+RM3 query expansion technique
+RNN - dropout probability
+RNN Encoder - Decoder
+ROUGE - 2 F1
+ROUGE - 2 score
+Rank1 - 3 models
+Recurrent Neural Network Grammar
+Recursive Neural Tensor Network
+Recursive Neural Tensor Networks
+Recursive Tensor Neural Network
+RoBERTa - Large TANDA
+Rouge - L score
+SDP - LSTM model
+SS - T datasets
+SST - 2 model
+SST - 5 model
+Self - Attention Network
+Self vs Dual History
+SemEval - 2017 Task
+Sentence - level representations
+Sentence Level Discourse Parsing
+Shortest Dependency Path LSTM
+Skip - Thought encoder
+Skip - gram model
+Stanford Natural Language Inference
+Stanford Question Answering Dataset
+Stanford neural dependency parser
+TAC Relation Extraction Dataset
+TD - LSTM approach
+TD - LSTM method
+TD - LSTM model
+TF - IDF method
+TF - IDF ranking
+TF - IDF selector
+TREC - QA case
+TREC - QA dataset
+Tatoeba : similarity search
+Tesla T4 GPU accelerator
+Top - layer Classifier
+Transformer neural network architecture
+Triv - ia QA
+Unsupervised Neural Machine Translation
+VAE - SVG model
+Variational Auto - Encoders
+Whole Word Masking BERT
+Wik - iQA dataset
+accurate per-paragraph confidence scores
+additional K+1 - iteration
+additional length penalty argument
+alternative Bi - LSTMs
+answer boundary prediction layer
+answer module output layer
+answer sentence selection datasets
+answer sentence selection tasks
+aspect - - text
+aspect - dependent information
+aspect - level dataset
+aspect - level tasks
+aspect - sentiment analysis
+aspect - specific features
+aspect - specific representations
+aspect - term representation
+aspect level sentiment classification
+aspect- specific feature representations
+attention - over- attention
+attention - weighted representation
+attentional neural abstractive model
+autoregressive Transformer TTS model
+bAbI QA 10 k
+base R - NET
+base function f base
+baseline 3 - layer
+baseline logistic regression system
+baseline uni - SVM
+batch - wise maximum
+best baseline neural model
+best fine - rate
+best hyper - parameters
+best sequential model ESIM
+best single model score
+bi - LSTM layer
+bidirectional Gated Recurrent Units
+boundary - MRC models
+character - level ConvNets
+character - level GRUs
+character - level embeddings
+character - level information
+character - level representation
+character - level representations
+child - parent relationships
+classic one dimensional question
+classifier - agnostic framework
+co-occurrence word count feature
+coarse - grain module
+combine - skip vectors
+common binary semantic vector
+common space mapping dimension
+common space mapping weights
+competitive LSTM - baseline
+complex Pooled Edges model
+complex target - level
+conditional recurrent neural network
+context - aware representations
+context aware word representations
+context sensitive initial character
+context window length K
+contextual explicit semantic embedding
+conventional with- entity evaluation
+convolutional neural network architecture
+copy attention normalization parameter
+cross - domain setting
+cross - domain settings
+cross - domain tasks
+cross - entropy error
+cross - entropy loss
+cross - language translation
+cross - lingual embeddings
+cross - lingual projection
+cross - sentence attention
+cross - view interactions
+deep attentional neural network
+deep biaffine attention mechanism
+deep convolutional neural networks
+deep highway bidirectional LSTMs
+deep recurrent generative decoder
+deep residual coattention encoder
+default DYNET parameter settings
+default initial accumulator value
+delayed memory update mechanism
+dense continuous document representation
+dependency parse tree information
+di erent test cases
+dictionary - enabled models
+different sentence parsing trees
+difficult expensive due expertise
+directional self - attention
+discrete sequence generative models
+discriminative fine - tuning
+distant - supervision strategy
+diverse sentence - representation
+document - context reasoning
+document - level context
+document - level information
+domain - specific embeddings
+domain adversarial neural networks
+dot product : f
+drug - drug interactions
+dual - history variants
+dual - module mechanism
+early - stop measure
+effective convolutional neural network
+efficient Bidirectional Attention Connectors
+efficient beam - search
+efficient graph convolution operations
+eight - dimensional features
+element - wise sum
+encoder - decoder layers
+encoder - decoder model
+enhanced sequential encoding model
+entailment - aware decoder
+entailment - aware encoder
+entire similarity focus layer
+entity - centric representations
+entity - specific attention
+entity - wise attention
+entity type classification task
+event - event pairs
+event - timex relations
+exact match binary feature
+expectation - linear regularization
+explicit contextual semantic clues
+explicit listener state update
+explicit structural semantic parse
+explicit word context interactions
+exponential decayed keep rate
+extensive hyperparameter search experiments
+extra SRL embedding volume
+extra answer verifier module
+eye - tracking recordings
+feature - rich encoder
+feature - wise attention
+feed - forward computation
+feed - forward layer
+feed - forward network
+feed - froward ReLU
+few small consecutive regions
+few small consecutive sub-sequences
+final sentiment polarity prediction
+final word generator layer
+fine - grain module
+fine - grain reasoning
+fine - grained attentions
+fine - tuning techniques
+fine - word understanding
+fixed - length vector
+frequent | V |
+full - orientation matching
+full 100 billion words
+full 4096 unit representation
+full SWAG validation set
+general - purpose embeddings
+general purpose text matching
+generative latent structural information
+goal duration time c
+good exotic character combinations
+gradient descent optimization algorithm
+graph convolutional neural network
+greedy ID - CNN
+ground - truth embeddings
+hardest 17 - givens
+hierarchical neural network model
+hierarchical self - attention
+hierarchical sequential labeling network
+high - quality supervision
+high - quality templates
+high NLL oracle score
+high quality TTS model
+higher F 1 scores
+higher Micro - F1
+higher layer recurrent module
+highest semantic parsing models
+holistic word - level
+hop - 0 level
+hop - 0 predictions
+hop - 1 predictions
+http : //goo.gl/language/ query-wellformedness
+https : // github.com/bdhingra/ga-reader
+https : // github.com/donglixp/coarse2fine
+https : // github.com/wprojectsn/codes
+https : //github.com/ allenai/scicite
+https : //github.com/ datquocnguyen/jPTDP
+https : //github.com/ easonnie/multiNLI_encoder
+https : //github.com/Websail-NU /CODAH
+https : //rajpurkar.github.io/SQuAD -explorer/
+human - abstractive summaries
+human performance upper bound
+improved dynamic memory networks
+independent - answer loss
+individual feature - groups
+input sample X t
+intermediate fine - step
+intrinsic graph structural information
+joint F1 - score
+joint multilingual sentence representations
+joint post - training
+key - value pairs
+l 2 regularization [
+l 2 regularization term
+l 2 regularizer strength
+l 2 weight decay
+label sequence optimization layer
+lan - guage model
+large - cased models
+large - scale corpus
+large - scale dataset
+large - scale datasets
+large - scale question
+large more 300 K
+last 2400 bi-skip model
+last attention - layer
+last time - step
+latent stochastic attention mechanism
+learn contextsensitive convolutional filters
+least 1.7 % decline
+least one correct type
+less 1 % deprovement
+level - attention mechanism
+light - weight model
+lighter machine learning models
+linear support vector machine
+linguistic feature engineering methods
+local global inter-channel relations
+local inference enhancement layer
+longer flu - ent
+low - level information
+low - quality sentences
+low - resource cases
+low - resource conditions
+low - resource datasets
+low - resource languages
+lower Macro - F1
+massive Arabic word embeddings
+match - LSTM model
+maximum iteration number K
+maximum step T max
+mid-length text generation task
+mini-batch stochastic gradient descent
+minibatch stochastic gradient descent
+model AF - LSTM
+model ATAE - LSTM
+model fine - tuning
+more 0.5 % absolute
+more 1 % WER
+more 100 k questions
+much larger BookTest Corpus
+much larger feature length
+multi -instance multi-label model
+multi -level attention mechanism
+multi -path attention mechanism
+multi-domain natural language inference
+multi-head self - attention
+multi-hop representation learning process
+multi-label head selection problem
+multi-word - answer questions
+multiple - attention mechanism
+multiple Maximum Mean Discrepancy
+multiple computational layers version
+multiple entity - relations
+multiple entityrelations extraction task
+multiword - wise embeddings
+natural language inference networks
+natural language inference task
+natural language text generation
+network output w O
+neural - - words
+neural - network transformations
+neural machine translation architecture
+neural machine translation model
+neural multitask learning framework
+neural natural language understanding
+neural network baseline methods
+neural span prediction model
+new - - art
+new best - result
+new feature representation vector
+new neural network architecture
+next - token probabilities
+novel adversarial learning framework
+novel message passing mechanism
+novel multi-level attention mechanism
+novel multi-task learning architectures
+novel neural network architecture
+novel neural network model
+novel recurrent neural model
+novel similarity focus layer
+one - hot CNN
+one - hot features
+one - hot vector
+one - layer LSTM
+one - layer LSTMs
+one 100 random embeddings
+open - domain QA
+open - domain question
+open - domain setting
+open source ILP solver
+open source software library
+org : alternate names
+other CNN baseline methods
+other related sentence embeddings
+other three SWEM variants
+other three neural models
+other two semi-supervised methods
+output feature dimension d
+overall F 1 performance
+pair - wise discriminator
+pair - wise ranking
+paragraph - level model
+parallel - hierarchical approach
+part - ofspeech tags
+passage - question pair
+path - centric pruning
+per-minibatch L2 regularization strength
+perceptual front - end
+pertinent word semantics signals
+piecewise max pooling procedure
+point - wise surrogate
+pointer - generator decoder
+pointer - generator mechanism
+popular / rare word
+position - aware mechanism
+position - aware term
+position - weighted memory
+positive negative sentiment sentences
+possible negative sentence endings
+pre-trained Glo Ve vectors
+pre-trained R 3 model
+pre-trained Senna word embeddings
+pre-trained biomedical language representation
+pre-trained language model BERT
+pre-trained language representation model
+pre-trained semantic word embeddings
+previous best handengineered models
+previous best pipeline system
+previous deep learning model
+previous shortest dependency path
+previous single ensemble models
+previous transfer learning approaches
+query - passage pairs
+question - answer pairs
+question - answer path
+question - answering NLI
+question - paraphrase corpus
+read / write modules
+recent - Max Encoder
+recent coreference resolution model
+recurrency - free encoder
+right - aware target
+same Glove word vectors
+same fine - level
+scaffold - enhanced models
+second - order interactions
+second level sentence representation
+self - attention heads
+semantic text question similarity
+sentence - encoding model
+sentence - level embeddings
+sentence - level features
+sentence - summary pairs
+sentence / document representations
+sentence level transfer learning
+sentence pair classification task
+sentiment - related tasks
+separate content selection system
+sequence - tagging problem
+sequence - tosequence models
+sequenceto - sequence models
+sequential conditional random layer
+sequential decision making process
+sequential encoder - decoder
+sequential sentence classification task
+several previous reader models
+several strong complex approaches
+several text generation tasks
+short - term memory
+short text generation tasks
+significance T - test
+similar average test accuracy
+similar dependent reading strategy
+simple -context Seq2Seq baseline
+simple cosine similarity function
+simple graph convolution network
+simple logistic regression model
+simple neural ranking model
+simple sequential sentence encoder
+simpler word composition schemes
+simplified feature concatenation strategy
+single - NN structure
+single - classifier layer
+single - layer BiLSTM
+single - layer MLP
+single - layer biLSTM
+single - medical entities
+single - relation setting
+single - turn MC
+single BERT LARGE model
+single GTX 1080 GPU
+single NVIDIA K80 GPU
+single NVIDIA Titan Xp
+single Tesla P40 GPU
+single Titan X GPU
+single maxout hidden layer
+single recurrent sentence encoder
+small large graph dataset
+soft - sharing method
+speaker encoder training speakers
+standard LSTM sentence modeling
+standard attentional seq2seq model
+standard discriminative deterministic decoder
+standard pairwise ranking objective
+standard pre-trained word vectors
+state - action value
+state - changing triggers
+stochastic gradient descent optimizer
+strong extractive QA model
+structural other latent information
+subject - dependent experiment
+subject - dependent experiments
+subject - independent experiment
+subject - independent experiments
+summary - worthy content
+symmetric adjacency matrix designs
+syntactic tree - LSTMs
+target - dependent representation
+target - sensitive sentiments
+task - dependent grammar
+task - relevant features
+task - specific details
+task - specific loss
+task - specific manner
+task - specific parameters
+task - specific resources
+task - specific set
+task - specific tree
+task agnostic BERT EM
+temporal causal relation classification
+temporal causal relation extraction
+textual feature extractor network
+thin - stack implementation
+three - fold validation
+three - layer LSTMN
+three - way structure
+three datasets : RG65
+three dynamic routing strategies
+three four data sets
+three gated recurrent units
+three main sub parts
+three neural network models
+top - 10 candidates
+top - K candidates
+top - ical consistency
+top - level encoder
+top - ranked system
+top 5 slot types
+top 50 candidate spans
+top singe - model
+top span prediction models
+traditional cross entropy loss
+traditional machine learning classifiers
+traditional support vector machine
+traditional word type embeddings
+tree - LSTM block
+tree - neural network
+tree - structured LSTM
+tree - structured composition
+two - layer BiLSTMs
+two - layer LSTMs
+two - side representation
+two - stage framework
+two - stage state
+two Directed Acyclic Graphs
+two deep - systems
+two deep neural networks
+two distributional sentence models
+two main classification modules
+two more baseline models
+two neural network models
+two novel layer types
+two novel neural units
+two recurrent neural networks
+two sentence usability metrics
+two separate convolutional layers
+unbiased low variance gradients
+unconstrained least - squares
+unsupervised topic detection algorithm
+useful syntactic semantic information
+utterance - level LSTM
+utterance - level dependency
+utterance - level representations
+variable - length pieces
+variant VAE - S
+visual - semantic hierarchy
+visual - text data
+visual textual networks weights
+whole training process converges
+word - embedding layer
+word - embedding models
+word - embedding vectors
+word - level GRU
+word - level GRUs
+word - level embeddings
+word - level interactions
+word - level representations
+word - level semantics
+word - level systems
+word - order information
+word - vector LSTM
+word / character embeddings
+zero - short performance
+- - art baseline SNet
+- - art feature template
+- - art memory network
+- - art method CGU
+- - art method CMN
+- - art neural models
+- - art single models
+- - art unpublished models
+- - deep learning architecture
+- - domain test performance
+- - rank optimization problem
+- - shelf languagespecific embeddings
+- - words retrieval function
+- 0.3 BLEU points decline
+- CNN - non-static architecture
+- Supervised Neural Relation Extraction
+- deep neural network model
+- fer Sent sentence representations
+- fine - grained attentions
+- layer - CNN structure
+- level multimodal attention mechanism
+- ofdomain Brown test set
+- short term memory networks
+- wide convolutional neural network
+- word UMBC WebBase corpus
+0.001 0.0005 QA 10 k
+0.1 0.2 0.3 0.4 ]
+0.25 0.025 0.0025 0.001 ]
+0.5 0.1 QA 10 k
+0.65 % ROUGE - L
+0.68 BLEU - 4 point
+1 % F 1 score
+1 - - 1 proportion
+1 - 3 % increase
+1 - hop memory networks
+1 - layer fusion block
+1 - layer linear setting
+1 = 0.9 2 =
+1 question - word feature
+1.6 % absolute f1score improvement
+10 % - 15 %
+10 - fold cross validation
+10 20 40 80 paragraphs
+100 - dimensional GloVe embeddings
+100 - dimensional GloVe vectors
+100 - dimensional embedding vector
+100 x 36 size memory
+1e - 3 1 =
+1e - 3 learning rate
+2 - layer BiLSTM encoder
+2 - layer Bidirectional LSTM
+2 - way MTL model
+2 - way classification task
+2.6 % absolute accuracy improvement
+2.7 % points absolute improvement
+200 - dimension GloVE vectors
+200 - dimensional hidden states
+3 - way classification tasks
+3 / 4 th power
+3 10 6 1 =
+3 Bi - LSTM models
+3.2 % exact match accuracy
+300 - D word embeddings
+300 - dimension GloVe vectors
+300 - dimension word vectors
+300 - dimensional Glove vectors
+300 - dimensional word embeddings
+300 - dimensional word2vec vectors
+300D SPINN - PI encoders
+4 % absolute point improvement
+40.86 % F 1 scores
+400 300 300 feature maps
+4800 - dimensional combineskip vectors
+5 - fold cross validation
+5 - step memory net
+50 - dimensional SENNA embeddings
+5e - 5 learning rate
+6 - layer decoder Transformer
+64 - dimensional Polyglot embeddings
+88.868 87.504 F1 - scores
+95 22 % test accuracy
+AEN - Glo Ve ablations
+AWD - LSTM - MoS
+AWD - LSTM language model
+Aspect - Level Sentiment Analysis
+Aspect - Level Sentiment Classification
+Aspect - level Sentiment Analysis
+Aspect - level Sentiment Classification
+Aspect - level sentiment classification
+Aspect - term Sentiment Analysis
+Att - Input - CNN
+BERT : Bidirectional Encoder Representations
+BERT EM + MTB models
+BERTpair - QA - B
+BGRU + STP + TL
+BILSTM - ATT - G
+BM25 + Doc2query + BERT
+Bi - Ans - Ptr
+Bi - GRU - PE
+Bi - GRU - PW
+Bi - LSTM - CRF
+BiLSTM + C2A + Pas
+Binary phrase level sentiment classification
+Boston University radio news corpus
+CNN - RNF - LSTM
+CoNLL - 2012 English subset
+Comp - Clip + LM
+Context - Dependent Sentiment Analysis
+Cross - Domain Semantic Parsing
+Delta - memory Attention Network
+Directional Self - Attention Network
+EMNLP RepEval Shared Task leaderboard
+En - Fr - En
+Endto - end cold start
+Entailment - aware selective model
+Entailment Reward Augmented Maximum Likelihood
+Entity - Aware BERT SP
+Entity - Relation Task weight
+Estonian - English NMT system
+FFN nonlinear sub - layers
+FRequency - AGnostic word Embedding
+Frequency - Agnostic Word Representation
+GA - Ent / Anonym
+GeForce GTX TITAN Xp GPU
+GloVe 100 dimensional pre-trained embeddings
+Gumbel Tree - LSTM model
+ID - CNN - CRF
+IWSLT14 German - English datasets
+Image - caption retrieval results
+K = 100 feature maps
+K = 300 feature maps
+K separate logistic regression models
+Key - Value Memory Network
+Key - Value Memory Networks
+L 2 - norm regularization
+L 2 - regularization weight
+LCNN - VAE - Semi
+LR - Bi - LSTM
+LSTM + TA + SA
+LSTM - LSTM - Bias
+LSTM / Bi - LSTM
+Left - right n- grams
+Long - Short Term Memory
+Long Short - Term Memory
+Long Short Term Memory models
+Long Short Term Memory networks
+MAMCN + ELMo + DC
+MMA - NSE attention model
+MRE one - pass setting
+MULTI - EVIDENCE QUESTION ANSWERING
+MULTI - MODAL EMOTION RECOGNITION
+Multi - Granularity Alignment Network
+Multi - NLI development sets
+Multi - Paragraph Reading Comprehension
+Multi - Perspective - CNN
+Multi - Perspective - LSTM
+Multi - Perspective Context Matching
+Multi- sentimentresource Enhanced Attention Network
+N = 6 identical layers
+Neural Context - Sensitive Lexicon
+Neural Stored - program Memory
+OPEN - DOMAIN QUESTION ANSWERING
+Okapi BM - 25 benchmark
+Online Arabic sentiment analysis system
+PENN TREEBANK CORPUS DATA SET
+PMC full - text articles
+Parser - Interpreter Neural Network
+Product - Aware Answer Generation
+QA - BiLSTM / CNN
+RACE / SearchQA / NarrativeQA
+RB + TR + ML
+RM - SProp optimization algorithm
+RMR + ELMo + Verifier
+RNN layer size o =
+ROUGE - 2 RAML training
+SCNN - VAE - Semi
+SF +H F +b F
+SQ u AD dev set
+SWAG multiple choice sentence completion
+Sen - tencePiece 1 library
+Seq2seq + ROUGE -2 RAML
+Sequence - Level Knowledge Distillation
+Short - Time Fourier Transform
+Siamese Multi - Perspective CNN
+Soft - Hard - sharing
+Standard 1 - step model
+TD - LSTM - A
+TE3 Task C - Relation
+Target - Specific Transformation Networks
+Target - sensitive Memory Networks
+Task - Specific Tree Structures
+Top - 1 oracle metrics
+VAE - SVG - eq
+WebQSP - WD data set
+alternative recurrent neural network structure
+arbitrary encoder - decoder model
+aspect - aware sentence representations
+aspect - category sentiment analysis
+aspect - level sentiment analysis
+aspect - level sentiment classification
+aspect - specific attention layer
+aspect - term sentiment analysis
+aspect - term sentiment polarity
+aspect - tosentence attention mechanism
+average max - pooling features
+bAbI question - answering tasks
+baseline ESIM + ELMo system
+basic encoder - decoder architecture
+basic question - document interaction
+best Match - LSTM model
+bi-directional Long Short Term Memory
+bi-hemisphere domain adversarial neural network
+case - sensitive GloVe embeddings
+character - level convolutional network
+character - level language modelling
+complete multi-grained attention network model
+consistent substan - tial gains
+context - aware question attention
+context - level unidirectional LSTM
+context - sensitive convolutional filters
+continual few - shot learning
+cross - domain test set
+cross - entropy loss function
+cross - passage answer verification
+deep hierarchical recurrent neural network
+dimension R H x N_C
+document - level classification tasks
+document - level sentiment classification
+dynamic - critical reinforcement learning
+dynamic contextaware affective graph attention
+dynamical graph convolutional neural network
+effective domain - free contexts
+emotion - related functional connectivity
+end - toend memory network
+entailment Reward Augmented Maximum Likelihood
+entire TREC - CAR corpus
+entity - aware attention mechanism
+fastText 300 dimension word embeddings
+few top - level chunks
+fine - binary classification tasks
+fine - grained attention mechanism
+fine - grained feature abstraction
+fine - grained sentiment analysis
+fine - grained sentiment classification
+fine - targeted sentiment classification
+focal visual - text attention
+frequent document - answer pairs
+full - exponential search space
+full dual attention model Att
+general - purpose sentence representations
+general purpose neural network component
+global high - level feature
+graph regularization sparse linear regression
+happy sad angry textual conversations
+hierarchical self - attention mechanism
+high - level MANAGER module
+high - level feature representation
+high - level text transcription
+high - order alignment relationship
+https : //github.com / stanfordnlp/spinn
+https : //github.com/ taoshen58/DiSAN /tree/master/ReSAN
+https : //github.com/Cartus / AGGCN_TACRED
+inefficient multiple - passes issue
+input word / character embeddings
+instance - dependent reward baseline
+key - value attention mechanism
+key - value memory network
+key n-gram phrase / words
+large domain - specific corpus
+larger document - level corpora
+local region K 2 C
+loss - free compression rate
+low - dimensional vector embeddings
+low - level WORKER module
+low - level audio signals
+low - level semantic information
+low task - dependent loss
+many - - many relationships
+many - step relational reasoning
+many popular sophisticated NLP models
+many task - specific methods
+memory - less attention mechanism
+more 10 % absolute points
+more 19 % absolute point
+more 27 % absolute point
+more 5 % performance gain
+much lower cross - entropy
+multi-head self - attention mechanism
+multi-layered bidirectional LSTM - RNN
+multiple read / write cycles
+multisentiment - resource attention module
+neural bag - - words
+neural multiple context fixing attachment
+neural paragraph - level question
+new deep neural network architecture
+non-hierarchical one - layer sequence
+non-linearity function f = selu
+novel - sequence hybrid architecture
+novel Sub - Tree Parse
+novel Target - Specific Transformation
+novel bidirectional filter generation mechanism
+novel multilingual multi-task - model
+novel neural network model BiHDM
+novel pair - wise margin
+novel word - level approach
+one - hot bidirectional LSTM
+one - layer LSTM decoder
+one - way type datasets
+one NVIDIA Tesla P100 GPU
+one Nvidia 1080 Ti GPU
+one two location entity mentions
+open - domain word embeddings
+optimized C ++/ CUDA models
+original WMT16 Romanian - English
+original point - wise features
+overall sentence - level state
+passage - independent question representation
+phrasebased statistical machine translation system
+piece - wise store representations
+position - aware abstract representation
+position - aware attention mechanism
+position - aware attention model
+pre-trained 300D Glove 840B vectors
+pre-trained Glo Ve word embeddings
+pre-trained local context focus mechanism
+previous - - art results
+previous sentence - encoding models
+product - aware answer generator
+product - aware review representation
+reader - aware summary generator
+real - world deployable network
+real data distribution G oracle
+recent BiAttention + MRU model
+related document - level tasks
+same fine - tuning procedure
+same hidden state N h
+scalar - output feature detectors
+scalar signal L g c
+sentence - level answer- selection
+sentence - level attention mechanisms
+sentence - level relation extraction
+sentence - level sentiment classification
+sentence - pair classification task
+separate domain - specific scores
+sequence - level knowledge distillation
+short - term memory networks
+simple BERT + SRL model
+single - hidden layer MLP
+single - turn QA models
+single self - attention layer
+single visual - semantic hierarchy
+six factored data NMT systems
+small / large word CNN
+smaller BERT - base model
+soft self - attention modules
+span- selection oracle IR model
+spatial - temporal reasoning network
+speaker - discriminative embedding network
+special < UNK > token
+standard encoder - decoder model
+standard neural text classification models
+strong PA - LSTM model
+structure - infused copy mechanisms
+summarization model learn entailment knowledge
+syntax - free SA model
+t- test statistical analysis results
+target - sensitive memory networks
+target - specific word representations
+task - agnostic GloVe embeddings
+task - specific NLU architecture
+task - specific sentence representation
+task - specific tree structures
+text - acoustic input pairs
+three public EEG emotional datasets
+top - most sentence representations
+top beam - search result
+tree - structured network topologies
+trialand - error deletion operations
+two - layer BiLSTM encoder
+two - layer hierarchical attention
+two - way attention mechanism
+two Bi - GRU networks
+two C - LSTMs models
+two datasets : WMT14 English
+two different generative adversarial networks
+two one - layer LSTM
+two parameter - untied RSS
+two simple word matching features
+uni - bi- trimodal interactions
+universal language agnostic sentence embeddings
+useful multi-hop relational knowledge paths
+utterance - level bidirectional LSTM
+variable - length source sequence
+variable - length target sequence
+variable - length text sequences
+wellknown CR - CNN model
+whole Trivia QA dev set
+word + character representation model
+word - aspect fusion attention
+word - level RNN encoders
+word - level attention mechanism
+word - vector bidirectional LSTM
+- - art F 1 score
+- - art Graphstructured LSTM model
+- general - purposed language encoders
+0.0005 1 = 0.9 2 =
+1 - 2 - layer LSTMNs
+1 - dimensional convolutional neural network
+1.07 ROUGE - 2 recall score
+1.26 % /0.66 % /0.44 %
+1.57 ROUGE - 2 F1 improvement
+10 % absolute point performance improvement
+10 asynchronous gradient - update threads
+100 - D Glove 6B vectors
+113 k multiple - choice questions
+128 random image - caption pairs
+12GB Geforce GTX Titan X GPU
+2 % - 5 % improvements
+3.76 % f 1 - score
+300 - D Glove 840B vectors
+300 - D pre-trained Glove embeddings
+300 - dimension Glo Ve vectors
+300 - dimensional CBOW Word2vec embeddings
+300 - dimensional GloVe word vectors
+300D Glo Ve 6B pre-trained vectors
+4.7 % f 1 score improvement
+5 1E 5 1E 6 ]
+50 - dimensional Glove word vectors
+7 % absolute lower LAS score
+7.0 % respective average accuracy improvement
+AEN - Glo Ve - BiLSTM
+AEN - GloVe w/ o LSR
+AEN - GloVe w/ o MHA
+AEN - GloVe w/ o PCT
+AWD - LSTM - MoS baseline
+AWD - LSTM - MoS model
+Anserini open - source IR toolkit
+Aspect - term Semi-supervised Variational Autoencoder
+BERT - LSTM - large model
+BiLSTM - Attn + citation worthiness
+COMPUTE WORD EMBEDDINGS ON THE FLY
+Column - wise cross - attention
+FastQA / Fast QA - Ext
+Generative Multi - Hop Question Answering
+Glo Ve 300 dimensional word vectors
+GloVe - 840B - 300D vectors
+GloVe 100 - dimension word embeddings
+Intel Xeon E5 - 2680 CPU
+K different aspect - specific classifiers
+Kullback - Leibler importance estimation procedure
+LSTM + TA + SA model
+Lambda MART - Regression Tree algorithm
+Large - scale Simple Question Answering
+Long Short - Term Memory models
+MLDoc : cross - lingual classification
+Multi - Passage Machine Reading Comprehension
+Neural Network Named - Entity Recognition
+Nvidia GTX 1080 Ti graphic card
+RACE / SearchQA / Narrative QA
+RNN / CNN - Free Language
+SemBERT : Semantics - aware BERT
+Short Text Generation : Chinese Poems
+TEXTUAL ENTAILMENT / NATURAL LANGUAGE INFERENCE
+Term Frequency - Inverse Document Frequency
+Text Generation : EMNLP2017 WMT News
+Universal Language Model Fine - tuning
+XNLI : cross - lingual NLI
+answer span prediction style Question Answering
+aspect - level sentiment classification task
+available 300 - dimensional Glove vectors
+basic decomposable attention model DECATT word
+basic encoder - decoder model structure
+data - reliant deep learning models
+discrete latent - variable learning problems
+domainindependent general - purpose GloVe embeddings
+feature rich logistic - regression baseline
+fine - binary sentiment classification tasks
+fine - grained sentiment classification task
+fine - word - level information
+full 3 - - RNN model
+full Narra - tive QA task
+general - purpose intermediate meaning representation
+hard - - style parameter updates
+high - efficiency multilayer memory network
+incorrect sad - - happy cases
+inner product s = r w
+maximum tf .idf document retrieval score
+multi-dimensional / feature - wise attention
+multiple predicate - specific argument sequences
+new complex cross-domain semantic parsing task
+new effective neural network sequence model
+novel Attention Guided Graph Convolutional Networks
+novel Auto - Encoder Matching model
+novel deep dual recurrent encoder model
+novel joint post - training technique
+novel path - centric pruning technique
+one - dimensional convolutional neural networks
+one - layer architec - ture
+one 200 - dim CNN tv-embedding
+org : political / religious affiliation
+position - aware bidirectional attention network
+pre-trained 300D Glo Ve 840B vectors
+pre-trained dependency syntactic parse tree structure
+pre-trained language model word representation BERT
+pre-trained uncased BERT - base model
+reader - aware abstractive summary generation
+relevant - sentence - selection task
+single ensemble DR - BiLSTM models
+single visual - textual feature comparison
+six different emotion - related tasks
+six target - sensitive memory networks
+strong context - free benchmark model
+subject - independent EEG emotion recognition
+subword - level neural machine translation
+three different Recursive Neural Net models
+three popular biomedical text mining tasks
+train - dev - test data
+tree - short - term memory
+two 100 - dim LSTM tv-embeddings
+two document - level classification tasks
+two long short - term memory
+two open - domain QA tasks
+two simple effective convolutional neural networks
+utterance - level sentiment classification process
+valuable aspect - level interaction information
+word - level cross entropy loss
+worse cross - lingual transfer performance
+- - art AI - CNN model
+- - art C - GCN model
+- - art method Emotion - Meter
+- word dimension - wise alignment tensor
+0.1 0.3 0.5 0.7 1 2 ]
+1 2 3 4 100 feature maps
+100 - billion - word News corpus
+100 random single - token mask expressions
+2 - way - QG MTL model
+3.8 million Gigaword title - article pairs
+4 - gram Kneser - Ney model
+6.22 ROUGE - 2 F1 relative gain
+BiL - STM + SynFeat + ILP
+BiLSTM - Attn + section title scaffold
+CNNrand / CNN - static / CNN
+Comp - Clip + LM + LC
+Long Short - Term Memory - Network
+Majority - candidate - per-query - type
+Middle Text Generation : COCO Image Captions
+Multi - Hop Pointer - Generator Model
+PV - Cnt / CNN - Cnt
+RNN / CNN - free neural network
+additional log - linear extractive summarization model
+attention - long short - term memory
+bare SPINN - PI - NT model
+comprehensive meaningful sentiment - specific sentence representation
+context - aware affective graph attention mechanism
+default 70 - 15 - 15 split
+https : //github.com/Helsinki - NLP / prosody
+one NVIDIA GeForce GTX TITAN X GPU
+original one IWSLT14 German - English task
+pre-trained 100 - D Glove 6B vectors
+pre-trained 300 - D Glove 840B vectors
+pre-trained 300D Glo Ve 840B word embeddings
+single GTX TI - TAN GPU machine
+single Nvidia Geforce GTX 1080 Ti GPU
+standard term frequency - inverse document frequency
+state - ofart C - GCN model
+true - label question - answer pairs
+two - layer feed - forward network
+two separate sentence - level recurrent models
+zero - shot cross - lingual transfer
+10 - way - 1 - shot task
+2 layers + reset gate + d =
+2.20 GHz 16 core Intel Xeon E5-2660 processor
+5 - way - 1 - shot task
+512 dem = 100 K = 40 R
+BERT - pair - NLI - B model
+Bi - LSTM - CNN - CRF models
+Coarse - grain Fine - grain Coattention Network
+English - Estonian Estonian - English NMT systems
+Kneser - Ney 5 - gram language model
+LEARNING GENERAL PURPOSE DISTRIBUTED SEN - TENCE REPRESENTATIONS
+Seq2seq + selective + MTL + ERAML model
+cross - sentence n- ary relation extraction task
+two - layer LSTM encoder - decoder model
+- layer 600D Bidirectional Long Short - Term Memory
+2 + F1 / ROUGE - L / EM
+6r200 6 layers + reset gate + d =
+single - hidden - layer feed - forward network
+two - layer bidirectional Long Short Term Memory Networks
+2e - 3 1 - 3 7.5 - 4 ]
+10 - 10 10 - 10 8 - 8 convolutional kernel widths
+60 % / 20 % / 20 % training / validation / test ratio
+[ CLS ] + context + [ SEP ] + target + [ SEP ]
