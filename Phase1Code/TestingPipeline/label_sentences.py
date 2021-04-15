@@ -5,7 +5,7 @@ import pickle, re
 dictionary = {}
 
 def get_dict():
-    with open("../DataFiles/dictionary.txt", "r") as f:
+    with open("Phase1Code/DataFiles/dictionary.txt", "r") as f:
         lines = f.readlines()
         for line in lines:
             line = line[:len(line)-1]
@@ -149,11 +149,10 @@ def memm_viterbi(maxent_classifier, test_sentences):
 
 def main(data):
     get_dict()
-    model = open("../DataFiles/ner_labeler.pickle", "rb")
+    model = open("Phase1Code/DataFiles/ner_labeler.pickle", "rb")
     maxent_classifier = pickle.load(model)
     index = 1
     for path in data:
-        print(index, "/", len(data))
         index = index + 1
         for sentence_index in data[path]:
             wordlist, sentence_path = memm_viterbi(maxent_classifier, [data[path][sentence_index][1]])

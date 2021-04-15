@@ -1,15 +1,16 @@
 #from TestingPipeline import memm_ner, dep_parse, extract_info
-from TestingPipeline import classify_sentences, label_sentences, dep_parse, extract_info
+#from TestingPipeline import classify_sentences, label_sentences, dep_parse, extract_info
+import classify_sentences, label_sentences, dep_parse, extract_info
 import re
 
-with open("../DataFiles/sci-phrases.txt", "r") as f:
+with open("Phase1Code/DataFiles/sci-phrases.txt", "r") as f:
     words = list(f.readlines())
 f.close()
 for word in words:
     word = word[:len(word)-1]
 data = {}
 pattern = re.compile(r"(.+)\t(.+)\t(.+)\t(.+)")
-with open("../DataFiles/output.txt", "r") as f:
+with open("Phase1Code/DataFiles/output.txt", "r") as f:
     for line in f.readlines():
         line = line[:len(line)-1]
         parsed = pattern.search(line)
@@ -18,9 +19,6 @@ with open("../DataFiles/output.txt", "r") as f:
         else:
             data[parsed.group(1)][parsed.group(2)] = [parsed.group(3), parsed.group(4)]
 f.close()
-'''  
-print("Classifying sentences")
-data = classify_sentences.main()'''
 print("Labeling scientific terms")
 data = label_sentences.main(data)
 for path in data:
@@ -33,8 +31,7 @@ for path in data:
                     if labeled[0].lower() in word.lower():
                         found = True
                         break
-                if not found:
-                    print(labeled[0])
+               
 
 
 print("Creating dependency parse")
